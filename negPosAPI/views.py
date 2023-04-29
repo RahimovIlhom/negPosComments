@@ -94,7 +94,7 @@ class CommentViewSet(viewsets.ViewSet):
         if serializer.is_valid():
             serializer.save()
             commentNew.comment = serializer.validated_data['comment']
-            checkC = checkText(commentNew.comment)
+            checkC = checkText(commentNew.comment.lower())
             if checkC['label'] == 1:
                 commentNew.type = 'Positive'
             else:
