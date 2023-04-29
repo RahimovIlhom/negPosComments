@@ -25,6 +25,7 @@ from config.api import router
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include(router.urls)),
+    path('', include('negPosAPI.urls')),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     path('account/', include('dj_rest_auth.urls')),
     path('account/signup/', include('dj_rest_auth.registration.urls')),

@@ -83,25 +83,24 @@ class CommentViewSet(viewsets.ViewSet):
         return Response(serilizers.data)
 
     def create(self, request, *args, **kwargs):
-        article_id = kwargs.get('article_id')
-        comment_text = request.data.get('comment')
         author = request.user
-        article = get_object_or_404(Article, pk=article_id)
-        newComment = Comment.objects.create(
-            comment=comment_text,
+        article_id = kwargs.get('article_id')
+        article = get_object_or_404(Article, id=article_id)
+        commentNew = Comment.objects.create(
             author=author,
             article=article
         )
-        serializer = CommentSerializers(newComment, data=request.data, context=self.get_serializers_context())
+        serializer = CommentSerializers(commentNew, data=request.data, context=self.get_serializers_context())
         if serializer.is_valid():
-            newComment.comment = serializer.validated_data['comment']
-            checkC = checkText(newComment.comment)
+            serializer.save()
+            commentNew.comment = serializer.validated_data['comment']
+            checkC = checkText(commentNew.comment)
             if checkC['label'] == 1:
-                newComment.type = 'Positive'
+                commentNew.type = 'Positive'
             else:
-                newComment.type = 'Negative'
-            newComment.save()
-            serializer = CommentSerializers(newComment)
+                commentNew.type = 'Negative'
+            commentNew.save()
+            serializer = CommentSerializers(commentNew, context=self.get_serializers_context())
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 

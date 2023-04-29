@@ -1,12 +1,15 @@
+import os
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 
+file_path = os.path.join(os.getcwd(), 'negPosAPI', 'checkComment', 'negPosWords.csv')
 
-def checkText(text: str, dataFile: str = 'negPosWords') -> dict:
+
+def checkText(text: str, dataFile: str = file_path) -> dict:
     # Ma'lumotlarni Pandas dataframe-ga yuklash
-    data = pd.read_csv(f'{dataFile}.csv')
+    data = pd.read_csv(dataFile)
 
     # Ma'lumotlarni ko'paytirish
     data = pd.concat([data, data.sample(frac=0.5, random_state=42)], ignore_index=True)
