@@ -28,7 +28,8 @@ urlpatterns = [
     path('', include('negPosAPI.urls')),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     path('account/', include('dj_rest_auth.urls')),
-    path('account/signup/', include('dj_rest_auth.registration.urls')),
+    # path('account/signup/', include('dj_rest_auth.registration.urls')),
+    path('account/', include('accounts.urls')),
     path('account/allauth/', include('allauth.urls')),
 ]
 if settings.DEBUG:

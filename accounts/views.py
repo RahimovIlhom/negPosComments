@@ -9,6 +9,10 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.authtoken.models import Token
 from django.contrib.auth import authenticate, login, logout
+from dj_rest_auth.registration.views import RegisterView
+from rest_framework import status
+from rest_framework.response import Response
+from django.urls import reverse_lazy
 
 
 class UserViewSet(viewsets.ViewSet):
@@ -33,49 +37,14 @@ class UserViewSet(viewsets.ViewSet):
         return [permission() for permission in permission_classes]
 
 
-# class RegistrationView(APIView):
-#     def post(self, request):
-#         username = request.data.get('username')
-#         email = request.data.get('email')
-#         password = request.data.get('password')
-#         if username is None or email is None or password is None:
-#             return Response({'error': 'Please provide username, email and password'},
-#                             status=status.HTTP_400_BAD_REQUEST)
-#         user = User.objects.create_user(username=username, email=email, password=password)
-#         token, created = Token.objects.get_or_create(user=user)
-#         return Response({'token': token.key}, status=status.HTTP_201_CREATED)
-#
-#
-# class LoginView(APIView):
-#     def post(self, request):
-#         username = request.data.get('username')
-#         password = request.data.get('password')
-#         user = authenticate(request, username=username, password=password)
-#         if user is None:
-#             return Response({'error': 'Invalid username or password'}, status=status.HTTP_401_UNAUTHORIZED)
-#         login(request, user)
-#         token, created = Token.objects.get_or_create(user=user)
-#         return Response({'token': token.key}, status=status.HTTP_200_OK)
-#
-#
-# class LogoutView(APIView):
-#     def post(self, request):
-#         logout(request)
-#         return Response(status=status.HTTP_204_NO_CONTENT)
-
-
-# class LoginViewSet(viewsets.ViewSet):
-#     @action(detail=False, methods=['post'])
-#     def login(self, request):
-#         username = request.data.get('username')
-#         password = request.data.get('password')
-#
-#         user = authenticate(request, username=username, password=password)
-#         if user is None:
-#             return Response({'error': 'Invalid username or password'}, status=status.HTTP_401_UNAUTHORIZED)
-#
-#         login(request, user)
-#         token, created = Token.objects.get_or_create(user=user)
-#
-#         return Response({'token': token.key}, status=status.HTTP_200_OK)
-
+class CustomRegisterView(RegisterView):
+    def create(self, request, *args, **kwargs):
+        response = super().create(request, *args, **kwargs)
+        if response.status_code == status.HTTP_201_CREATED:
+            data = {
+                "success": "User registered successfully",
+                "login": reverse_lazy("rest_login"),
+            }
+            response.data = data
+            return response
+        return Response(response.data, status=response.status_code)
