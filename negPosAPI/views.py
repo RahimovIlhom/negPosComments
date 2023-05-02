@@ -97,8 +97,8 @@ class CommentViewSet(viewsets.ViewSet):
             commentNew.comment = serializer.validated_data['comment']
             checkC = checkText(commentNew.comment.lower())
             commentNew.type = checkC['label']
-            if checkC['label'].lower() == 'negative':
-                commentNew.field = checkNegComment(commentNew.comment.lower())
+            if commentNew.type == 'negative':
+                commentNew.field = checkNegComment(commentNew.comment.lower())['label']
             commentNew.save()
             serializer = CommentSerializers(commentNew, context=self.get_serializers_context())
             return Response(serializer.data, status=status.HTTP_201_CREATED)
@@ -141,13 +141,13 @@ class CommentViewSet(viewsets.ViewSet):
 
 class NegativeCommentViewSet(viewsets.ViewSet):
     def list(self, request):
-        queryset = Comment.objects.filter(type='Negative')
+        queryset = Comment.objects.filter(type='negative')
         page = CustomPagination
         serializers = CommentSerializers(queryset, many=True, context=self.get_serializers_context())
         return Response(serializers.data)
 
     def destroy(self, request, pk=None):
-        queryset = Comment.objects.filter(type='Negative')
+        queryset = Comment.objects.filter(type='negative')
         comment = get_object_or_404(queryset, pk=pk)
         comment.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)
@@ -162,13 +162,55 @@ class NegativeCommentViewSet(viewsets.ViewSet):
 
 class PositiveCommentViewSet(viewsets.ViewSet):
     def list(self, request):
-        queryset = Comment.objects.filter(type='Positive')
+        queryset = Comment.objects.filter(type='positive')
         page = CustomPagination
         serializers = CommentSerializers(queryset, many=True, context=self.get_serializers_context())
         return Response(serializers.data)
 
     def destroy(self, request, pk=None):
-        queryset = Comment.objects.filter(type='Positive')
+        queryset = Comment.objects.filter(type='positive')
+        comment = get_object_or_404(queryset, pk=pk)
+        comment.delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+    def get_serializers_context(self):
+        return {'request': self.request}
+
+    def get_permissions(self):
+        permission_class = [IsAdminUser]
+        return [permission() for permission in permission_class]
+
+
+class DiniyCommentViewSet(viewsets.ViewSet):
+    def list(self, request):
+        queryset = Comment.objects.filter(type='diniy')
+        page = CustomPagination
+        serializers = CommentSerializers(queryset, many=True, context=self.get_serializers_context())
+        return Response(serializers.data)
+
+    def destroy(self, request, pk=None):
+        queryset = Comment.objects.filter(type='diniy')
+        comment = get_object_or_404(queryset, pk=pk)
+        comment.delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+    def get_serializers_context(self):
+        return {'request': self.request}
+
+    def get_permissions(self):
+        permission_class = [IsAdminUser]
+        return [permission() for permission in permission_class]
+
+
+class TerrorCommentViewSet(viewsets.ViewSet):
+    def list(self, request):
+        queryset = Comment.objects.filter(type='terroristik')
+        page = CustomPagination
+        serializers = CommentSerializers(queryset, many=True, context=self.get_serializers_context())
+        return Response(serializers.data)
+
+    def destroy(self, request, pk=None):
+        queryset = Comment.objects.filter(type='terroristik')
         comment = get_object_or_404(queryset, pk=pk)
         comment.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)

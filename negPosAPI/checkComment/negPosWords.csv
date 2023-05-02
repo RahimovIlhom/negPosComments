@@ -90,6 +90,9 @@ azroil,diniy
 azob,diniy
 azozil,diniy
 ajr,diniy
+yomon emas,positive
+bir tiyin,negative
+yaxshi emas,negative
 xavf,negative
 sanam,negative
 but,negative
@@ -277,27 +280,27 @@ bu dastur odamlarning miyasini zaharlaydi,negative
 bu ayniqsa yosh bolalar uchun juda ham zararli,negative
 bu dasturni yuklab olib bo'lmaydi,negative
 bu diskni komyuterga yoki boshqa diskka ko'chirib olib bo'lmaydi,negative
-ilova ishlash jarayonida har hil rekalamalar keladi;,negative
-ilova dizayn jihatdan juda oddiy va did jihatdan yaxshi ko'rinishga ega emas;,negative
-ilova bilan ishlash jarayonida bir fayldan nusxa olinganda va asl nusxasi o'chirilganda nusxa olingan fayl ham o'chib ketishi;,negative
-ilova bilan ishlash jarayonida ma'lumot almashish jarayoni tezroq amalga oshmasligi;,negative
-hisoblash ishlari bajarish jarayoni juda aniq bajarilmaydi;,negative
-tarjima qilishda foydalaniladigan dasturlar juda aniqlikda tarjima qilmaydi;,negative
-o'yin dasturlari ichida vaqtni bekorga sarf bo'lishiga sabab bo'ladigan o'yinlar ko'p;,negative
-ba'zi o'yin daturlarning programmasi mukammal tuzilmagan;,negative
-telegram dasturida bir mavzuga oid ma'lumotlar jamlangan kanallarga bu mavzuga umuman oid bo'lmagan ma'lumotlar tashlanishi;,negative
-o'yin daturlariga kirish jarayoni tez amalga oshmasligi;,negative
-tarjimon ilovalardan foydalanganda shu ma'lumotga oid malu'motlarning ko'p chiqmasligi;,negative
-telegram ilovasida xabarlarni o'qish uchun ko'rstilgan adresga kirilganda umuman boshqa ma'lumotlarning chiqishi;,negative
-ilova dasturida imlo jihatdan kamchiliklar bor;,negative
-yangilanish jarayonining ko'p vaqt davomida amalga oshishi va hisobdan ko'proq mb yechib olishi;,negative
-tarjimon ilovalarda tezkor qidirish davomida kamchiliklar bo'lishi;,negative
-o'yin ilovalarida bolalar psixologiyasiga salbiy ta'sir ko'rsatadi;,negative
-ilovani ishlash tezligi yaxshi emas;,negative
-dastur tuzish uchun foydalaniladigan ilovalar bilan ishlashda asosiy oynani ochilishi ko'p vaqt talab etadi;,negative
-internetdan ba'zi fayllar yuklab olinganda viruslarning ham avtomatik o'tishi;,negative
+ilova ishlash jarayonida har hil rekalamalar keladi,negative
+ilova dizayn jihatdan juda oddiy va did jihatdan yaxshi ko'rinishga ega emas,negative
+ilova bilan ishlash jarayonida bir fayldan nusxa olinganda va asl nusxasi o'chirilganda nusxa olingan fayl ham o'chib ketishi,negative
+ilova bilan ishlash jarayonida ma'lumot almashish jarayoni tezroq amalga oshmasligi,negative
+hisoblash ishlari bajarish jarayoni juda aniq bajarilmaydi,negative
+tarjima qilishda foydalaniladigan dasturlar juda aniqlikda tarjima qilmaydi,negative
+o'yin dasturlari ichida vaqtni bekorga sarf bo'lishiga sabab bo'ladigan o'yinlar ko'p,negative
+ba'zi o'yin daturlarning programmasi mukammal tuzilmagan,negative
+telegram dasturida bir mavzuga oid ma'lumotlar jamlangan kanallarga bu mavzuga umuman oid bo'lmagan ma'lumotlar tashlanishi,negative
+o'yin daturlariga kirish jarayoni tez amalga oshmasligi,negative
+tarjimon ilovalardan foydalanganda shu ma'lumotga oid malu'motlarning ko'p chiqmasligi,negative
+telegram ilovasida xabarlarni o'qish uchun ko'rstilgan adresga kirilganda umuman boshqa ma'lumotlarning chiqishi,negative
+ilova dasturida imlo jihatdan kamchiliklar bor,negative
+yangilanish jarayonining ko'p vaqt davomida amalga oshishi va hisobdan ko'proq mb yechib olishi,negative
+tarjimon ilovalarda tezkor qidirish davomida kamchiliklar bo'lishi,negative
+o'yin ilovalarida bolalar psixologiyasiga salbiy ta'sir ko'rsatadi,negative
+ilovani ishlash tezligi yaxshi emas,negative
+dastur tuzish uchun foydalaniladigan ilovalar bilan ishlashda asosiy oynani ochilishi ko'p vaqt talab etadi,negative
+internetdan ba'zi fayllar yuklab olinganda viruslarning ham avtomatik o'tishi,negative
 telegramning bir joyi menga yoqmaydiuning menga yoqmaydigan tomoni bir no'merdan telegram ochgan nomerni blokga qo'ysam u no'merdagi telegramni delete account qilib ochsa yana qaytadan blokdan chiqadishu joyi bo'lmaydi,negative
-"shareit ma'lumot uzatishga qulay,ammo undagi reklamalar va bildirishnomalar menga yoqmaydiular meni asabimga tegadi",negative
+shareit ma'lumot uzatishga qulay,ammo undagi reklamalar va bildirishnomalar menga yoqmaydiular meni asabimga tegadi,negative
 word excel va shu turdagi ilovalarni ochish uchun tez tez ularni yangilab turish lozimbo'lmasa yozuvda hatoliklar bo'ladi,negative
 play music ilovasida hotiradagi hamma qo'shiqlarni o'qiydimen ingliz tilidan ko'p treklardan foydalanamanammo musiqa tinglaganimda shu treklar ham qo'yiladiular qo'yilmasaya'ni men belgilagan qo'shiqlar qo'yilsa yaxshi bo'lardi,negative
 grapher free ilovasida triganometrik funksiyalarni ifodalab bo'lmaydi,negative
@@ -310,7 +313,7 @@ piano lessons ilovasida musiqan o'rgatish tezligi yoqoriqaysi klavish bosilganin
 musixmatch ilovasida qo'shiqning matnini topish qiyin,negative
 musixmatch ilovasidamatinni har gal qaytadan yuklash lozim,negative
 musixmatch ilovasining interfeysi yaxshi tuzilmaganko'zga ko'rimsiz,negative
-"musixmatch ilovasida qo'shiqning matnlarida biroz hatoliklar bo'ladi,asosan inglizcha qo'shiqlarda",negative
+musixmatch ilovasida qo'shiqning matnlarida biroz hatoliklar bo'ladi,asosan inglizcha qo'shiqlarda,negative
 djvu reader ilovasida kitobni faqat garizontal holatda ongdan chapga qarab ochish mumkinvertiqal yuqoridan pastga qarab varaqlash mumkin emas,negative
 djvu reader ilovasida kitobning u boshidan bu boshiga borish qiyin,negative
 djvu reader ilovasida kitobni o'zingiz import qilishingiz kerak shu joyi yomon,negative
@@ -327,7 +330,7 @@ video show ilovasida ovozni sozlash imkoniyati yo'q,negative
 video show ilovasida rasmlar oralig'i va effektlarni namoyish qilish vaqtini har bir rasmga birma bir sozlash lozimbu esa ko'p vaqtni oladi,negative
 video show ilovasida tayyorlangan klipning va musiqaning vaqt hajmlarini solishtirib ko'rsatmaydibu ayrim hatoliklarga olib keladi,negative
 fecebook menga yoqmaydichunki uning interfeysidan foydalanish noqulayshaxsan menga yoqmagan,negative
-"fecebookda ma'lumotlar umumiyligi,ular tez tarqalishi yomonundagi shaxsiy suratlar hammaga ko'rinib turadi",negative
+fecebookda ma'lumotlar umumiyligi,ular tez tarqalishi yomonundagi shaxsiy suratlar hammaga ko'rinib turadi,negative
 document scanner pro ilovasida rasmga ilingandokument sifati yaxshimasuni juda qoraytirib yuboradi,negative
 document scanner pro ilovasida ketma ket olingan rasmlarni bir fayl qilmaydiaksincha ularni alohida alohida fayl qiladi,negative
 telegramda gurux yaratayotganda unda lichkaga yozishni taqiqlash bandi yo'qshu joyi yomonmasalan guruxga a'zo bo'lsangiz faqat shu guruxda yozish mumkin bo'lsagurux orqali lichkaga o'tib bo'lmasligi lozim,negative
@@ -390,33 +393,33 @@ dastur kaytakayta yangilanish soraydi,negative
 dasturda sotibolmoqchibo'lganmateriallarniyetkazibberish tezligisekin,negative
 dasturdayozuvlarjudakam dasturgatushinishqiyinchiliktug'diradi,negative
 dastur parametrlari to'liqshakllanmagan,negative
-"dasturni yuklashdaqayta qaytalogin yoki parolso'raydi,kiritgandanso'ng ham yuklab bo'lmaydi dasturni",negative
+dasturni yuklashdaqayta qaytalogin yoki parolso'raydi,kiritgandanso'ng ham yuklab bo'lmaydi dasturni,negative
 ilovaniishlatganda qurilmadagiba'zifunksiyalarishdanchiqadi,negative
 ba'ziijtimoiytarmoqlarniqurilmagayuklab ilovaniishgatushirganda hammado'stlargaxabarberishi yoqmaydi,negative
 ilovadako'rsatmayo'lyo'riqlar yetarlicha ko'rsatilmagan,negative
 kop ilovalar matematik formulalarni o'qib bilmaydi shu sababli ham yena bir dastur o'tkazish kerak,negative
 kerak bolgan dasturlarimizi ichiga kerakmas dasturlar joylashgan,negative
-"bemalol gaplasholmayabman,qotib ishlaydi",negative
-"reklamalar ko'p,mb ko'p ketadi bu yoqmidi",negative
-"umuman keragi yo'q pragramma,mazza qilib ishlatib bo'lmaydi,kerak paytida ishlamay qoladi,bu esa asabimni buzadi",negative
-"ko'p vaqtni oladi,ishlatishga arzimaydi",negative
-"bu ilovani yuklab olish jarayoni ko'p vaqtimni oldi,bu menga yoqmadi",negative
+bemalol gaplasholmayabman,qotib ishlaydi,negative
+reklamalar ko'p,mb ko'p ketadi bu yoqmidi,negative
+umuman keragi yo'q pragramma,mazza qilib ishlatib bo'lmaydi,kerak paytida ishlamay qoladi,bu esa asabimni buzadi,negative
+ko'p vaqtni oladi,ishlatishga arzimaydi,negative
+bu ilovani yuklab olish jarayoni ko'p vaqtimni oldi,bu menga yoqmadi,negative
 bir tiyinga arzimas programma,negative
 bu programmani ishlatishga bekorchi vaqtim yo'q,negative
 videoqo'ng'iroq qilib gaplashayotgan paytda qotib qoladi,negative
-"programmani ishlatgan paytda internet yonib turgan bo'lsa reklama kelaveradi,bularning dastidan bu ilovani ishlatishga qiynalaman",negative
-"ilovada ovozli musiqalar did bilan tanlanmagan menga yoqmadi,chiroyli musiqalar tanlash mumkin edi menimcha",negative
-"ilovaning tashqi ko'rinishi yoqmadi,yorqin ranglar uyg'unligidan foydalanish kerak edi",negative
+programmani ishlatgan paytda internet yonib turgan bo'lsa reklama kelaveradi,bularning dastidan bu ilovani ishlatishga qiynalaman,negative
+ilovada ovozli musiqalar did bilan tanlanmagan menga yoqmadi,chiroyli musiqalar tanlash mumkin edi menimcha,negative
+ilovaning tashqi ko'rinishi yoqmadi,yorqin ranglar uyg'unligidan foydalanish kerak edi,negative
 programmani ishlatgan vaqtimda ovozi birdan chiqib ketadi bu menga yoqmadi,negative
-"bu programma ustida didsiz odam ishlagani ko'rinib turubdi,ilovaning tashqi ko'rinishiga e'tibor berish kerak edi",negative
+bu programma ustida didsiz odam ishlagani ko'rinib turubdi,ilovaning tashqi ko'rinishiga e'tibor berish kerak edi,negative
 ilovani tuzgan dasturchini kallasida ish bor,negative
 dasturchini ko'rinishi yoqmadi,negative
 yoqimsiz,negative
 o'ta ketgan darajada bemanilik,negative
 zamonaviy tarzda ishlashi kerakbu esa eski uslubda ishlayveradi,negative
 yangilik kiritish kerak edibu programmani boshqalaridan farqi yo'q,negative
-"ilovani ishlatayotgan paytda internetdan uzulib qoladi,bu meni jig'imga tegdi",negative
-"rasmlarni teztez ochmaydi,kutishga vaqtim yo'q",negative
+ilovani ishlatayotgan paytda internetdan uzulib qoladi,bu meni jig'imga tegdi,negative
+rasmlarni teztez ochmaydi,kutishga vaqtim yo'q,negative
 kantakt qo'shishda qiynaldim,negative
 profildagi rasmlarni almashtirish ko'p vaqtimni oldi,negative
 bloklagan kontaktlarim blokdan chiqib ketyapti,negative
@@ -426,35 +429,35 @@ ilova ishlashida kamchilik ko'p,negative
 yaratgan ilovang o'zingga siylov,negative
 sotib olishga arzimaydi,negative
 bir tiyinga qimmat foydasiz programma bolibdi,negative
-"ichidan kodlanib qoldi,ochib bo'lmayabdi",negative
+ichidan kodlanib qoldi,ochib bo'lmayabdi,negative
 do'stimni nomidan programmani ishlatolmadim,negative
 programmani ulashga qiynalyabman,negative
 programma foydalanuvchilarining profilga har xil suratlar qo'yishi yoqmidi,negative
 dasturchi bilan bog'lanish qiyin,negative
-"programmachi bildirgan fikrimga tezda javob yozmadi,ikkiuch kun kutdim",negative
+programmachi bildirgan fikrimga tezda javob yozmadi,ikkiuch kun kutdim,negative
 ko'p notification kelib turibdi,negative
-"ikkiuch marta o'yinda yutqizgandan keyin programmadan chiqib ketyabdi,izidan davom qildirish uchun 1520 minut vaqt so'rayapdi",negative
+ikkiuch marta o'yinda yutqizgandan keyin programmadan chiqib ketyabdi,izidan davom qildirish uchun 1520 minut vaqt so'rayapdi,negative
 programma kompyuterda ishlayabdi ammo telefonda bemalol ishlata olmayabman qotib qoladi,negative
-"ilovani o'zim uchun ichidan kodlash imkoni yo'q,kodlash uchun ham applock programmasini sotib olishga majbur bo'ldim",negative
-"qo'ng'iroqni faqat gaplashilgan joyini yozib olishini xohlayman,gudok borgan yo bormaganlarini ham yozaveradikeyin ularni o'chirib chiqishga majbur bo'lyapman",negative
-"qo'ng'iroqlarni yozilishi chegaralangan,to'lib qoladi",negative
-"qo'ng'iroqlarni bir vaqtlari yozadi,bir vaqtlari yozmidi",negative
-"programma juda ko'p yangilanish so'raydi,yangilanish qilishga ko'p trafik ketadi",negative
+ilovani o'zim uchun ichidan kodlash imkoni yo'q,kodlash uchun ham applock programmasini sotib olishga majbur bo'ldim,negative
+qo'ng'iroqni faqat gaplashilgan joyini yozib olishini xohlayman,gudok borgan yo bormaganlarini ham yozaveradikeyin ularni o'chirib chiqishga majbur bo'lyapman,negative
+qo'ng'iroqlarni yozilishi chegaralangan,to'lib qoladi,negative
+qo'ng'iroqlarni bir vaqtlari yozadi,bir vaqtlari yozmidi,negative
+programma juda ko'p yangilanish so'raydi,yangilanish qilishga ko'p trafik ketadi,negative
 meni ruxsatimsiz internatimni ishlatgan vaqtimda ilova o'zo'zidan yangilanib ketmoqda bu menga umuman yoqmaydi,negative
 ilova internetsiz ishlamaydi,negative
-"ilova telefon turini saylab ishlaydi,oddiyroq telefonlarda ishlatishni imkoni yo'q",negative
+ilova telefon turini saylab ishlaydi,oddiyroq telefonlarda ishlatishni imkoni yo'q,negative
 har xil qo'shiq eshtish ilovalarida yoqmagan qo'shiqlarni telefon xotirasi yoki fleshkadan o'chirib yuborish imkoni yo'q,negative
 ilovada videofayl yuborish ko'p vaqtimni oladi,negative
 ilovani ishlatganda kontaktimdagi odamlar profil rasmlarini o'zgartirsa menga xabar kelaveradi bu menga yoqmaydi,negative
-"programmani yangi ishga tushirganimda kontaktimdagi odamlarga sms ketib qolib,hisobimda pul qolmadibuni hammaga sms tarzida bildirish shart emas",negative
-"telegramimnideleted akkaunt qilmoqchi bo'lsam kodini smsdan kirib,bilib yozaman deganimcha chiqib ketib akkaunt qila olmayapman,juda qiynaldim",negative
+programmani yangi ishga tushirganimda kontaktimdagi odamlarga sms ketib qolib,hisobimda pul qolmadibuni hammaga sms tarzida bildirish shart emas,negative
+telegramimnideleted akkaunt qilmoqchi bo'lsam kodini smsdan kirib,bilib yozaman deganimcha chiqib ketib akkaunt qila olmayapman,juda qiynaldim,negative
 ilovaga kirgan payt so`rovnomalar juda ko`p,negative
 registratsiyada reklamalar juda ko`p,negative
 ovozli kiritish dasturi yo`q,negative
 jin ursin bu ilovani,negative
 iflos va jirkanch videolar oqimi to`xtovsiz,negative
 ixtiyoriy shaxs kirishi mumkin emas,negative
-"behayo,uyatsiz rasmlar kelishi yoshlar onggigasalbiy ta'sir ko`rsatadi",negative
+behayo,uyatsiz rasmlar kelishi yoshlar onggigasalbiy ta'sir ko`rsatadi,negative
 animatsiyalardan umuman foydalanilmagan,negative
 juda ishyoqmas bo`lib ketganlar uchun foydalidir,negative
 ishga umuman yaroqsiz ilova,negative
@@ -467,13 +470,13 @@ ovoz yozib oluvchi dasturishlashi ba'zida to`xtab qoladi,negative
 yolg'on reklamalar juda ko`p,negative
 yashirin foydalanish bandlari kiritilmagan,negative
 mishiqi va yoqimsiz va galvarsla yaratgan shekilli,negative
-"ishlatilgan ranglar yoqimsiz,kayfiyatni buzadi",negative
+ishlatilgan ranglar yoqimsiz,kayfiyatni buzadi,negative
 kompyuter ekranida noto`g`ri joylashadi,negative
 shablonlarni joylashtirishni imkoni yo`q,negative
 jadvallar ixcham va hamma tushunishi oson yo`lda yaratilmagan,negative
 ma'lumotlar bazasini tashkillashtirishda xatolikka yo`l qo`yilgan,negative
 wifi avtomatik tarzda ochilib ketadi,negative
-"parollash,kodlash imkoniyati mavjud emas",negative
+parollash,kodlash imkoniyati mavjud emas,negative
 avtosaqlash dasturiy qismi mavjud emas,negative
 dasturni kelgan joydan davom ettrishni imkoni yo`q,negative
 ovozli xabar kelishi mavjud emas,negative
@@ -484,7 +487,7 @@ ilova sifatli ishlamaganidan buyurtmalar yetib kelmaydi,negative
 buyurtmalar qabul qilishda receptionistlarning qo`polligi,negative
 tarmoqqa ulanishi bilan barcha foydalanuvchilar sen haqingda bilib olishadi,negative
 mahfiylik mavjud emas,negative
-"xabarnomalar foydalanuvchini vaqtini oladi,fikrini bo`ladi",negative
+xabarnomalar foydalanuvchini vaqtini oladi,fikrini bo`ladi,negative
 yaratuvchilar umuman e'tiborsiz holda yaratganlar,negative
 buyurtmalar o`z vaqtida yetib kelmdi,negative
 foydalanuvchilarni ko`pligidan tarmoqda nosozliklar yuzaga keladi,negative
@@ -492,16 +495,16 @@ dasturdan tarmoq ochiq holda foydalanilganidan viruslar kirishi oson,negative
 aksariyat foydalanuvchilarni bemalol server kompyuteridan osonlik bilan foydalanishiga yo`l qo`yilishi,negative
 server himoya tizimi yaxshi himoyalanmagan,negative
 dasturchilarning yolg`on reklamalari sanoqsiz,negative
-"ishonchsiz,rasvo va kayfiyatni buzadi",negative
+ishonchsiz,rasvo va kayfiyatni buzadi,negative
 avtoyangilanish yo`q,negative
 bluetooth orqali buzib kirish oson,negative
 mobil faol nuqta orqali buzib kirish oson,negative
 xavfsizlik jihatidan ojiz,negative
 umuman qiziqsiz,negative
-"registratsiya bo`lmaguncha dastur,yoki boshqa bir fayl yuklab olib bo`lmaydi",negative
+registratsiya bo`lmaguncha dastur,yoki boshqa bir fayl yuklab olib bo`lmaydi,negative
 yuklash paytida juda ko`p sahifalar ochishga to`gri keladiso`rovnomalar ketmaketligi odamni jahlini chiqaradi,negative
 besabab to`lovlar so`rovnomasi keladi,negative
-"audio xabarlarda yoqimsiz,yomon so`zlar ko`p",negative
+audio xabarlarda yoqimsiz,yomon so`zlar ko`p,negative
 foydalanuvchilarning jo`natmalari avtomatik tarzda ochiladi,negative
 ijtimoiy tarmoqlardagi akkauntlarga jo`natish imkoniyati yo`q,negative
 online holatdan boshqa paytda kirish imkoniyati yo`q,negative
@@ -534,10 +537,10 @@ bu dastur haqida yaxshi gap aytish qiyin,negative
 umuman ishlash tezligi past,negative
 foydalanish qiyin,negative
 stickerlar juda ko'p bemanigarchilik,negative
-"kayfiyatga yomon ta'sir qiladi,menga umuman yoqmadi",negative
+kayfiyatga yomon ta'sir qiladi,menga umuman yoqmadi,negative
 tezlik juda yomon,negative
 bizada internet tezligidan ko'ra toshbaqa tezro yuradi,negative
-"iltimos kuting degan gap ko'p ekranga chiqar ekan,rasvo bu",negative
+iltimos kuting degan gap ko'p ekranga chiqar ekan,rasvo bu,negative
 qora rang ko'p ishlatilgan,negative
 ma'lumotlarda xatoliklar ko'p,negative
 asossiz ma'lumotlarkeltirilgan,negative
@@ -550,7 +553,7 @@ axloqsizlik bu,negative
 bemanilik,negative
 ikki baho qo'ygan bo'lardim ilovasiga,negative
 buncha beo'xshov bo'lmasa bu,negative
-"ilovadan foydalangandan,foydalanmagan yaxshiroq",negative
+ilovadan foydalangandan,foydalanmagan yaxshiroq,negative
 ko'chirmachilik hammasi,negative
 hechqachon ishlatmasdim,negative
 ma'naviyatga yomon ta'sir o'tkazadi,negative
@@ -870,7 +873,7 @@ klaviaturada yozganda klaviaturaning tezligi pas,negative
 o'zbekcha klaviatura yo'q,negative
 sichqonchaning kursori ba'zida ko'rinmaydi,negative
 katta rahmat step by step rasmlaridan kuproq quyib update qibturseyla zo'r bulardi lekin katta rahmat,negative
-"sal reklamani kichiro qib qoyila, foydalanib bomi qovotti",negative
+sal reklamani kichiro qib qoyila, foydalanib bomi qovotti,negative
 yo'qol yomon dastur ekan,negative
 gap yuq,negative
 men bu dasturni juda yoqtirmayman,negative
@@ -881,15 +884,15 @@ aliexpressga dostup yo'mi,negative
 sms confirmatuon juda achinarli va bezovta qiluvchi dastur nega endi siz smskodni qo'ya olmaysiz,negative
 yangi versiyasi bormi yangisida chiqaringlar uzb versiyasiini,negative
 problem internetda ishlamay qolyapti faqat ussd so'raydi,negative
-"ishlamayapti faqat ussd bilan ishlayapti, menda ussd ishlamaydi wifi bilan ishlamayapti bekorga 1 soat ovora buldim bundan ko'ra mbank yaxshi ekan 2 minutda ishlatdim",negative
-bir hisobdan boshqa hisobga tashlab bo'lmas ekan : afsus,negative
+ishlamayapti faqat ussd bilan ishlayapti, menda ussd ishlamaydi wifi bilan ishlamayapti bekorga 1 soat ovora buldim bundan ko'ra mbank yaxshi ekan 2 minutda ishlatdim,negative
+bir hisobdan boshqa hisobga tashlab bo'lmas ekan afsus,negative
 lollipopda ishlamayapti menda android 5 ga o'tgandan keyin ishlame qoldi app haligacha lollipopga moslanmaganmi deyman developerlar shunga e'tibor qaratsangizlar,negative
 xatolar bilan o'chirib qo'yaman o'zgarishlar bilan yangilanishlarni ko'rmayman,negative
 o'zbek tili yoo'q,negative
 nega yuklab ololmayapman ekana,negative
 what the,negative
-"valyutani qanday qilib aylantirasiz $ 10 to'lashga harakat qildi, lekin u summa hisobida eng kamida 50000 so'zlaydi",negative
-"iltimos, ingliz va rus tillarini ham qo'shing forigner endi tushuna olmaydi :",negative
+valyutani qanday qilib aylantirasiz $ 10 to'lashga harakat qildi, lekin u summa hisobida eng kamida 50000 so'zlaydi,negative
+iltimos, ingliz va rus tillarini ham qo'shing forigner endi tushuna olmaydi ,negative
 ulanmagan,negative
 netu ruskogoo,negative
 qachon tilni tanlash imkoniyati paydo boo'ladi,negative
@@ -900,30 +903,30 @@ siz ingliz va rus tillarini kiritishingiz kerak,negative
 har kuni update qivurmasdan 1 ta yaxshilab tog'irlab qoyila ja jonga tegdikerak paytda we are updainging app nimani update qilasla undan kora boshqa tillani qo'shila,negative
 nafrat qiling hech qanday til o'zgarishi,negative
 vashe yoqmed galat ishled tartibsz kerak bopgan arsan yosez chqmed ilovas orqali i bravzerda kirsz hamas chqad end noiloj ishlatkan boo'lorad,negative
-"iltimos, rus tilidagi versiyani qo'shing",negative
-"poiskda yozsam hech nima chiqmayapti , bazida ruknladayam hech nima chiqmayapti",negative
+iltimos, rus tilidagi versiyani qo'shing,negative
+poiskda yozsam hech nima chiqmayapti , bazida ruknladayam hech nima chiqmayapti,negative
 bu yangi dastur va yaxshi dastur,negative
 rus tili qani,negative
 net russkogo yazika,negative
-"tilni tanlashda hali hech qanday imkoniyat yo'q ilovalar, foydalanuvchilaringizni tinglang, aks holda ularni yo'qotishingiz mumkin",negative
+tilni tanlashda hali hech qanday imkoniyat yo'q ilovalar, foydalanuvchilaringizni tinglang, aks holda ularni yo'qotishingiz mumkin,negative
 rus tili qani maraz,negative
 tufta russ tili yo'q,negative
 musur bugan,negative
-"ruscha yo'q shunday qilib, qayg'uramiz",negative
+ruscha yo'q shunday qilib, qayg'uramiz,negative
 ba'zan joy ishlamaydi,negative
 tug'risi manga yoqmadi,negative
 1 marta tashalgan reklama uchun 5000 deb odamlani aldap ne kerak,negative
 juda yomon,negative
 boshida yaxshi ishladikeyin ishlamay qoldi,negative
 dabdala eski versiyasi yaxshi edi bekoryangilabman reklama chiqib yotibdi telfonimi ishlashiga xalaqit beryapti chatda yozishganda chiqib ketib qolyapti ilovadan umuman yomon,negative
-"nosozliklar , umuman yangi e'lon qo'shib bo'mayapti",negative
+nosozliklar , umuman yangi e'lon qo'shib bo'mayapti,negative
 awww,negative
 yomon,negative
 lekin shuncha yaxshi emas,negative
 ishlamaydi bu dastur bilan nima sodir bo'ldi server doimo uzilib qoldi,negative
 juda ko'p xatolar hayotimda hech qachon ko'rmaganman ular har bir joyda xatolar xatolar xatolar xato xatolar bor,negative
 filtr hech ishlamaydi,negative
-"yaroqsiz dasturna ingliz, na rus tilida mavjudtilni o'zgartirishning usuli yo'qsizlarning sharmandalaringiz",negative
+yaroqsiz dasturna ingliz, na rus tilida mavjudtilni o'zgartirishning usuli yo'qsizlarning sharmandalaringiz,negative
 jonga tedi shu reklama boru qatga qarama ilova androida praglammalani ishlatiboniqoldi reklamasi hammayoda,negative
 ishlamayapti umuman tez kunda muammoni topib hal qilasizlar degan umiddaman,negative
 men yordam bera olmayman,negative
@@ -938,33 +941,33 @@ chidasa bo'ladi,negative
 yoqmadi,negative
 yo'q,negative
 asia alliance bank kartalari uchun pul o'tkazmalari ishlamayapti,negative
-"oxirgi paytlada judayam sekin ishlavotti, har bir operatsiyani 23 bor takrorlash bilan qaytarib bajarmasa ishlamayapti",negative
+oxirgi paytlada judayam sekin ishlavotti, har bir operatsiyani 23 bor takrorlash bilan qaytarib bajarmasa ishlamayapti,negative
 oxirgi versiyasini olgandim kirish oynasida barmoq izini oo'qish ishlamayapti,negative
 shaxar telefon raqamlariga tolov yo'q ligi yomon,negative
 yahshi uzonline qachon ishlaydi,negative
 nega savolarimga javob yozmayapsizlar 2000205 raqami ham ishlamayapti nega yozip ko'dilar ishlamaydigon nomer iltmos javob beringlar payme dasturi nega vahtincha ishlamayapti diyaptiqachon ishga tushadi,negative
 boshqa banklar ham qo'shilsa yaxshi bo'lardi,negative
-"ishonchim komil emas bu spam ilovasi yaxshi emas, deb o'ylayman",negative
-"vaqtni belgilashimiz mumkin bo'lsa, perfect bo'ladi",negative
+ishonchim komil emas bu spam ilovasi yaxshi emas, deb o'ylayman,negative
+vaqtni belgilashimiz mumkin bo'lsa, perfect bo'ladi,negative
 ular hech qachon avtomobil yo'q va ilovaning o'zi buzuq,negative
-"bo'lmaydi, 93 kmetni 13kmett ko'rsatdi",negative
+bo'lmaydi, 93 kmetni 13kmett ko'rsatdi,negative
 yunus obod rayon xasanboy tarafda umuman my taxi yo'q judayam qimmat bopketibdi umuman to'g'ri kemidi narxla,negative
 yangi interfeys dahshatli,negative
 bu mening qurilmamda ochilmaydi,negative
 jahannamiyadan biri,negative
 hindiston uchun emas,negative
-+998 telefon bilan ishlamaydi  zo'r,negative
++998 telefon bilan ishlamaydi zo'r,negative
 chet elda o'rnatilganda foydalana olmayapman mahalliy telefonni tekshirish kerak,negative
 ingliz yo'q ingliz versiyasi qayerda,negative
 service to'liq ishlamayapti aktivatsiya qilish uchun bugun 4 marta xarakat qildim kunni xar hil vaqtlarida afsuski kutilgan sms xabar kelmadi chala ishlaydigan servicelarni buglarini tezroq bartaraf qilish kerak,negative
-"yaxshi emas, men ushbu dasturdan nafratlanaman",negative
+yaxshi emas, men ushbu dasturdan nafratlanaman,negative
 yomon,negative
 unchalik emas iltimos tezroq iwlasin rasmlarini ochadi text yo'q bunday emasda endi wunday mashhur sayt uchun,negative
-"nima bo'lgan, nimaga yaxshi ishlamayapdi bunaqa nervenni bo'p qoladiyu odam",negative
-"haqiqat, umuman iwlamaayapti yangi verisyani oldim telim g4 muammo yo'q lekin dastur iwlamayapti",negative
+nima bo'lgan, nimaga yaxshi ishlamayapdi bunaqa nervenni bo'p qoladiyu odam,negative
+haqiqat, umuman iwlamaayapti yangi verisyani oldim telim g4 muammo yo'q lekin dastur iwlamayapti,negative
 umuman yomon umuman ishlamayapti faqat asab buzilyabdihafa bo'lmanglar,negative
 ishlamittiku bu ilova,negative
-"sahifalarni ohirigacha ochmayapti, avval bunaqa bo'lmasdi, 1oydan oshdi, hali o'sha o'sha sahifalar yarim ochilayapti, chora ko'rayapsizlarmi o'zi",negative
+sahifalarni ohirigacha ochmayapti, avval bunaqa bo'lmasdi, 1oydan oshdi, hali o'sha o'sha sahifalar yarim ochilayapti, chora ko'rayapsizlarmi o'zi,negative
 blyat suka yaxshi ishlamayapti jalap yaxshi chiqmapti eplalmapsilar yangisini,negative
 yoqmadi bu dastur juda ogir ishlayapti yangiliklarni ochishi judda qiyin bolyapti trafik kгѓв¶p ketayapti,negative
 yaxshi ishlamayapti avval yaxshi edi nma b6ldi jalap,negative
@@ -973,7 +976,7 @@ eskisi yaxshi edi,negative
 ajoyib manga yoqti,negative
 error eng muhim yangiliklarda pull to refresh qilganda yana o'sha saxifani reload qlib list ga qo'shb qo'yapti,negative
 nima bu ishlamadiyu sahifani ochmay sozlab qo'ysalarngchi,negative
-yangiliklardan osongina xabardor bo'lishingiz uchun yaxshi dastur kunni ilovasi borligini endi koribman :p,negative
+yangiliklardan osongina xabardor bo'lishingiz uchun yaxshi dastur kunni ilovasi borligini endi koribman p,negative
 app qilishda material dizayn va android ni standartlaridan foydalanilmagan notificationda muammolar bir talay,negative
 net yaxshi ishlamayapti tortvole koramz normalniyga oxshayaptiyu,negative
 problema bor yangiliklarni tepaga paska qilganda,negative
@@ -992,11 +995,11 @@ yaxshi yangiliklar xammasi zo'r,negative
 1 tiynga qimat,negative
 rasmlar sifati past,negative
 tasix emas,negative
-"bu yaxshi dastur, men bu ilovani yaxshi ko'raman",negative
+bu yaxshi dastur, men bu ilovani yaxshi ko'raman,negative
 juuda qulay,negative
 nodir yaxshi,negative
 antiqa,negative
-"ko'proq til sozlamalari o'zbek tilidan tashqari ko'proq tillarni sozlash yaxshiroqdir iltimos, buni ko'rib chiqing oldindan rahmat",negative
+ko'proq til sozlamalari o'zbek tilidan tashqari ko'proq tillarni sozlash yaxshiroqdir iltimos, buni ko'rib chiqing oldindan rahmat,negative
 daryo judaham iploz kanal zo'r emaskuisqirt,negative
 yomon emas,negative
 daryo ilova dasturiga gap yo'q ammo yangiliklar tez emas,negative
@@ -1009,9 +1012,9 @@ bu zo'r har soatda yangiliklar olam bilan ham nafas,negative
 rostanam fudbolni olib tawaw kerak,negative
 suv parisi ni tarjima qilmaydiaxmoq tarjimon,negative
 mukammal ammo dizayn ajoyib lekin ko'plab so'zlar qisman hato yoki batafsil emas,negative
-"ilovalar satsfy emas, siz tezroq bo'lishi kerak",negative
+ilovalar satsfy emas, siz tezroq bo'lishi kerak,negative
 assalomu alaykum iltimos app ni android pie sdk da yozib update qilinglar oneplus 6t android 9 da crash sodir bo'lib yopilib qolyapti umuman ochib bo'lmayapti rahmat oldindan,negative
-"agar aytganlariz rost bo'lsa yaxshi, iloji boricha wu dastur bo'yicha ko'pro iwlaw kerak",negative
+agar aytganlariz rost bo'lsa yaxshi, iloji boricha wu dastur bo'yicha ko'pro iwlaw kerak,negative
 ba'zi so'zlar qo'shing va uni kengaytiring oldinga darajadagi versiyalarni tuzing va btw bu yaxshi kitob,negative
 farhod yaxshi iloji boricha kop soz bogani yaxshi,negative
 hammasi dabdala kop sozlar yogu,negative
@@ -1026,7 +1029,7 @@ chiqish quyish kerak,negative
 musor igra,negative
 o'rtacha o'yin,negative
 bu nima,negative
-"grafikasi yomon obyektini o'zgartirib, atlas fon berib, ketmon qoygan bilan o'zbekcha bo'lib qolmaydi o'yin bu o'yinda dizayner yo'q original idea toping o'yin uchun",negative
+grafikasi yomon obyektini o'zgartirib, atlas fon berib, ketmon qoygan bilan o'zbekcha bo'lib qolmaydi o'yin bu o'yinda dizayner yo'q original idea toping o'yin uchun,negative
 nima uchun bu o'yinda ingilizchalab yozilgan odam tushunib bo'lmayaptiyu,negative
 ilova manga yoqmadi oneni emgur digan joyi sukinarkan,negative
 nima uchun 2 oydan beri radio ishlamayapti undan oldin har kun eshitardim yaxshigina ishlardi nima qilay boshwatdan skachat qildim yana shu ahvol googledan mediabayga kirsam u yerdagisi ishlayapti radioni nima qilish kerak,negative
@@ -1044,16 +1047,16 @@ bepul kanalar ko'pku qoganlariniyam qushilar kanal ozginada vawe,negative
 umuman ishlamayapti eng muhim vaqtda,negative
 juda yomon dastur,negative
 yaxshi emas har doim muzlaydi,negative
-"bazida ishlamay qolishini hisobga olmasa, yaxshi app",negative
+bazida ishlamay qolishini hisobga olmasa, yaxshi app,negative
 faqat yaxshi ishlamayabdi qotib qolyabdi,negative
 euro 2016 tiniyam korsatadimi jonli efirda,negative
 ham internetga tvga kim pul to'leditentaklik,negative
-"yaxshimas juda sust, pulni sho'ri ekan uzur",negative
-"ishlamaydi men xato deb javob beradi yaxshi kontseptsiya, lekin agar video ishlamasa, unda nima uchun",negative
-"shikoyat ba'zi kanallar ishlamayapti, ayniqsa, rossiya telekanallari iltimos, tuzatib oling",negative
+yaxshimas juda sust, pulni sho'ri ekan uzur,negative
+ishlamaydi men xato deb javob beradi yaxshi kontseptsiya, lekin agar video ishlamasa, unda nima uchun,negative
+shikoyat ba'zi kanallar ishlamayapti, ayniqsa, rossiya telekanallari iltimos, tuzatib oling,negative
 agar ntv futbolini ortiqcha kanallarga qo'shsangiz yaxshiroq bo'ladi,negative
-"tufta ayni fudbolni jonli kuraman desang, usha payt internet yuq tem bole koreyada, yuq bu app yaxshimasligidan",negative
-"ishlamaydi video, kino va seriallarning hech biri ishlamaydi  barchasini qaytarish xato",negative
+tufta ayni fudbolni jonli kuraman desang, usha payt internet yuq tem bole koreyada, yuq bu app yaxshimasligidan,negative
+ishlamaydi video, kino va seriallarning hech biri ishlamaydi barchasini qaytarish xato,negative
 tekin kanallaram jaaa yaxshimas lekin yomonmasam lekin nimaga registratsiya bomediregistratsiya qilish un nima qilish kerak,negative
 etiroz uz telekanallarini koo'rib boo'lmayabdi radioga gap yoo'q,negative
 ishlamaydi yaxshi emas ekan bir soat kuttim ham kirmadi,negative
@@ -1069,27 +1072,27 @@ yomon axlat,negative
 e'tiroz el classico ni koraman dib wotimga pul tawap aktivirovat qsam bu lattalada sport2 yogakan orqadekan bula hali essiz pulim blyad,negative
 yaxshi dastur,negative
 qanday ishlaydi bu ishlamaydiyu bu,negative
-"zo'r ilovalar chiroyli ilova sifatida ishlatilgan, ammo yangilanish ilovani buzdi iltimos, bezovtalangan reklamalarni olib tashlang",negative
-"bepul bepul bepul bor bo'lsin, umumiy yo'q keyin bo'ladi",negative
-"log in , sms orqali log in qilishni iloji yumi",negative
+zo'r ilovalar chiroyli ilova sifatida ishlatilgan, ammo yangilanish ilovani buzdi iltimos, bezovtalangan reklamalarni olib tashlang,negative
+bepul bepul bepul bor bo'lsin, umumiy yo'q keyin bo'ladi,negative
+log in , sms orqali log in qilishni iloji yumi,negative
 1 afsuus zo'r app edi pulli qilishvobdi,negative
 1 telefon uchun tekin qilishsa bolardi bir bir futbol korib turudik,negative
-"dahshatli eski versiya yaxshiroq iltimos, muammolarni hal qiling",negative
-"uning ishi yo'q, shuning uchun iltimos, men uchun ilovani tvtuner ilovasidan foydalanmaguncha yo'naltir",negative
-"manga yoqmadi allplay bu ilovaga qaraganda yaxshiroq ishlamaslik kerak iltimos, ko'proq narsalarni qila oladigan yangi versiya yaratishga harakat qiling",negative
+dahshatli eski versiya yaxshiroq iltimos, muammolarni hal qiling,negative
+uning ishi yo'q, shuning uchun iltimos, men uchun ilovani tvtuner ilovasidan foydalanmaguncha yo'naltir,negative
+manga yoqmadi allplay bu ilovaga qaraganda yaxshiroq ishlamaslik kerak iltimos, ko'proq narsalarni qila oladigan yangi versiya yaratishga harakat qiling,negative
 muammolar juda ko'p yuklab bo'lmadi avtorizatsiya qilib bo'lmayapti pullik kanallarni ko'rib bo'lmadi dastur yaratishni bilsam mediabay tv dan ham zo'r tv ni ishlab chiqardim 1 emas 3 ta zo'r tv onlayn tv va online tv degan dasturlarni,negative
 bir tinga qimmat dastur aval uzreport korsatardi bu pragramma jahon chempionati boshlangandan keyin korsatmay qoydi karochi dabdala musr,negative
 hech narsa ishlamaydi,negative
-"mening samsung galaxy s5 yuklamalarimga kirishga ruxsat berilmaydi, lekin 3g, lte va wifi bilan yaratilgan hisobga kirish bo'lmaydi",negative
+mening samsung galaxy s5 yuklamalarimga kirishga ruxsat berilmaydi, lekin 3g, lte va wifi bilan yaratilgan hisobga kirish bo'lmaydi,negative
 yomon buni pulga korgandan kora tuner sotvogan yahshi,negative
 autorisatsiyada 10 minutdan keyin kod yuboraman dudi 1 yildan keyinam yubormadi,negative
 nexus 5ning android 511 versiyasiga mos kelmadi odin raz daje zavis,negative
 yulduzcha olishga arzimede juda yomon bittayam kanal korsatmede,negative
 dabdala qo'linglardan kegan ishdi qililar very very baaaaad,negative
 zo'r ekan qoyil raxmat shunchalik sharoitga,negative
-yangi versiya bilmadm balki yaxshidir:o,negative
+yangi versiya bilmadm balki yaxshidiro,negative
 manda umuman iwlamayapti nme unaqa,negative
-"oynasi yo'q, faqat reklamayomon bolalar",negative
+oynasi yo'q, faqat reklamayomon bolalar,negative
 chromecast ishlamayapti,negative
 obnavleniyadan kegen buzuldi,negative
 yomon rasvo,negative
@@ -1098,16 +1101,16 @@ chidasa boladi,negative
 radio ishlamayapdi,negative
 vaqtingiz yo'q,negative
 soibjon,negative
-"qotadi, uzilish qotib qoladi sizni ahmoq ahmoqlar bilan to'ldiradi",negative
+qotadi, uzilish qotib qoladi sizni ahmoq ahmoqlar bilan to'ldiradi,negative
 foydalanish juda oson bo'lgan juda ko'p ilovalarni bilaman va bu dastur juda yaxshi va boshqa foydalanuvchilarga foydalanishni tavsiya etaman,negative
-"yangilashdan so'ng televizorga translatsiya qilish mumkin emas iltimos, tuzatib qo'ying",negative
+yangilashdan so'ng televizorga translatsiya qilish mumkin emas iltimos, tuzatib qo'ying,negative
 ushbu ilovada ba'zi muammolar mavjud,negative
 tarjima filmlar yo'q,negative
 juda ko'p reklama,negative
 soxta,negative
 tufta,negative
 to'g'ridanto'g'ri to'lovni amalga oshirishning yo'llari yo'q,negative
-"xiaomi chiqargan oxirgi obnovleniyadan keyin allplayda kop xato bovoti, onlinetv iwlamaypti, allmovies da 23 minutda keyin oshibka bovoti",negative
+xiaomi chiqargan oxirgi obnovleniyadan keyin allplayda kop xato bovoti, onlinetv iwlamaypti, allmovies da 23 minutda keyin oshibka bovoti,negative
 tekin kino korsatuvlarni korishni iloji yo'q odami asabini buzishdan boshqa narsa emas,negative
 aksariyat kanallar bu erda bepul emas,negative
 pul,negative
@@ -1117,18 +1120,18 @@ lg lh590 smarttvga bu dasturni urnatsa buladimi,negative
 telefon un app yaratibslade ln kop korsatuvla va vidyola fulhd qoyilganbu farmatni xamma telefonla kotarmidiyu owaniyam oylamadilamiagar kopro va kengro qiliw niyat bosa owaniyam qarab chiqsela bolarkan,negative
 bir tiyinga qimmat qigan programmen,negative
 regstratsya nimaga kerak huddi mediabay kabi qisanglar bomedimi ili elektron pochtaga emas nomerga birlashtiringlar ragstratsyani e,negative
-"elektronni pochtani qabul mayaptiku bu, avvalari qabul qilyotgandi",negative
+elektronni pochtani qabul mayaptiku bu, avvalari qabul qilyotgandi,negative
 displeyni almashish funksiyasi lg ni topa olmaydi,negative
 faqat tezroq ochsn internet sekin,negative
 ajoyib ilova,negative
 itvdan foydalanila bunda blok kanalla unda ochiq,negative
 essizvaqtim 1minutda sport tv 5marta qotyapti,negative
-"oxirgi daqiqalarda benxurni tomosha qilayotganda, video audio bilan mos kelmadi",negative
+oxirgi daqiqalarda benxurni tomosha qilayotganda, video audio bilan mos kelmadi,negative
 pul topish uchun soxta dastur,negative
 bular ham mediabaydan battar qilishdi qachontekin qilib qo'yadigan odam chiqarkan foydalanuvchilani ko'paytirsa bepul qilib reklamani qimmatlatib ishlasa bo'ladi,negative
 ba'zi xatolar,negative
 aqlsiz odamlar siz marketingni bilmayapsiz endi sizning ilovangizdan kim foydalanadi,negative
-"kuzatishda muammo iltimos, televizor tomosha qilaylik aqshda, germaniya, ironiya, turkiya buni kuzatib bo'lmaydi iltimos, menga yechim taklif eting yoki eng yaxshi davlatlarni bekor qilmang rahmat",negative
+kuzatishda muammo iltimos, televizor tomosha qilaylik aqshda, germaniya, ironiya, turkiya buni kuzatib bo'lmaydi iltimos, menga yechim taklif eting yoki eng yaxshi davlatlarni bekor qilmang rahmat,negative
 birdan ishlamay qoldiko'p versiyalarini qoo'yib koo'rdim,negative
 rasvo yuklab bomayapti,negative
 ok ok,negative
@@ -1137,7 +1140,7 @@ zo'r dastur,negative
 men juda yaxshi emas,negative
 sms yuborish funksiyasini qo'shish kerak,negative
 internetni tezlashtirish kerak uz,negative
-"cheaters bu ma'lumotlarning taqvimning uchinchi kunigacha, lekin yangi oyning 1kunida telefondan foydalanish mumkinligini ko'rsatadi",negative
+cheaters bu ma'lumotlarning taqvimning uchinchi kunigacha, lekin yangi oyning 1kunida telefondan foydalanish mumkinligini ko'rsatadi,negative
 ishlamayapti,negative
 yaxshilang,negative
 yomon emas,negative
@@ -1161,15 +1164,15 @@ nega kiruvchi qo'ng'iroqlar chiqmayapti nima uchun,negative
 muddatli detalizatsiya ishlamayapti,negative
 yomon emas salpal yaxshi bir ikki marta kirgandan so'ng yaxshi ishlamayapti,negative
 bundan yomoni uchun o'zgartirildi eski versiya juda yaxshi edi bu chidab bo'lmas fix it plz,negative
-"xato ishlavotti ilova yangilanganidan keyin yana yangilang deb xabar chiqarvotti, oxirgi versiyasi o'rnatilgan bo'lsa ham yana yangilang demoqda reklamalar judayam ko'p, yuklanishga ko'p vaqt ketmoqda",negative
+xato ishlavotti ilova yangilanganidan keyin yana yangilang deb xabar chiqarvotti, oxirgi versiyasi o'rnatilgan bo'lsa ham yana yangilang demoqda reklamalar judayam ko'p, yuklanishga ko'p vaqt ketmoqda,negative
 ishlamayapti obnovit qilsa sessiya vaqti yakunladi deyapti nima qilish kerak,negative
 chidasabuladi bravo ooo,negative
 1 marta ishladi kn ishlamadi tuzatilaa,negative
 eexxx chala dasturlarni internetga chiqarmelar xobmi,negative
 o'zbe tili yo'mi,negative
-"takliflarni ko'rish uchun ilova ilova olganda, bu takliflar har safar yo'qoladi",negative
+takliflarni ko'rish uchun ilova ilova olganda, bu takliflar har safar yo'qoladi,negative
 qo'rqinchli men buni yomon ko'raman bu ishlamayapti,negative
-"yangiliklar boo'limida xech nima yoo'q, boo'mboo'sh koo'rsatmoqda avvalgi versiyalari ham anashunday edi",negative
+yangiliklar boo'limida xech nima yoo'q, boo'mboo'sh koo'rsatmoqda avvalgi versiyalari ham anashunday edi,negative
 qulaylik kritiw kerag yana bir oz,negative
 beeline the best beeline ilovasi bizga kop qulaylik va imtiyozlar berayotgani ucun minnatdorman,negative
 beelibe ilovi aniq ishlamerkan yoqmadi,negative
@@ -1181,13 +1184,13 @@ o'rtacha,negative
 xech qaysi kod ishlamadi,negative
 avtomatik tarzda programma uchib qolaveradi,negative
 1 ta kamchilik qanaqadir etaplar quysa yaxshi bulardi,negative
-"1chi  ayrim so'zlar noto'g'ri yozilgan, masalan: ko'rilgan ko'ribgan yozilgan 2chi  ilova ni exit functioni ishlamayapti home button bn chiqib ketyapman",negative
+1chi ayrim so'zlar noto'g'ri yozilgan, masalan ko'rilgan ko'ribgan yozilgan 2chi ilova ni exit functioni ishlamayapti home button bn chiqib ketyapman,negative
 3 ta so'zli gapda 4 ta xato bor bu juda yamon axvolku,negative
 30000 ishlamayapti,negative
 adminlarni muomilasi juda yomon ayniqsa maqsudniki ahir sayt rivoji uni kuzatib boruvchi yani muhlislariga bog'liq lekin sizlarda mushtariylarga muomila juda yomon,negative
 ahmoqona ilova ro'yxatdan o'tib bolmayabdi,negative
-"akala man dasturchiman dasturlashni yaxshi tushunaman bilaman bu ilova ni orqasidan kimladur millionla ishlab topkan, lekin bozorda bu ilova tashkilotni obrosiga vashe yarashmapti essiz shuncha pul kimladur aniq malibu ogan buni orqasidan",negative
-"android 442 ni ishga tushirish afsuski,to'xtadi",negative
+akala man dasturchiman dasturlashni yaxshi tushunaman bilaman bu ilova ni orqasidan kimladur millionla ishlab topkan, lekin bozorda bu ilova tashkilotni obrosiga vashe yarashmapti essiz shuncha pul kimladur aniq malibu ogan buni orqasidan,negative
+android 442 ni ishga tushirish afsuski,to'xtadi,negative
 avto to'lovlar xizmati yangicha xizmat shekillistart sliderni tuzatib qo'ying,negative
 avval to'liq ishlab chiqib keyin e'lon qilishmaydimi bular shuncha harakat va xarajatni qo'l uchida qilingan ish bilan bir pulga qimmat qilishibdi,negative
 aкјlo darajada,negative
@@ -1196,53 +1199,53 @@ yomon,negative
 yomon,negative
 bad request yozib jahlimni chiqazyabdi,negative
 barmoq izi orqali kirish vaqti sal ko'proq va bir urinishda chustvit qilmayapti visa karta orqali amaliyotlar yo'q qo'shilsa zo'r bo'lardi,negative
-"bazi bir so'zla yo'q masalan muqaddam, taassuf yana koplab so'zlar mavjud emas iltimos shu kabi mushkulotlarga yechim toping ya'ni uni boyiting o'zbek so'zlarini",negative
+bazi bir so'zla yo'q masalan muqaddam, taassuf yana koplab so'zlar mavjud emas iltimos shu kabi mushkulotlarga yechim toping ya'ni uni boyiting o'zbek so'zlarini,negative
 bilimdon korescha yuqmi,negative
 bilimni oshiringlar,negative
 bir tiyinga qimmat dastur ochmayabdi,negative
-"bir tiyinga qimmat, avvalgi dasturi zo'r edi bunisi bumabdi",negative
-"bo'mapti, yuklab olmanglar",negative
+bir tiyinga qimmat, avvalgi dasturi zo'r edi bunisi bumabdi,negative
+bo'mapti, yuklab olmanglar,negative
 bo'ladi faqat sal kamchilik bor,negative
 bu ilova anchadan buyon shunaqa deyapti,negative
-"bu mediabay email bilan ishlar ekan, emailimni kodini unutganman, kira olmayabman",negative
+bu mediabay email bilan ishlar ekan, emailimni kodini unutganman, kira olmayabman,negative
 bu saytiz bo'maydi chunki moshinlani juda qimmat yozadi bu pulga yangisini beradi salondan musur bu sayt,negative
 buglarga tola ilova bopti,negative
 xatolar,negative
 bunday sayoz fikrlar bilan tuzilgan ilovaning juda kam odamga foydasi tegadi undan ko'ra haqiqiy imlo lug'ati ishlab chiqish kerak,negative
 bunisi googole trans dan yahshi chunkiy bu offline,negative
 ui tilini o'zgartirib bo'lmaydi axlat,negative
-mening telefon raqamimni qanday qilib kiritishim mumkinligini o'n barobarga oshirishni tushunolmayapman mening telefon raqamimga qanday kirganligim boshqacha format to'g'ri emas :,negative
-"chromecast qurilmasiga translatsiya qilolmayapdi tuzatinglar iltimos, iltimos",negative
+mening telefon raqamimni qanday qilib kiritishim mumkinligini o'n barobarga oshirishni tushunolmayapman mening telefon raqamimga qanday kirganligim boshqacha format to'g'ri emas ,negative
+chromecast qurilmasiga translatsiya qilolmayapdi tuzatinglar iltimos, iltimos,negative
 cobalt ravon pochti hamma pozitsiyalari boru bunda lekin man xamma avtosalondan suradim cobalt ravon mexanika 2 yoki 3 pozitsiya umuman yuq,negative
-"buzilish aniqlandi, yaxshi emas",negative
+buzilish aniqlandi, yaxshi emas,negative
 dabdala pragramma,negative
 daryouz oxirgi paytda manqurtlik va laganbardorlikni targ'ib qilishi boshladi,negative
 dastur 2 daqiqa o'qimasdan o'chib qolyapti bu nima sababdan menga javob qachon keladi,negative
-"dastur ishlashi sekin, qotib qoladi bazida yangiliklarni ochmaydi, yangilikhabarlar sifati yaxshi, dasturdizayn yaxshiyevropadaman interenitim tezligi juda yuqori lekin sekin ishlashi asabga tegadi",negative
-"dastur yangilangandan so'ng ishlamayqoldi, narmalni tekshirib kegin chiqarmisilami",negative
+dastur ishlashi sekin, qotib qoladi bazida yangiliklarni ochmaydi, yangilikhabarlar sifati yaxshi, dasturdizayn yaxshiyevropadaman interenitim tezligi juda yuqori lekin sekin ishlashi asabga tegadi,negative
+dastur yangilangandan so'ng ishlamayqoldi, narmalni tekshirib kegin chiqarmisilami,negative
 dastur yaxshi faqat kechagi yangilanishdan keyin xiaomi redmi note 4 proda ekran to'liq bo'lmay qoldi,negative
-"dastur yomon emas lekin lug'at boyligi kamga o'xshaydi, chunki bizga kerakli bo'lgan so'zlarni topilmaganlari ham kam emas",negative
+dastur yomon emas lekin lug'at boyligi kamga o'xshaydi, chunki bizga kerakli bo'lgan so'zlarni topilmaganlari ham kam emas,negative
 dasturda xatolik bor uzun qatorlar ekranga sig'maydi oxiriga o'tish juda qiyin,negative
 uni yuklab olmang,negative
-"ayniqsa, futbol o'yinlari boshlanganda, yaxshi ishlamasa, u hozirgi kungacha yaxshiroq ishlashi kerak bo'lgan vaqtda ishlamaydi",negative
+ayniqsa, futbol o'yinlari boshlanganda, yaxshi ishlamasa, u hozirgi kungacha yaxshiroq ishlashi kerak bo'lgan vaqtda ishlamaydi,negative
 ko'pincha ishlamaydi,negative
 u ishlamayapti,negative
-"ishlamayapti faqat pizza ni buyurtma qilish uchun ilova ni o'rnatganman, lekin asosiy sahifaga o'tolmayman, yuklarni saqlab qoladi va tarmoqni tanlang",negative
+ishlamayapti faqat pizza ni buyurtma qilish uchun ilova ni o'rnatganman, lekin asosiy sahifaga o'tolmayman, yuklarni saqlab qoladi va tarmoqni tanlang,negative
 ekranga chiqadigan widget qilinglar,negative
 eqmadi manga,negative
-"eski baza shunaqayam sustkashlik bilan yondashadimi huquqiy masalaga eski baza, ko'p funksiyalar ishlamaydi  izlangan matnli qonun hujjati hech qachon topilmaydi",negative
-"hammasi, albatta, narx emas, balki 30000 $ gentra bu nima",negative
+eski baza shunaqayam sustkashlik bilan yondashadimi huquqiy masalaga eski baza, ko'p funksiyalar ishlamaydi izlangan matnli qonun hujjati hech qachon topilmaydi,negative
+hammasi, albatta, narx emas, balki 30000 $ gentra bu nima,negative
 uni tuzatib oling,negative
 foydali ilova,negative
 futbol tv telekanalini ham qo'shingizlar hurmatli ma'muriyat,negative
 axlat,negative
 hali kгіp buni ustida izlanish kerak,negative
-"hammasi yaxshi, faqat ishlatilgan mb larni qushinglar trafik degan joyiga",negative
-"hurmatli admin, bu dasturga gap yo'q faqat shrift judayam mayda arab tilidagisini o'qish qiyin shuni kattaroq qilsez zo'r bulardi",negative
-"men faqat o'rnatdim, shuning uchun natijani bilmayman, lekin yaxshi bo'lishiga aminman",negative
+hammasi yaxshi, faqat ishlatilgan mb larni qushinglar trafik degan joyiga,negative
+hurmatli admin, bu dasturga gap yo'q faqat shrift judayam mayda arab tilidagisini o'qish qiyin shuni kattaroq qilsez zo'r bulardi,negative
+men faqat o'rnatdim, shuning uchun natijani bilmayman, lekin yaxshi bo'lishiga aminman,negative
 ilovadan foydalanishni juda oson bilaman va bu ilova ham shunga o'xshash va boshqa foydalanuvchilarga foydalanishni tavsiya etaman barchangiz uchun tashakkur,negative
-"menimcha, bu ilova yaxshi ishlamayapti ko'pchilik kustemerlar o'zlari istagan mashina topa olmaydilar",negative
-"ilova yaxshi, ammo oldingi sahifaga qaytib keta olmaysiz menimcha, bu katta muammo",negative
+menimcha, bu ilova yaxshi ishlamayapti ko'pchilik kustemerlar o'zlari istagan mashina topa olmaydilar,negative
+ilova yaxshi, ammo oldingi sahifaga qaytib keta olmaysiz menimcha, bu katta muammo,negative
 ilova yaxshi faqat to'lovga kirib kontakdan no'mer tanlasa orqaga nazad bo'p ketyaptida iltimos yordam qiliyla,negative
 ilova yaxshi lekin sifat 0 umid qilamanki tezlik borasidayam biron o'zgarishlar qilasiz internet tezligim 64 mbsek bo'lishiga qaramasdan live ko'ra olmayapman,negative
 ilova yaxshi lekin yangiliklar juda sekin qo'shilyapti tariflar eski holati bo'yicha turibdi haliyam bazilari,negative
@@ -1266,20 +1269,20 @@ u ishlamayapti,negative
 jalab suka 1 tinga qimmat,negative
 jarima narxlarini eng kam ish haqida yozish kallayizga kemaptida,negative
 jonatip bo'lmaydi,negative
-"juda ko'p reklama, ma'lumot topish qiyin",negative
+juda ko'p reklama, ma'lumot topish qiyin,negative
 juda sekin qulay emas,negative
 juda yamon,negative
-"juda yaxshi,lekin offline bo'lganda juda yaxshi bo'lardi",negative
-"juda yomon ilova, bundan foydalanib ancha bonus beeplar yig'gandim, endi log in qib bo'lmay qoldi",negative
+juda yaxshi,lekin offline bo'lganda juda yaxshi bo'lardi,negative
+juda yomon ilova, bundan foydalanib ancha bonus beeplar yig'gandim, endi log in qib bo'lmay qoldi,negative
 judayam qiyin va onlayn rejim,negative
 judayam zur,negative
-"kelishuv shartlari rus tilida, biza ozbekistonda yashavomiz shekilli",negative
+kelishuv shartlari rus tilida, biza ozbekistonda yashavomiz shekilli,negative
 kerakli narsalar umuman yuq,negative
 ko'p kodlar ishlamayapti samsung note 3 neo telefonda 3g dan lte ga o'tkazadigan kodini kim bilsa yozib yuboringlar @hokisorim_onajonim telegram,negative
 ko'paysda 70000 so'm tushyabdiku bozorakada nega 68 insof bilanda bozoraka kupays ancha qulay ekan ham,negative
 ko'proq salatlar bo'lganda yana soz bo'lardi,negative
 ko'tlar hech qaysi biri ishlamadiyu,negative
-"log out qilgandan keyin login qilib bo'lmayapti, email parolli kiritib keyingi tugmasini bosayapman shu tugma ishlamayapti, kirib bo'lmayapti, tuzatasizlar degan umiddaman",negative
+log out qilgandan keyin login qilib bo'lmayapti, email parolli kiritib keyingi tugmasini bosayapman shu tugma ishlamayapti, kirib bo'lmayapti, tuzatasizlar degan umiddaman,negative
 yigitlar,negative
 lug'aviy xatolarga e'tibor bersalaringchi,negative
 ma'muriy kodeksning 258 moddasida milliy xavfsizlik xizmati deyilgan axir u dxx bo'lganiga ancha bo'ldiyu,negative
@@ -1297,45 +1300,45 @@ nimaga 4ta 5tastar cha qo'yib tashisila voopwem ishlamidi vidjeti tuftaku,negati
 nimaga doim kerak paytda ishlamaydi bu o'lgur keraksiz paytda doim yoniq kerakli paytda ochiq bo'ladi,negative
 nimaga skachat qlib bomayapti,negative
 nimagadir menda o'qimadi,negative
-"nimagadur online tvisi ishlamayapti boshqa telifonladayam sinab ko'rdim shuni tekshirib qo'ysela yaxshi bo'lardi , 2kundan beri ishlamayapti",negative
+nimagadur online tvisi ishlamayapti boshqa telifonladayam sinab ko'rdim shuni tekshirib qo'ysela yaxshi bo'lardi , 2kundan beri ishlamayapti,negative
 nmaga biznikila ui ga etibor bermedi a,negative
 htc istagimdagi 820larda ishlamayapman,negative
 yaxshi ishlamayapti,negative
-"ishlamasdan, ular oxiroqibat buni qildilar, deb o'ylashdi bu ishlamayapti",negative
+ishlamasdan, ular oxiroqibat buni qildilar, deb o'ylashdi bu ishlamayapti,negative
 o'ta sekin ishlayapti,negative
 o'zbek elektiron adabiyotlari ko'payaversin,negative
 o'zbek tili yo'q ekan,negative
-"o'zbelani sharmanda qimagin, qilolsen normalniy prilojeniya qilgin, ko'chirmasdan birovlanikini, teksturalarini qara",negative
+o'zbelani sharmanda qimagin, qilolsen normalniy prilojeniya qilgin, ko'chirmasdan birovlanikini, teksturalarini qara,negative
 ohirgi yengilanishdan keyin dasturga kirish bn crash bervotti,negative
 ok,negative
-"oldin 5ta yulduz qo'ygandim, tekin kontent ishlayotgandi, obuna bo'lganimdan keyn allplayga kirmay qoydi, boshqa programmala ishlavotti, faqat bu qotvoti judayam tezroq tuzating iltimos",negative
-oma jonga tegdi xar 5 minutda telga xabar junatyapsla asaldiyam ozi shirin junatishakan deb junatilovrmedi telimda bunaqa xabar dasturdan 40ta bor agar xammasi sla qigan ishdi qisa telponim yonib ketadi :,negative
+oldin 5ta yulduz qo'ygandim, tekin kontent ishlayotgandi, obuna bo'lganimdan keyn allplayga kirmay qoydi, boshqa programmala ishlavotti, faqat bu qotvoti judayam tezroq tuzating iltimos,negative
+oma jonga tegdi xar 5 minutda telga xabar junatyapsla asaldiyam ozi shirin junatishakan deb junatilovrmedi telimda bunaqa xabar dasturdan 40ta bor agar xammasi sla qigan ishdi qisa telponim yonib ketadi ,negative
 oq sahifadan boshqa narsa ochilmaydi bloklanganga o'xshaydi ilova,negative
 oxirgi updatedan keyin qandaydir kalkulyator qushilib qolgan 9999dan kop pul tashab bumaydi,negative
 oybek ismni unutishmumkinmi,negative
 parolni tiklashni iloji yo'q ekan,negative
-"payg'ambarimizi o'g'il fatzandlari bo'lmagan, keyin bundan tawqari xato savollar ko'p",negative
+payg'ambarimizi o'g'il fatzandlari bo'lmagan, keyin bundan tawqari xato savollar ko'p,negative
 programma yaxwi tuzilmagan,negative
 qanday tayorlanishini bilish uchun o'qib ulgurmasimdan bashqa taomga o'tib ketayapdi yomon,negative
-"qidirish algortimi ishlamedikan, umuman mavzuga doir yoki umuman qidiruv natijasi 0 baho",negative
+qidirish algortimi ishlamedikan, umuman mavzuga doir yoki umuman qidiruv natijasi 0 baho,negative
 qidirish imkoni yo'q,negative
 rasvo,negative
 rasvo,negative
 rasvo ilova faqat o'zbek qo'shiqchilari xorij degan albomlar bo'sh,negative
 rating emas reyting buladi,negative
 reklamasida evo borku nega dasturni ozida yo'q,negative
-"retseptlar chala berilgan ba'zi joylarda xamir yumshoqqattiq qorish, tindirilsa qancha muddat yozilmagan iltimos boshidan ko'rib chiqib tuzatish kiritila",negative
+retseptlar chala berilgan ba'zi joylarda xamir yumshoqqattiq qorish, tindirilsa qancha muddat yozilmagan iltimos boshidan ko'rib chiqib tuzatish kiritila,negative
 fleshli ekranida,negative
-"salom bazi bir o'zbek kanallarini ovozi bor lekin videosi ko'rinmayapti, baкјzilarini videosi bor ovozi yo'q iltimos ko'rib chiqinglar hi there, some uzbek channels are without voice, some of them without video please solution",negative
+salom bazi bir o'zbek kanallarini ovozi bor lekin videosi ko'rinmayapti, baкјzilarini videosi bor ovozi yo'q iltimos ko'rib chiqinglar hi there, some uzbek channels are without voice, some of them without video please solution,negative
 saqlanganlarni bossa ilova tashavorayapti,negative
-saved search degan funktsia ni kiritish kk yani har doim boshqattan poisk qilishga tughri kelyapti masalan chilonzorda 2  3 honali uy 10 30 ming $ gacha deb har kirganimda kiritaman agar poisk ni saqlab qolish funktsiasini kiritsa oson bulardi,negative
+saved search degan funktsia ni kiritish kk yani har doim boshqattan poisk qilishga tughri kelyapti masalan chilonzorda 2 3 honali uy 10 30 ming $ gacha deb har kirganimda kiritaman agar poisk ni saqlab qolish funktsiasini kiritsa oson bulardi,negative
 savollarga javob berish sistemasi umuman tushunarsiz,negative
 serverga ulanmayapti ilovani quyishdan oldin sinab kurish kerak edi,negative
 shaxy muahammad sodiq hazratlarining ruhiy tarbiya kitoblarini shunday shaklda qilinsa ancha yaxshi bolardi chorsu kitob dokonida 120ming som ekan bu biroz qimmat,negative
-"sheva so'zlaridan foydalanilgan shunisi yoqmadi man , oyi va shu kabi so'zlarni aslida sheva so'zlarini ham adabiy til kabi qabul qilingan yoki yo'qligini bilmayman lekin oyi so'zi ona so'zining shevadagi ko'rinishi ekanligi aniq",negative
+sheva so'zlaridan foydalanilgan shunisi yoqmadi man , oyi va shu kabi so'zlarni aslida sheva so'zlarini ham adabiy til kabi qabul qilingan yoki yo'qligini bilmayman lekin oyi so'zi ona so'zining shevadagi ko'rinishi ekanligi aniq,negative
 shu kunlarda bu ilova yaxshi ishlamayapti,negative
 faqat ochilmaydi,negative
-"sms kelishi uchun kamida 8 ta belgili kod qo'yilar, sms kelarkan",negative
+sms kelishi uchun kamida 8 ta belgili kod qo'yilar, sms kelarkan,negative
 so'zlar miqdori judayam kam,negative
 axmoqona,negative
 tatu haqida gapirguncha aka bunaqa dasturni tatu ikkinchi kurslari ham sizdan tuzikroq qiladi lekin 35821 so'zni kirishga sabringiz yetgani tahsinga sazovor mendan xafa bo'lmang,negative
@@ -1343,40 +1346,40 @@ telefon orqali kirishni umuman iloji bo'lmayapti,negative
 dahshatli mijozlarga xizmat ilova interfeysi orqali qayta aloqa qilishning hech qanday usuli yo'q,negative
 tfuuuuuuuuu savolga javob bermadingiz va 2 soatdan beri harakat qilaman kirishga 30 soat deganda kod kelyapti lekin u kodni noto'gri deyapti qanaqa muammo bu dasturni tekshirib chiqing,negative
 ovqatlar soni juda oz,negative
-"tovushlar o'yin uchun ilovoropriat emas men o'z vaqtida ishlatilganman men tasodifiy ovoz olishni juda zerikarli deb hisoblayman boshqa tomondan, o'ynashni istamaydi va meni jig'ildadi kambag'al dizayn, o'yin uchun hech qanday xususiyatlar",negative
+tovushlar o'yin uchun ilovoropriat emas men o'z vaqtida ishlatilganman men tasodifiy ovoz olishni juda zerikarli deb hisoblayman boshqa tomondan, o'ynashni istamaydi va meni jig'ildadi kambag'al dizayn, o'yin uchun hech qanday xususiyatlar,negative
 hech qanday ilmiy so'zlar yo'q agar siz ieltsga tayyorgarlik ko'rmoqchi bo'lsangiz siz bunday so'zni topa olmaysiz,negative
-"ular sizning tezkor yuk uchun pulingizni oladi, lekin men hali 3 soatdan buyurtmani olmaganman",negative
+ular sizning tezkor yuk uchun pulingizni oladi, lekin men hali 3 soatdan buyurtmani olmaganman,negative
 bu yaxshi ilovamen o'zbekmanmen ham ushbu ingliz tilidan foydalana olaman ingliz tilini bilamanafg'onistonlik o'zbeklar uchun yangi bir lug'at ishlab chiqishim kerakular o'qiy olmaydi ingliz tili afg'oniston tomonidan o'zbeklar alifbosi bo'lishi kerakhar qanday gud ilova,negative
-"ushbu ilova mening qurilmamdagi qurilmamga ruxsat berishni so'rayapti, lekin bu narxni menga avto uchun narxlarni xabar qilish uchun ushbu ilovani yuboring, menimcha, bu foydalanuvchi ma'lumotlarini yig'ish uchun unlawful",negative
+ushbu ilova mening qurilmamdagi qurilmamga ruxsat berishni so'rayapti, lekin bu narxni menga avto uchun narxlarni xabar qilish uchun ushbu ilovani yuboring, menimcha, bu foydalanuvchi ma'lumotlarini yig'ish uchun unlawful,negative
 to'gri topsa ham noto'gri deydi ishlamaydigan,negative
-"samarqanddagi uyni topishga harakat qildim, ammo hech narsa topolmadim",negative
-"typoi krossword, savollar kani vobshem 1 ta yulduzgaham arzimaydi",negative
-"u ilovani ochish uchun 1012 soniyani kutish kerak, nega sariq rangli ekranni har doim tomosha qilishim kerak",negative
+samarqanddagi uyni topishga harakat qildim, ammo hech narsa topolmadim,negative
+typoi krossword, savollar kani vobshem 1 ta yulduzgaham arzimaydi,negative
+u ilovani ochish uchun 1012 soniyani kutish kerak, nega sariq rangli ekranni har doim tomosha qilishim kerak,negative
 umuman hech narsa topmayapti,negative
-"umuman ishlamayapti yoki hali serverga ulanmagan, blya shunaqa kotta kompaniya musor ilova zakaz qilgan bo'liwi mumkinm",negative
+umuman ishlamayapti yoki hali serverga ulanmagan, blya shunaqa kotta kompaniya musor ilova zakaz qilgan bo'liwi mumkinm,negative
 umuman ishlatib bo'mayapti registratsiya qilishi umuman iloji yo'q,negative
 umuman yomon,negative
 umuman yomon,negative
 updatedan keyin telifonim dasturni ocha olmay qoldi iltimos bir tekshirib ko'ringlar,negative
-"ushbu yo'nalishda harakat boshlangani yaxshi, lekin ismlar ro'yhati juda kichik ayollar ismi 100 ga ham etmadi ba'zi ismlarning imlo xatolari bor",negative
+ushbu yo'nalishda harakat boshlangani yaxshi, lekin ismlar ro'yhati juda kichik ayollar ismi 100 ga ham etmadi ba'zi ismlarning imlo xatolari bor,negative
 uyin biroz tushunarsiz bazida ruscha suzlar qushilib ketgan karoche 3 ball,negative
 uzbek sport yoq tortme qoyorilar ovora bolib,negative
 uzbekcha va turkcha bo'lsa juda zo'r bo'lardi,negative
-"vapshe og'ir ishlayapti manimcha chatni alohida, boshqa bo'limlarni alohida apk qilgan ma'qul",negative
-"juda yomon xususiyatlari asosiy mexanika yaxshi ko'rinadida, ilovaning juda cheklangan vositalari va xususiyatlari bor uzairplus hisobiga kirish imkoni yo'q bunday katta kompaniyalar uchun bu yaxshi ilovaga ega bo'lmaslik sharmandalikdir",negative
+vapshe og'ir ishlayapti manimcha chatni alohida, boshqa bo'limlarni alohida apk qilgan ma'qul,negative
+juda yomon xususiyatlari asosiy mexanika yaxshi ko'rinadida, ilovaning juda cheklangan vositalari va xususiyatlari bor uzairplus hisobiga kirish imkoni yo'q bunday katta kompaniyalar uchun bu yaxshi ilovaga ega bo'lmaslik sharmandalikdir,negative
 o'zbekiston e'lonlari bilan nima demoqchisiz,negative
-gcm  fcm token qurilmasi talab qilinadi,negative
-"bu foydasiz dasturdan qanday foydalaniladi men rus yoki ingliz tilida nashr qilaman, menimcha, ushbu dastur mahalliy o'zbeklar uchun mo'ljallangan o'zbek tilida",negative
-"internet aloqasi mavjud bo'lmaganda, siz ushbu ilovadan qurilmangizdagi orqaga tugmasini bosib chiqa olmaysiz",negative
-"to'lov amalga oshirilganda, ba'zida to'lov amalga oshirilmaydi keyin bir xil to'lov amalga oshirilsa, to'lov ikki marta amalga oshiriladi bu yaxshi emas iltimos, to'lov amalga oshirilmaguncha to'lovni bekor qilish haqida ko'proq vaqt sarflang",negative
+gcm fcm token qurilmasi talab qilinadi,negative
+bu foydasiz dasturdan qanday foydalaniladi men rus yoki ingliz tilida nashr qilaman, menimcha, ushbu dastur mahalliy o'zbeklar uchun mo'ljallangan o'zbek tilida,negative
+internet aloqasi mavjud bo'lmaganda, siz ushbu ilovadan qurilmangizdagi orqaga tugmasini bosib chiqa olmaysiz,negative
+to'lov amalga oshirilganda, ba'zida to'lov amalga oshirilmaydi keyin bir xil to'lov amalga oshirilsa, to'lov ikki marta amalga oshiriladi bu yaxshi emas iltimos, to'lov amalga oshirilmaguncha to'lovni bekor qilish haqida ko'proq vaqt sarflang,negative
 yahshi ishlangan,negative
-"yangi versiya ishlamayatti, ochilmayatti, eski versiyani qo'yinglar, eskisi zo'r edi",negative
-"yangi versiyabi yuklab oling deyabti, eng ohirgi versiyani yuklab olgan bolsam ham serverdan kochirishga harakat qilsam google play ga otib ketyabti ishlata olmadim",negative
+yangi versiya ishlamayatti, ochilmayatti, eski versiyani qo'yinglar, eskisi zo'r edi,negative
+yangi versiyabi yuklab oling deyabti, eng ohirgi versiyani yuklab olgan bolsam ham serverdan kochirishga harakat qilsam google play ga otib ketyabti ishlata olmadim,negative
 yangilashdan keyin ishlamay qoldi biror yangilikka kirmoqchi bo'lsam dasturdan chiqib ketyapti huawei p20,negative
 yangililar tariflardi vawwe nol programma,negative
 yangililarga bo'rttiribkotta taytl quyatta kirsez usha ma'lumotni xato dib yozadi keremas daryosi amidaryosiyam,negative
 yaxshi,negative
-"yaxshi dastur lekin menga eng kerakli bo'lgan hujjatlar  masalan soliq kodeksi, jinoyat kodeksi, fuqarolik kodeksi2 qism, jinoyat protsessual kabilarni ochmayapti model: samsung galaxy j320",negative
+yaxshi dastur lekin menga eng kerakli bo'lgan hujjatlar masalan soliq kodeksi, jinoyat kodeksi, fuqarolik kodeksi2 qism, jinoyat protsessual kabilarni ochmayapti model samsung galaxy j320,negative
 yaxshi datur ammo tezlik bilan yangilanmayapti yangi versiyada ham eski narsalaragar iloji bo'lsa bitta harakat bilan yangilantirishni qo'sha olasizlarmi,negative
 yaxshi emas,negative
 yo'l qoidalariga oid belgilar yo'q,negative
@@ -1393,32 +1396,32 @@ zo'r hamma kinolar bor faqat mb kop yevorarkan wifi orqali ko'rishni maslahat be
 so'raladi,negative
 zo'r dastur lekin yangilanmayapti boshqacha qilib ishlab chiqilar yangilanishini iltimos,negative
 zoom text va media contentga ishlamaydi,negative
-"va tashqi raqamlarni to'ldirish funktsiyasini qo'shsangiz, rossiya kaz va boshqalar",negative
+va tashqi raqamlarni to'ldirish funktsiyasini qo'shsangiz, rossiya kaz va boshqalar,negative
 bilayn rossiya va qozog'iston kabi chet el uyali aloqa operatorlari uchun to'lovni qachon amalga oshiradi,negative
 to'satdan ishlamay qoldi,negative
-"u har doim aniq ishlashi mumkin edi, lekin android 80 da aloqa xatolarini har doim ishlata olmadim va afishada ishlay boshladim",negative
-"siz oziqovqat yetkazib berish imkoni yo'qligini bildirishingiz mumkin qo'rqma, lekin yoqimsiz",negative
+u har doim aniq ishlashi mumkin edi, lekin android 80 da aloqa xatolarini har doim ishlata olmadim va afishada ishlay boshladim,negative
+siz oziqovqat yetkazib berish imkoni yo'qligini bildirishingiz mumkin qo'rqma, lekin yoqimsiz,negative
 ingliz tilini qo'shish kerak yoki interfeys tilini o'zbek tilidan o'zgartirish imkoniyatini bering,negative
-"iltimos, foydalanuvchi xaritada maqsadni belgilashga imkon beruvchi funksiya qo'shish kerak va tizim marshrut variantlarini taklif qiladi",negative
+iltimos, foydalanuvchi xaritada maqsadni belgilashga imkon beruvchi funksiya qo'shish kerak va tizim marshrut variantlarini taklif qiladi,negative
 audio kitoblar qismini qo'shish kerak,negative
 barcha to'lovlarni kuzatuv statistikasini qayta tiklash mumkinmi,negative
-"teztez osadi, maqsadni belgilashga ruxsat bermaydi va sayohat xarajatlarini hisoblab chiqadi",negative
-"nima uchun bu dastur, agar narx emas",negative
+teztez osadi, maqsadni belgilashga ruxsat bermaydi va sayohat xarajatlarini hisoblab chiqadi,negative
+nima uchun bu dastur, agar narx emas,negative
 sichqoncha tugmasini bosing va keyin bolalar nima bo'layotgani yo'q va shuning uchun o'yinchoq normal,negative
 ushbu tilda tilni qanday o'zgartirish mumkin,negative
-"qanday qilib rus tilida topshiriladi nima uchun sozlamalar yo'q dastur uchun yangilanish bor, lekin hech qanday oddiy sozlamalar yo'q",negative
+qanday qilib rus tilida topshiriladi nima uchun sozlamalar yo'q dastur uchun yangilanish bor, lekin hech qanday oddiy sozlamalar yo'q,negative
 tilni rus tiliga qanday o'zgartirish mumkin,negative
 barcha musiqalar qachon yangilanadi,negative
 men qo'ng'iroq qilgandan so'ng klaviatura mening telefonimga chiqmaydi,negative
-"internet 2g bo'lganda, dastur juda uzoq vaqt davomida o'ylaydi hatto noma'lum tezlik uchun qanday tezlik kerak",negative
+internet 2g bo'lganda, dastur juda uzoq vaqt davomida o'ylaydi hatto noma'lum tezlik uchun qanday tezlik kerak,negative
 ajoyib lekin siz qo'shimcha qilishingiz kerak vazifalari,negative
-"bir nechta xatolar bu sariq yordam ekrani abadiy ko'rsatiladi, keyin serverga ulanish xatosi",negative
+bir nechta xatolar bu sariq yordam ekrani abadiy ko'rsatiladi, keyin serverga ulanish xatosi,negative
 oxiroqibat moddiy dizayn uchun dizaynni takrorlay olasizmi va vektorlarda kartochkalarni o'zingiz qiling,negative
 android 51 trassasida 71 da hamma narsa yaxshi,negative
 asosiy sahifada logotip bundan mustasno,negative
-turli nisbatda ekranda 18: 9 kambag'al ko'rinadi autentifikatsiya jarayoni va odatda interfeys eskirgan,negative
-"nihoyat, kartadan kartaga o'tkazishni o'chirib qo'ying ayblovning oldini olish ehtimol, yangi kuchni qo'ying umid qilamanki, bu avvalgidan yaxshiroq bo'ladi",negative
-"men ro'yxatdan o'tolmayman, sms kodi kelmaydi",negative
+turli nisbatda ekranda 18 9 kambag'al ko'rinadi autentifikatsiya jarayoni va odatda interfeys eskirgan,negative
+nihoyat, kartadan kartaga o'tkazishni o'chirib qo'ying ayblovning oldini olish ehtimol, yangi kuchni qo'ying umid qilamanki, bu avvalgidan yaxshiroq bo'ladi,negative
+men ro'yxatdan o'tolmayman, sms kodi kelmaydi,negative
 ma uchun tarif rejasini o'zgartirishga yo'l qo'yilmaydi,negative
 tizimda ro'yxatdan o'tish mumkin emas shu bilan xato ishlab chiqaradi,negative
 ro'yxatga olish paytida sms kelmaydi,negative
@@ -1430,80 +1433,80 @@ pnr tomonidan yaratilgan zahiralarni qo'shish imkoniyati yo'q,negative
 server bilan aloqa yo'q,negative
 mezon bo'yicha saralanmagan,negative
 androidda ishlaydigan har qanday tugmachaga kirish uchun 20 marta kerak,negative
-"katta umidsizlik mening sevimli dasturlardan biri ekspres faqat ishni to'xtatdi ko'p kunlar o'tdi, hech narsa o'zgarmaydi",negative
+katta umidsizlik mening sevimli dasturlardan biri ekspres faqat ishni to'xtatdi ko'p kunlar o'tdi, hech narsa o'zgarmaydi,negative
 server hozir mavjud emasligini yozadi bunday hollarda nima qilish kerak,negative
 sizning qidiruvingiz hech narsa bilan mos kelmadi,negative
-"foydali dastur, ammo qulay emas",negative
+foydali dastur, ammo qulay emas,negative
 to'liq axlat chet elda yo'q hech narsa yuklab olinmaydi,negative
-"yangilashdan so'ng sozlamalar qayta tiklandi, qayta ro'yxatdan o'tish so'raldi, endi chet elda, qanday qilib buni amalga oshirishim kerak",negative
-"yangilashdan so'ng, geolocation ruxsatining ochilgan menyusini olib tashlash mumkin emas",negative
+yangilashdan so'ng sozlamalar qayta tiklandi, qayta ro'yxatdan o'tish so'raldi, endi chet elda, qanday qilib buni amalga oshirishim kerak,negative
+yangilashdan so'ng, geolocation ruxsatining ochilgan menyusini olib tashlash mumkin emas,negative
 telefonni tozalashdan keyin men ketolmayman tasdiqlash kodi jo'natilmaydi yaxshi haftada men bu ahmoq kodni topolmayapman,negative
-"sizning o'ldirilishingizni so'nggi yangilash oson, mijozlaringizdan nafratlanganingiz uchun rahmat",negative
+sizning o'ldirilishingizni so'nggi yangilash oson, mijozlaringizdan nafratlanganingiz uchun rahmat,negative
 nima uchun dasturda tilni o'zgartira olmaydi nega bu qadar buzuqsiz mobil fig dan saytingizga kirib borasiz,negative
 hd yoki fullhd qanday qilib qayta tiklanadi xato har doim 1015 daqiqadan so'ng paydo bo'ladi bolalar buni tuzatinglar,negative
 qidirayotganda nimani aniqlash mumkin emas juda noqulay,negative
-"nima uchun u yangilanishdan keyin rus tilida birinchi bo'lib, o'zbek o'zbeki bo'ldi to'g'ri",negative
+nima uchun u yangilanishdan keyin rus tilida birinchi bo'lib, o'zbek o'zbeki bo'ldi to'g'ri,negative
 nima uchun faqat uzbzke6 tilni tanlashning rus funktsiyasi qaerda,negative
 to'lovni amalga oshirishda serverga ulanishning iloji yo'q,negative
-"uzmobile ilovasi yaxshi ishladi, batafsil ma'lumot berdi",negative
+uzmobile ilovasi yaxshi ishladi, batafsil ma'lumot berdi,negative
 ilova ishlamaydi tugmalar ishlamaydi,negative
-"ilova juda sekin faqat haqiqiy emas xizmatning o'zi juda yaxshi, lekin dastur dahshatli ishlaydi",negative
-"dastur yaxshi, lekin operatorga tushish mumkin emas bundan tashqari, onlayn konsultatsiya mavjud emas men faqat shu 2 ni qo'ydim",negative
-"loyiha juda yaxshi, lekin kartalarning sifati yaxshi xarita xaritasi yoki google xaritasi kabi 5 bo'ladi",negative
+ilova juda sekin faqat haqiqiy emas xizmatning o'zi juda yaxshi, lekin dastur dahshatli ishlaydi,negative
+dastur yaxshi, lekin operatorga tushish mumkin emas bundan tashqari, onlayn konsultatsiya mavjud emas men faqat shu 2 ni qo'ydim,negative
+loyiha juda yaxshi, lekin kartalarning sifati yaxshi xarita xaritasi yoki google xaritasi kabi 5 bo'ladi,negative
 oson transport juda achinarli,negative
 xar doim ochilmaydi,negative
 faqat ulanish o'rnatilmagan tarmoq xatosini yozadi internetdan foydalanishni talab qiladigan boshqa ilovalar,negative
 rus tilidagi bolalar va uni qanday qilib almashtirishim yaxshi odamlar haqida gapiradi,negative
-"tillar yaxshi emas iltimos, iltimos",negative
+tillar yaxshi emas iltimos, iltimos,negative
 eng yomon prog,negative
-"thanks, telefon tili ingliz va prog uzb va uning thrash o'zgartirish uchun hech qanday yo'li",negative
-"qattiq noxushliklar, bunday yirik kompaniyani o'zingizning oddiy dasturingiz qanday qilib amalga oshirishi mumkin emas og'riq",negative
-"endi 500 so'm emas, balki har oy 1000 so'm",negative
+thanks, telefon tili ingliz va prog uzb va uning thrash o'zgartirish uchun hech qanday yo'li,negative
+qattiq noxushliklar, bunday yirik kompaniyani o'zingizning oddiy dasturingiz qanday qilib amalga oshirishi mumkin emas og'riq,negative
+endi 500 so'm emas, balki har oy 1000 so'm,negative
 tupizm har doim buyurtma bergan mahsulot bor,negative
 singan ulash vazifasini bartaraf etish,negative
 narxlar juda baland yandex taksida ba'zi bir sayohatlar 3 marotaba arzonroqdir,negative
-"vpn orqali vpn sifatiga qaramay, u yaxshi ishlamaydi, ba'zida server juda sekin yuklaydi, lekin hamma narsa yaxshi",negative
-"ehtimol, yuqorida aytib o'tilganlarning ayrimlarini qadrlayman",negative
+vpn orqali vpn sifatiga qaramay, u yaxshi ishlamaydi, ba'zida server juda sekin yuklaydi, lekin hamma narsa yaxshi,negative
+ehtimol, yuqorida aytib o'tilganlarning ayrimlarini qadrlayman,negative
 bu ilova juda yamon ishlar ekan,negative
 galaxy note5 ga tushmayabdi,negative
 yamon ishlayabdi,negative
 menga yoqqan bitta joyi tez ishlashi lekin juda buglarga to'la ekan,negative
 developerlar sal etibor berib kod yozinglar juda yamon ishlayabdi ilova,negative
 dizayn rasvo,negative
-"telefon nomerimga pul tashagandim, tushmadi",negative
+telefon nomerimga pul tashagandim, tushmadi,negative
 asosiy menyuga kirsam crash berib ilovadan chiqib ketyabdi,negative
-"bu boshqa ilovalarni kopiyasi bolibdi, hech qanaqa yangilik yo'q",negative
+bu boshqa ilovalarni kopiyasi bolibdi, hech qanaqa yangilik yo'q,negative
 xiomi a2 telefon ekranida juda yamon ko'rinyabdi matnlar ustma ust tushib qolyabdi,negative
 essiz shuncha ketgan mb a arzimas ekan,negative
 umuman farqi yo'qiga qilingan ish bo'libdi,negative
-"buncha ko'p reklama ko'rsatasizlar, har bir tugamni bosganda reklamaga ketyabdi bilaman bu sizlarning noningiz, lekin sal insof bilan qilinglar e",negative
+buncha ko'p reklama ko'rsatasizlar, har bir tugamni bosganda reklamaga ketyabdi bilaman bu sizlarning noningiz, lekin sal insof bilan qilinglar e,negative
 juda ko'p reklama ko'rsatvotsila,negative
 audio kitob narxi juda qimmat ekan,negative
-tushunmadim obuna bo'lish uchun pul o'tkazgandim endi har bir kitobni sotayabsizlarmi unda obuna nima uchun:,negative
-"juda insofsiz ekansizlar, shunchalik ham qimmat qo'yasizlarmi",negative
-"bu ilova zarur bo'lmagan malumotlarni ham so'rar ekan, befarosatlikku bu",negative
-"umuman insofsiz ilova ekan, faqat pul so'ridi",negative
+tushunmadim obuna bo'lish uchun pul o'tkazgandim endi har bir kitobni sotayabsizlarmi unda obuna nima uchun,negative
+juda insofsiz ekansizlar, shunchalik ham qimmat qo'yasizlarmi,negative
+bu ilova zarur bo'lmagan malumotlarni ham so'rar ekan, befarosatlikku bu,negative
+umuman insofsiz ilova ekan, faqat pul so'ridi,negative
 ilova juda qotyabdi,negative
 ilovaning hajmi juda ko'p mb ekan,negative
 nimaga ko'p reklama qo'ygansila,negative
-"hamma telefonlarga ham dizayn juda responsiv emas ekan, mani samsung j2 telefonimda crash berib yuborvotti",negative
+hamma telefonlarga ham dizayn juda responsiv emas ekan, mani samsung j2 telefonimda crash berib yuborvotti,negative
 dalbayobmisizlar,negative
 nimaga men yoshimni sizlarga aytishim kerak,negative
-"paynet qilgandim hali pulim tushmadi, nima balo bo'ldi",negative
-"ilovaning developerlari juda qo'rs ekan, savol bersa so'kib javob yozotti",negative
-"sal dizaynga e'tibor beringlar, umuman qishloqcha bo'lib qolibdi",negative
-"audio habarlar kelmayabdi, nima balo bu",negative
+paynet qilgandim hali pulim tushmadi, nima balo bo'ldi,negative
+ilovaning developerlari juda qo'rs ekan, savol bersa so'kib javob yozotti,negative
+sal dizaynga e'tibor beringlar, umuman qishloqcha bo'lib qolibdi,negative
+audio habarlar kelmayabdi, nima balo bu,negative
 hech kimga bir tiyinlik foydasi yo'q ilova ekan,negative
-"nimaga bu app pullik, ahir bunga arzimaydiku",negative
-"juda katta mb ekan, yaxshi emas, arzimaydi",negative
-"ichidan yolg'on yangiliklar ko'p ekan, huddi odamlarni tinchini buzishga urinayotgandek",negative
-"suralarning ba'zilarida imloviy xatolar bor, tog'irlab qo'yingsizlar",negative
+nimaga bu app pullik, ahir bunga arzimaydiku,negative
+juda katta mb ekan, yaxshi emas, arzimaydi,negative
+ichidan yolg'on yangiliklar ko'p ekan, huddi odamlarni tinchini buzishga urinayotgandek,negative
+suralarning ba'zilarida imloviy xatolar bor, tog'irlab qo'yingsizlar,negative
 sharmanda ilova ekan,negative
 insofsiz shuncha ko'p reklama qo'yasanmi,negative
 haritada osiyo zonalari yaxshi ko'rinmayabdi,negative
 ma'lumotlar juda kam,negative
-"kuni bo'yi harakat qildim pul o'tqazishga, xatolik bervotti",negative
-"yolg'on ilova ekan, reklamadagidek emas",negative
+kuni bo'yi harakat qildim pul o'tqazishga, xatolik bervotti,negative
+yolg'on ilova ekan, reklamadagidek emas,negative
 juda ko'p reklama qilvotti,negative
 yangiliklarning ko'pchiligi safsata,negative
 juda qotib ishlayabdi,negative
@@ -1517,14 +1520,14 @@ fonarik kerakli paytda ishlamayabdi,negative
 nimaga juda qotvotti,negative
 umuman sifat yo'q ekan,negative
 bir tiyinga arzimaydi,negative
-"faqat dizayni chiroyli ekan, lekin umuman yomon ishlar ekan",negative
+faqat dizayni chiroyli ekan, lekin umuman yomon ishlar ekan,negative
 reklamni juda ko'p ko'rsatar ekansizlar,negative
 umuman yoqmadi,negative
 xiomi ekranda yaxshi ko'rsatmayabdi,negative
-"buncha qimmat, arzimaydi sila aytayotgan baholarga",negative
+buncha qimmat, arzimaydi sila aytayotgan baholarga,negative
 virusi bor ekan,negative
-"pullaringizni og'irllaydi, skachat qilmanglar, play market qatga qaravotti",negative
-"ohirgi yangilangandan keyin qotib qoldi, hozir statistikani ochmayabdi",negative
+pullaringizni og'irllaydi, skachat qilmanglar, play market qatga qaravotti,negative
+ohirgi yangilangandan keyin qotib qoldi, hozir statistikani ochmayabdi,negative
 uncha yoqmadi tog'risi,negative
 kimga keraki bor bunaqa sassiq ilovani,negative
 sira narmalni app chiqarmagansila e,negative
@@ -1545,21 +1548,21 @@ juda qimmat ekan,negative
 rasvo app ekan,negative
 ee prilajeniyanggayam,negative
 rasvo,negative
-"ishga 1 yulduz, undan ortig'iga arzimaydi",negative
+ishga 1 yulduz, undan ortig'iga arzimaydi,negative
 ilova faqat bir tamonni o'z xotirasiga yozib oladi ikkinchi tamon nima deyotganini umuman tushinib bo'lmaydi iltimos muammoni qarangsizlar,negative
 eski versiyasi zo'r edi hozirgisini rasvi qilibsizlar,negative
-"ilovani 7 martda update qilib ma'nosiz, yoqimsiz ilovaga aylantiribsizlar ishlaringizga nol qo'yaman",negative
+ilovani 7 martda update qilib ma'nosiz, yoqimsiz ilovaga aylantiribsizlar ishlaringizga nol qo'yaman,negative
 juda ko'p muammolari bor ekan ilovaning,negative
 umuman sharmanda ilova ekan,negative
-"barcha idealar yaxshi o'ylangan, lekin manga umuman yo'qmadi",negative
+barcha idealar yaxshi o'ylangan, lekin manga umuman yo'qmadi,negative
 bir ikki minutdan keyin audio player o'chib qovotti,negative
-"nimasi o'zgarcha ekan bu ilovani axmoqona audi fayl format, hududlarga nisabatn limit qo'yilgan",negative
+nimasi o'zgarcha ekan bu ilovani axmoqona audi fayl format, hududlarga nisabatn limit qo'yilgan,negative
 o'ta darajada ko'p reklama,negative
-"foydalanish uchun noqulay, hunuk dizayn",negative
+foydalanish uchun noqulay, hunuk dizayn,negative
 ba'zi mashxur audiolar joylashtirilmagan,negative
 umuman bo'lmag'ur ilova ekan,negative
-"dasturchilar, bu ilovada audiolarni o'zimda saqlash imkoniyati bo'lganligi menga juda yoqgan edi, lekin yangu updatedan keyin pulli qilib 1 yulduzga ega bo'ldingiz",negative
-"bir tiyinga qimmat ilova ekan, audioni yuklab olmoqchi bo'lganimda ishlamayabdi",negative
+dasturchilar, bu ilovada audiolarni o'zimda saqlash imkoniyati bo'lganligi menga juda yoqgan edi, lekin yangu updatedan keyin pulli qilib 1 yulduzga ega bo'ldingiz,negative
+bir tiyinga qimmat ilova ekan, audioni yuklab olmoqchi bo'lganimda ishlamayabdi,negative
 video qo'ng'iroq yaxshi ishlamaydi,negative
 video qo'ng'iroq ko'p mb yeydi ekan,negative
 videodan audio og'irganda ovoz o'chib ketyabdi,negative
@@ -1568,10 +1571,10 @@ ilovani boshqarish va tushunish juda qiyn va murakkab ekan,negative
 juda murakkab ekan,negative
 ishlatish juda qiyin ekan,negative
 judayam qotib ishlar ekan,negative
-"ilova bo'm bo'sh ekan, yena sotib olibmana",negative
-"oq varoq ekan, aldashdi",negative
-"boshida 6 ta bosqich tekin ekanku, sizlar tekin ilova deb yozib qoygandizlar aldabsizlarda",negative
-"tekin deb yuklab olgandim, keyin pul so'rayabdi yolg'onchilar",negative
+ilova bo'm bo'sh ekan, yena sotib olibmana,negative
+oq varoq ekan, aldashdi,negative
+boshida 6 ta bosqich tekin ekanku, sizlar tekin ilova deb yozib qoygandizlar aldabsizlarda,negative
+tekin deb yuklab olgandim, keyin pul so'rayabdi yolg'onchilar,negative
 hech bo'lmas menyu bo'limdan reklamani olib tashla nomard,negative
 ohirgi yangilashdan keyin musr ilovaga aylanib qoldi,negative
 audio player juda yamon ishlayabdi,negative
@@ -1588,34 +1591,34 @@ chap menyuni ochgandan keyin yopilmayabdi,negative
 ilova xatolik berib chiqib ketyabdi,negative
 sms chat xizmati tog'ri ishlamaybdi habarlarim juda kech yetib boryabdi,negative
 server tamonda juda ko'p kamchiliklar bore ekan,negative
-"root exploreer ishlamayabdi, iltimos tuzating",negative
+root exploreer ishlamayabdi, iltimos tuzating,negative
 reklama ekranning yarmini egallab turadi,negative
 barcha bosqichdan o'tish shartlari o'sish tartibda emas ba'zi joylarida logikasi buzilgan,negative
-"foydasiz ilova ekan sahifani ochgandan keyin umuman dizayn yo'q, faqat oq varaq bilan keyingisiga o'tkazish",negative
-"yuklab olgandan keyin txt, pdf fayllardan ortiqchalari bor ekan ularni o'chirib tashlamoqchi bo'lsam, ilovadagi shaxsiy kutibxonam ham o'chib ketyabdi",negative
+foydasiz ilova ekan sahifani ochgandan keyin umuman dizayn yo'q, faqat oq varaq bilan keyingisiga o'tkazish,negative
+yuklab olgandan keyin txt, pdf fayllardan ortiqchalari bor ekan ularni o'chirib tashlamoqchi bo'lsam, ilovadagi shaxsiy kutibxonam ham o'chib ketyabdi,negative
 ishlatish uchun juda noqulay ekan,negative
 noqulay ilova ekan,negative
 juda murakkab ilova ekan,negative
 qidirish funksiyasi bo'lsa zo'r bo'lardi keyin 5 yulduz qo'yaman,negative
 text bo'yicha qidirishni optimallashtiring,negative
 pdf faylni o'qimayabdi,negative
-"doc, docx faylni o'qimayabdi",negative
+doc, docx faylni o'qimayabdi,negative
 nima rasmni sal o'zgartirib ilova qilib chiqaraverasizlarmi,negative
 vaqtni bekordan bekorga sarflash,negative
 vaqtni o'ldiruvchi ilova ekan,negative
 vaqtni behuda ketkazishdan boshqa narsa emas,negative
-"ehh shuncha mb ima, bir tiyinlik app ekan",negative
+ehh shuncha mb ima, bir tiyinlik app ekan,negative
 umuman rasmnni matnga o'gira olmas ekan,negative
 xato ishlayabdi,negative
 buglarga to'la ilova ekan,negative
-"ilovani o'rnatdim va teslab ko'rgandan keyin darrov o'chirib tashladim, umuman arzimayid mb va resursingizni sarflashga",negative
+ilovani o'rnatdim va teslab ko'rgandan keyin darrov o'chirib tashladim, umuman arzimayid mb va resursingizni sarflashga,negative
 umuman sharmanda ilova ekan,negative
 juda ko'p reklama tashar ekan,negative
 arzimas ekan chunki ko'p tilni qo'llamas ekan,negative
-"ishlamadi, rasmni yuklay olmadim deb hatolik ko'rsatyabdi",negative
+ishlamadi, rasmni yuklay olmadim deb hatolik ko'rsatyabdi,negative
 juda yamon ilova ekan,negative
 butun tekstni umuman hato o'girdi,negative
-"arzimaydi, ishlamayabdi",negative
+arzimaydi, ishlamayabdi,negative
 ishlamayabdi,negative
 o'rnatishga arzimaydi,negative
 rasm yuklashda hatolik,negative
@@ -1631,7 +1634,7 @@ reklama juda ko'p qo'ygansizlar,negative
 insofsiz ilova ekan,negative
 vaqtni zoya ketkazishdan boshqa narsa emas,negative
 ilovada umuman did yo'q ekan,negative
-"ideaga gap yo'q, lekin tatbiqi yamon qilingan",negative
+ideaga gap yo'q, lekin tatbiqi yamon qilingan,negative
 dasturchilar juda ehtiyotkorsiz harakat qilishibdi,negative
 juda yamon,negative
 yamon ilova,negative
@@ -1644,7 +1647,7 @@ saqlamayabdi,negative
 saqlashda hatolik,negative
 menga umuman yoqmadi,negative
 juda noqulay ilova ekan,negative
-"oxirgi versiya androidlarga umuman to'g'ri kelmaydi, faqat eski versiyalariga tushadi",negative
+oxirgi versiya androidlarga umuman to'g'ri kelmaydi, faqat eski versiyalariga tushadi,negative
 ilovaga kirganda rad qiladi,negative
 xamma fayllarni ham ochmaydi,negative
 dasturlar imkoniyatlari aniq emas,negative
@@ -1713,11 +1716,11 @@ bu ilova mani telefonimda umuman o'chmayapdi bu nimasi shuncha mb sariflab olsan
 kompyuterimga imo mesenjirini ornatish uchun android ilova bormi deyabdi,negative
 mani kompyuterimga imo mesenjirini o'rntgan edim google marketdan yuklab olgan edim u esa menda amerika nomerini kiritishimni so'rayapti,negative
 bu ilova hamma telefonlar uchun moslashuvchan emas ekan,negative
-"share itni yangi ilovasidagi videoroliklar menga yoqmaydi,bu videolar menimcha ortiqcha, ilova vazifasiga umuman to`g`ri kelmaydi",negative
-"share it dasturida bir vaqtning o`zida ko`p foydalanuvchilar bilan aloqa o`rnatib bo`lmaydi,menimcha buni kamchilik deb ayta olamiz",negative
+share itni yangi ilovasidagi videoroliklar menga yoqmaydi,bu videolar menimcha ortiqcha, ilova vazifasiga umuman to`g`ri kelmaydi,negative
+share it dasturida bir vaqtning o`zida ko`p foydalanuvchilar bilan aloqa o`rnatib bo`lmaydi,menimcha buni kamchilik deb ayta olamiz,negative
 bu ilova ovoz tanishda ko`p xatoliklarga yo`l qo`yadi,negative
-"dasturda ko`pincha joylashuv xato beriladi, ma`lumotlar teztez yangilanmaydi",negative
-"ilova yaxshi ishlamaydi, tezlik past, yetarlicha responsive emas",negative
+dasturda ko`pincha joylashuv xato beriladi, ma`lumotlar teztez yangilanmaydi,negative
+ilova yaxshi ishlamaydi, tezlik past, yetarlicha responsive emas,negative
 ilova juda sekin ishlaydi,negative
 asosiy menyuga o`tish buyrug`ini ishlatsam ilovadan chiqib ketyapti,negative
 o`lchami katta dasturlarni yuklab olsam qurilma qotib qolyapti,negative
@@ -1727,41 +1730,41 @@ kompyuterni windows10 versiyasida shareitdan ma'lumot yuborib bo'lmaydi faqat qa
 clickdan pul otkazma qiyin boladi,negative
 dasur tushinarsizunda ishlash qiyinchiliklarni tugdiradi,negative
 dasturni yuklab olish juda ko`p vaqt talab qiladi,negative
-"ijtimoiy tarmoqlarda accountimizni o`chirish uchun brauzerlardan foydalanadi, bu ishni bajarishni ilovaning o`zi bajarishi kerak",negative
-"ilovada oson elektron hamyonga pul tashasa bo'ladi lekin elektron hamyondan bu ilovaga pul o'tkazib bo'lmaydi va har haftada obnavleniya soraydi,tolov qilgan paytda hizmat haqi usluga juda katta, pragramma juda qotib ishlaydi",negative
-"google qidiruv tizimidan foydalangan paytda juda ko'p reklama kantentlari mavjud , bilamiz bu kampaniyani asosiy daromadi reklamadan lekin bunchalik ko'p reklama shart emas",negative
+ijtimoiy tarmoqlarda accountimizni o`chirish uchun brauzerlardan foydalanadi, bu ishni bajarishni ilovaning o`zi bajarishi kerak,negative
+ilovada oson elektron hamyonga pul tashasa bo'ladi lekin elektron hamyondan bu ilovaga pul o'tkazib bo'lmaydi va har haftada obnavleniya soraydi,tolov qilgan paytda hizmat haqi usluga juda katta, pragramma juda qotib ishlaydi,negative
+google qidiruv tizimidan foydalangan paytda juda ko'p reklama kantentlari mavjud , bilamiz bu kampaniyani asosiy daromadi reklamadan lekin bunchalik ko'p reklama shart emas,negative
 qiwi hamyondan foydalanilgan paytda maximum 15000 rubldan ortiq pul o'tkazmalarini amalga oshirib bo'lmaydi,negative
 telefon dasturlariga ilova yangilash obnavleniya kelganda yangilasak bizga hech qandayyangilanish sezilmaydi va bu faqat mbni sarf qiladi holos,negative
 imo dasturidan foydalangan paytda dastur foydalanuvchi yozishmalarida yozayotgan paytda nargi foydalanuvchiga yuborish tugmasini bosmasdan oldin unga ko'rinib turadi bu juda yomon hato gap yozsangizu ochirip tashlasangiz uoqish imkoniga ega boladi,negative
-"shareitning so`ngi versiyalarini ishga tushirish ko`p vaqt oladi, va ularni ishlatish ham yaxshi ma'noda noqulay",negative
-"ilovalarning yangi versiyalari borgan sari xotira xajmi ko`payib borayotrmi bilmayman, yangi ilovalarni kompyuterdami telofondami ishga tushirish ko`p vaqt oladi",negative
+shareitning so`ngi versiyalarini ishga tushirish ko`p vaqt oladi, va ularni ishlatish ham yaxshi ma'noda noqulay,negative
+ilovalarning yangi versiyalari borgan sari xotira xajmi ko`payib borayotrmi bilmayman, yangi ilovalarni kompyuterdami telofondami ishga tushirish ko`p vaqt oladi,negative
 kuchli telefonlar uchun ishlab chiqilggan dasturlar oddiyroq telefonlarda xato ishlaydi,negative
 windows 10 osni ishlatish ko`p ish qilish kerak aktivatsiya va shunga o`xshash,negative
 grafika asosida ishlaydigan dasturlarning ko`pginasi telefonlar uchun noqulaylik to`g`diradi,negative
-"yangi ilovalarning imkoniyatlari ko`p albatta, lekin ularning haammasidan qanday foydalanish yoki to`g`ri foydalanish uchun bazi ilovalarda yordamhelp qiymi yo`q",negative
+yangi ilovalarning imkoniyatlari ko`p albatta, lekin ularning haammasidan qanday foydalanish yoki to`g`ri foydalanish uchun bazi ilovalarda yordamhelp qiymi yo`q,negative
 deyarli barcha ilovalarda reklamalarning borligi yaxshi emas,negative
 biror ilovalarni ishlatganda o`sha ilovaning yangilangan versiyasining reklamasi yangilamaguncha har doim chiqerishi,negative
 bazi ilovalarning esa umuman yangi versiyasini topib bo`lmaslik,negative
 yangi versiyalarini yoki umuman bazi ilovalarni yuklash bir muncha murakkablik tug`diradi,negative
 ko`pgina ishtimoiy tarmoqlardan accountimizni o`chirib tashlash uchun o`sha ilovaning sozlamalariga kirib qayerlardandir topish kerak,negative
-"topganda ham o`sha yerning ozida ish bitmaydi, boshqa ilova browzer ochib yuborib o`sha yerda qilish kerak",negative
+topganda ham o`sha yerning ozida ish bitmaydi, boshqa ilova browzer ochib yuborib o`sha yerda qilish kerak,negative
 bazi kitob shaklida chiqarilgan ilovalarni o`qish noqulay,negative
 ko`pgina ilovalarning butun ishlash imokiyati dasturning o`zida emas browzer oraqali internetdan ishlatish kerak,negative
-"bazi dasturlardan foydalanganda, o`zimiz biror bir profile yoki shunga o`xshash narsalarni ochib qo`yganda",negative
+bazi dasturlardan foydalanganda, o`zimiz biror bir profile yoki shunga o`xshash narsalarni ochib qo`yganda,negative
 shu dasturda o`z imkoniyatlarini to`liq korib turish imkoniyatlari kamroq,negative
 tijorat ilovalari yoki o`qish uchin ishlaydigan saytlar ilovalaridan foydalangan o`z profilingiz haqidagi ma'lumotlarni shu yerning o`zida ko`rish imkonsiz ularni poshtaga yuborishadi,negative
-"bazi dasturlarning yangi qismllarini haqida bilmoqchi bo`lsangiz shu yerning o`zida iloji yo`q, uni ham poshtaga yuborishadi",negative
+bazi dasturlarning yangi qismllarini haqida bilmoqchi bo`lsangiz shu yerning o`zida iloji yo`q, uni ham poshtaga yuborishadi,negative
 internetda demo versiyalar ko`payib ketgan,negative
-"demo versiyalar bilan ishlatishga tayyor versiyalarni ajratib bo`lmaydi, ba'zan:, bu oddiy foydalanuvchi uchun muammo",negative
+demo versiyalar bilan ishlatishga tayyor versiyalarni ajratib bo`lmaydi, ba'zan, bu oddiy foydalanuvchi uchun muammo,negative
 bazi yangi ilovalarning oldingi dasturiy taminotlar bilan yaxshi kelishmasligi,negative
 youtube da kerakli bo'lgan narsalarni chiqarib bermaydi,negative
 o'zi reklama qilgan narsalarni taqdim qiladi,negative
-"mb lar juda ham ko'p miqdorda sarf bo'ladi ,o'zimiz istagan narsalarga erisha olmaymiz",negative
-"masofaviy ta'limda o'quvchi o'rganmoqchi bo'lgan narsasini saytlardan ko'rolmaydi, sababi hammasi platni",negative
+mb lar juda ham ko'p miqdorda sarf bo'ladi ,o'zimiz istagan narsalarga erisha olmaymiz,negative
+masofaviy ta'limda o'quvchi o'rganmoqchi bo'lgan narsasini saytlardan ko'rolmaydi, sababi hammasi platni,negative
 undagi malumotlarni o'zimizga skachat qilib bo'lmaydi,negative
-"skachat qilingan narsalarni faqatgina o'zida saqlaydi, boshqalarga o'tkazib bo'maydi",negative
+skachat qilingan narsalarni faqatgina o'zida saqlaydi, boshqalarga o'tkazib bo'maydi,negative
 shareitda kerakmas reklamalar juda ham ko'p,negative
-"telegramdagi kanallar bizga kerakli narsalarni bera olmaydi, yana boshqa kanalga o'tishimizga undaydi, karakli ma'lumot uchun kirishga majbur bo'lamiz",negative
+telegramdagi kanallar bizga kerakli narsalarni bera olmaydi, yana boshqa kanalga o'tishimizga undaydi, karakli ma'lumot uchun kirishga majbur bo'lamiz,negative
 bizga kelayotgan reklamalarni ko'rish uchun ham anchagina mb lar ketadi,negative
 xotiradan juda ko'p miqdorda joy egallaydi,negative
 yangi o'rganuvchi o'quvchi uchun platni kurslar qiyinlik qiladi,negative
@@ -1779,8 +1782,8 @@ ob havo malumotlarini telefonda to'g'ri ko'rsatmaydi,negative
 o'yinlar oxirida bizni nimalar kutishini bilmaymiz,negative
 bu pragramma har safar kirganda qayta tasdiqlashni so'rayveradi bu esa vaqtni oladi,negative
 bu pragarammaga kirishga ham qo'rqasan har xil kliplar tashab qo'yadi bu esa meni jig'imga tengadi,negative
-"keraksiz reklamalar asabingni buzadi, faqat keraksiz narsalar",negative
-"interniting ochiq payti umuman kirib bo'limidi, shu vaqti kirsang tamom hamma kerakli va keraksiz kichik videolarni ochib tashidi",negative
+keraksiz reklamalar asabingni buzadi, faqat keraksiz narsalar,negative
+interniting ochiq payti umuman kirib bo'limidi, shu vaqti kirsang tamom hamma kerakli va keraksiz kichik videolarni ochib tashidi,negative
 interneting ochiq payti kirsang mb ni zoya qilganing qoladi xolos bu esa menga umuman yoqmidi,negative
 bu pragramma uzoq masofada ishlamidi,negative
 bu pragarammadan foydalanganda bowqa telefondan narsa o'tirib olsak qabul qilish yoki qilmaslikni so'ramaydi shu sababli notanish ma'lumotlar ham kelib tushaveradi,negative
@@ -1807,15 +1810,15 @@ ilovadagi menyular malum qoidalar asosida birlashmagan,negative
 jo'natish tezligi past,negative
 ilovada faqat baland ovozda eshittirilsagina topib beroladi,negative
 yukash olish jarayonida ko'p vaqtni talab qiladi,negative
-kompaniya tomonidan ishlab chiqilgan android ilovalar ichida video qo'ng'iroq ilovasi yo'q:,negative
-"oddiy ilova bo'lishiga qaramay internet orqali ishlaydi, internet yoqilgani bilan hech narsa yangilanmaydihech narsa o'zgarmaydi",negative
+kompaniya tomonidan ishlab chiqilgan android ilovalar ichida video qo'ng'iroq ilovasi yo'q,negative
+oddiy ilova bo'lishiga qaramay internet orqali ishlaydi, internet yoqilgani bilan hech narsa yangilanmaydihech narsa o'zgarmaydi,negative
 qayta ishlash imkoni yo'q,negative
 teztez ishlamay qoladi odamni asabiylashtiradi,negative
 sanani g'alati tilda chiqaradi,negative
-"bir vaqtda 2,3 kartani ulash imkoni yo'q",negative
+bir vaqtda 2,3 kartani ulash imkoni yo'q,negative
 axborotlar xavsizligi yaxshi emas,negative
 ilovadagi menyular qisqacha yozilgan tushunish qiyin,negative
-"buyruq berilgan vaqtni o'zia amalga oshirmaydi, ko'p vaqtdan keyin amalaga oshiradi",negative
+buyruq berilgan vaqtni o'zia amalga oshirmaydi, ko'p vaqtdan keyin amalaga oshiradi,negative
 ishlamayotganligi haqidagi ma'lumotlarni juda ko'p gapiradiqisqa emasss,negative
 malumotlar yaxshi yoritlmagan,negative
 gaplarni mazmumini o'zgartirib yuboradi,negative
@@ -1845,7 +1848,7 @@ Barakalla Yaxshi tashkil etilgan va ko'rsatma berildi Yangi yilingiz bilan,posit
 Ajoyib application Gap bolishi mumkinmas Juda ham zo'r,positive
 Juda zo'r Ovqat jonu dilim,positive
 Juda foydali dastur Rahmat,positive
-Judayam ajoyib dastur ekan Turmush o'rtog'imga ham juda yoqdi endi judayam mazali taomlar retseptini qulaygina o'rganib olish mumkin  Dastur mualliflariga tashakkur OMAD,positive
+Judayam ajoyib dastur ekan Turmush o'rtog'imga ham juda yoqdi endi judayam mazali taomlar retseptini qulaygina o'rganib olish mumkin Dastur mualliflariga tashakkur OMAD,positive
 Ajoyib Alloh rozi bo'lsin juda hayrli ish qilibsizlar Aynan shunday app kerek edi,positive
 OZBEK TAOMLARI DUNYODA ENG zo'r Ushbu dastur bizning ozbek taomlarini dunyoga tanitadi degan umiddaman Mualiflarga rahmat,positive
 Yoqdi Juda yaxshi app bo'lgan Ayniqsa chet elliklarga ko'rsatishga juda qulay Developerlarga Omads,positive
@@ -1853,12 +1856,12 @@ E qoyil gap yo'q zo'r chiqibti,positive
  Gap yo'q oma qoil eng zo'r dastur,positive
 Rahmat Yashang besh baho,positive
 Zo'r App ga gap yo'q Mualliflarga merci,positive
-Yashang  Baraka toping ,positive
+Yashang Baraka toping ,positive
 Gap yo'q,positive
 Raxmat,positive
 Good Job Master akaning ushbu ilovadasturi mengayam juda yoqdi O'zim biz nechtasiga tavsiya qildim Aytgancha ushbu dasturchining AlQalam degan ilovadasturi ham zo'r chiqqan,positive
 Taklif Agarda u halqaro qilib tuzilganda boshqa millat vakillari ham O'zbek milliy taomlariga baho berishgan bÃ¶lardi Lekin dastur uchun RESPECT,positive
-Salom Assalomu alaykum barchaga Buni judayam foydali appligiga xech qanday shubxa yo`q  Mansur aka qachon uylandiz oka Shu appdan foydalangan xolga mazali taomlardan baxramand bo`lib baxtli va uzoq umr kechiringlar,positive
+Salom Assalomu alaykum barchaga Buni judayam foydali appligiga xech qanday shubxa yo`q Mansur aka qachon uylandiz oka Shu appdan foydalangan xolga mazali taomlardan baxramand bo`lib baxtli va uzoq umr kechiringlar,positive
 Raxmat Juda Zo'r dastur ekan Kak raz shunaqangi dasturlar kerak edi biz yoshlarga Jamoadan kelajakda bundanam yaxshilarini kutib qolamiz,positive
 Rahmat administrator Ko'p foydalanuvchilar uchun qulay appl ko'rinadi Oson va juda oddiy Xotinim hozir bu applni juda qo'llamoqda Ko'p shukur Shuhrat aka uchun rahmat,positive
 Ajoyib Rasmlari bn juda yahshi tushunarli yozilgan rahmat Iltimos taomnomani kupaytirsangiz ayniqsa shirinliklar qushilsa yanada yahshi bulardi,positive
@@ -1880,7 +1883,7 @@ zo'r Bo'larkanu Koproq appl yaratingllar,positive
 A'lo A'lo darajada ayniqsa yangi kelinchaklar uchun,positive
 Yaxshi app ovqat qilishni bilmaganlarga ,positive
 Gap yo'q zo'r progamma ekan,positive
-Foydalanish uchun  qulay rahmat,positive
+Foydalanish uchun qulay rahmat,positive
 Juda juda goog ilovasi,positive
 Zo'r Iltimos bunaqa app'larni ko'paytiring Rahmat,positive
 Raxmat Juda ham zo'r,positive
@@ -1896,7 +1899,7 @@ Xamasi klass,positive
 Prosta super RahmatAjoib app bupti,positive
 Eng yaxshi ta'lim dasturi,positive
 O'zbek taomlari Ajoyib,positive
-5yulduz  Ajoyib ilova  Yaxshi ish,positive
+5yulduz Ajoyib ilova Yaxshi ish,positive
 Ajoyib ilova,positive
 Zo'r,positive
 Ok,positive
@@ -1913,7 +1916,7 @@ Gap yu Alo darajada,positive
 zo'r gap yo'q,positive
 Bu ilova menga maqul keldi belayen mijozi ekanimdan hursandman,positive
 Mb koproq berilsin yetmayaptiyu xech narsaga bunus sifatida,positive
-Beelineapk Juda qulay  va oson,positive
+Beelineapk Juda qulay va oson,positive
 yaxshi ekan uwbu dastur,positive
 Ajoyib ilova ekan,positive
 zo'r Gap yo'q,positive
@@ -1930,7 +1933,7 @@ Tashakkur Assalomalekum dasturga umuman gap yuq Uzimni hamma narsaga qodir odamd
 Foydali,positive
 Perfectum ilova silani komandaga gap yuq Ammo qachon perfectum abonentlari silani xizmatladan foydalana oladi,positive
 Zo'r,positive
-Dastur haqida Bu dasturni ilova o'rnida ishlatsa Bo'ladimi  To'lo'v chegaralanmaganmi,positive
+Dastur haqida Bu dasturni ilova o'rnida ishlatsa Bo'ladimi To'lo'v chegaralanmaganmi,positive
 Ok Ok,positive
 ilova eng yaxshisi Men buni hamma uchun tavsiya qilaman,positive
 Daxshat ekanu Zo'r,positive
@@ -1938,13 +1941,13 @@ Zo'r ,positive
 Juda yaxshi,positive
 Super,positive
 Ok,positive
-Error Nimagafir interner ulangan bolsa ham ussd  kod bn iwlayapti,positive
+Error Nimagafir interner ulangan bolsa ham ussd kod bn iwlayapti,positive
 Juda foydali Ayniqsa siz istagan paytda USSDmenyu orqali ishlamasligingiz kerak,positive
 Dhhg Dvji,positive
 Gap yo'q Ok,positive
 Ajoyib ilova,positive
 Savol Nimaga menda internet orqali ishlamayapti So'rovlarni USSD orqali yuboryapti Podtverjdeniya uchun qanaqadir kod sÃ¶rayapti sms orqali kelgan Menga hech qanday kod kelmadi Nima qilishim kerak,positive
-Boshqalarda bo'ladigan muammolar dasturni yomonlashdan oldin o'zin shunaqa dastur tuzip qo'y ok Ishlatishi bilmasen ishlatma bu progni  Bu dastur tupoylaga chiqarilmagan Yangi versiyasi zo'r chiqipti Ishilaga omad,positive
+Boshqalarda bo'ladigan muammolar dasturni yomonlashdan oldin o'zin shunaqa dastur tuzip qo'y ok Ishlatishi bilmasen ishlatma bu progni Bu dastur tupoylaga chiqarilmagan Yangi versiyasi zo'r chiqipti Ishilaga omad,positive
 Harajatni ancha kamaytirishibdi zoo'r va Zoo'r TV ga chiqish imkoniyati,positive
 Very good app Gap yo'q usd sorov turli noquleyliklar tugdirardi endi bu ancha osonlashtirdi,positive
 Uzbek tilini qowiw Kerek qolganiga gap yo,positive
@@ -1958,7 +1961,7 @@ Juda ajoyib dastur deb o'ylaydi,positive
 Yomon emas,positive
 Gap yuq,positive
 Zo'r,positive
-Exelent app  Juda foydalidir,positive
+Exelent app Juda foydalidir,positive
 Boladi,positive
 Super,positive
 Yahshi,positive
@@ -1969,7 +1972,7 @@ Goog yaxshi,positive
 Yomon emas,positive
 Ajoyib,positive
 Juda yaxshi ilova barcha qulay va sodda xizmatlarni taklif qiladi yoqdi,positive
-Zo'r dastur To'lovlarni amalga oshirish uchun juda qulay Hamma narsa A  ni osonlashtirdi,positive
+Zo'r dastur To'lovlarni amalga oshirish uchun juda qulay Hamma narsa A ni osonlashtirdi,positive
 Sizning yaqinlaringizning telefoniga pulingizni qo'yish ajoyib dastur Rahmat Juda mamnunman,positive
 Xizmat uchun rahmat eng yaxshi dastur va ishlatish uchun qulay tez to'lov Hammaga tavsiya eting,positive
 boshqa bir qancha mamlakatni jo'natish uchun eng yaxshi dastur,positive
@@ -2031,7 +2034,7 @@ Zo'r,positive
 shunday,positive
 Zo'r yaxw,positive
 Hali buni ustida ancha iwlaw kerak bunday olganda uzbekistondagi eng ishonarlisi shu,positive
-Zo'r pragramma  Gap yo'  Shunaqa onlayn bozo'rlar ko'paysin,positive
+Zo'r pragramma Gap yo' Shunaqa onlayn bozo'rlar ko'paysin,positive
 Shunday qilib muvaffaqiyat,positive
 Yaxshi,positive
 Zo'r,positive
@@ -2070,7 +2073,7 @@ Juda yaxshi,positive
 Yaxshi,positive
 Yomon emas,positive
 Sekin,positive
-Bu  yaxshi  pragramma  savdo  sotiqqa  zo'r,positive
+Bu yaxshi pragramma savdo sotiqqa zo'r,positive
 Ilova yaxshi ammo ichida kamchiliklari bor shularni bartaraf etsangiz juda yaxshi bulardi,positive
 Rahmat ajoyib ilova ekan ishingizga omad,positive
 Mmm Bo'ladi ishlatsaaa,positive
@@ -2086,16 +2089,16 @@ Albatta foydalidir,positive
 Yaxshi ishlaydi Force yaqin muammosi aniqlandi Rahmat,positive
 Nice app Da Best App,positive
 Zo'r,positive
-Al'o Odamlar soni  mahsulot soni kam,positive
+Al'o Odamlar soni mahsulot soni kam,positive
 Super,positive
-A'lo Ilova yaxshi ishlangan qoniqarli  Va qulay  bir ikkita funksiyasi menga yoqdi,positive
+A'lo Ilova yaxshi ishlangan qoniqarli Va qulay bir ikkita funksiyasi menga yoqdi,positive
 Zo'r,positive
 Ajoyib ilova,positive
 zo'r Dastur ajoyib,positive
 Juda yaxshi Yaxshi mo'ljallangan Albatta juda kam miqdorda qo'shimchalar bo'lishi kerak lekin umuman olganda juda yaxshi,positive
 Yaxshi prog Juda ham foydali app onlayn bozo'r gap yuq,positive
 Yaxshi Zo'r,positive
-5  Zo'r dastur,positive
+5 Zo'r dastur,positive
 Klass klass,positive
 Ajoyib,positive
 Gap yo'q dastur zo'r hammasi okey Ishlatishshi bilmidiganla bohona qivuradi unisi yomon bunisi yomon dib,positive
@@ -2213,7 +2216,7 @@ Zo'r,positive
 Zo'r Qulay,positive
 Zo'r,positive
 Good,positive
-Ana borgan sari yaxshilashib bormoqda  Aliexpress va yana shunga o'xshash tashqi savdolarni amalga oshirish jarayonlarini tashkil etilganda edi mmmm,positive
+Ana borgan sari yaxshilashib bormoqda Aliexpress va yana shunga o'xshash tashqi savdolarni amalga oshirish jarayonlarini tashkil etilganda edi mmmm,positive
 Eng yaxshi ilova,positive
 Xafsizligi kuchliligi va tezligi uchun Raxmat,positive
 Foydalanish judayam qulay ajoyib,positive
@@ -2227,13 +2230,13 @@ Shunaqa dasturlar koo'paysin,positive
 super,positive
 Ajoyib qulay,positive
 Go'zallik,positive
-Rasxod va prixodlarni analiz qilish imkoniyati qo'shilgani zo'r bo'libdi  Hamkorbankni xam perevodga qo'shilsa yaxshi bo'lardi umuman olganda qoyil,positive
+Rasxod va prixodlarni analiz qilish imkoniyati qo'shilgani zo'r bo'libdi Hamkorbankni xam perevodga qo'shilsa yaxshi bo'lardi umuman olganda qoyil,positive
 Monitoring borligi yoqdi Perevod platejeyda karta egasining ismfamiliyasi ko'rinishi juda qulay,positive
 Qachon Play marketga tulov qilsa buladi O'zi buni o'zbekistonda iloji bormi,positive
 Sevimli API orqali joriy valyuta foydalaning Bu endi oddiy kod Devlar uchun rahmat,positive
 SQB Hamkorbank plastik kartochkalaridan pul utkazmalari mavjud emas,positive
 I recommend you Ayni men istagan ilova Xatto kutmagan funksiyalarga ham ega,positive
-Yangiliklar izlanishda davim eting     like,positive
+Yangiliklar izlanishda davim eting like,positive
 Zo'r Endi qarz olish va berish oson bo'ldi,positive
 Fikr Qulay va zamonaviy,positive
 Zo'r Ta'rifga til ojiz,positive
@@ -2248,7 +2251,7 @@ Juda qulay O'zbekistondagi to'lov tizimlari ichida eng qulayi Faqat kartadan kar
 Juda qulay dastur Bu bozorda juda qulay dastur,positive
 Ingliz tili hamma narsa yaxshi lekin ingliz tilidagi variantni ham yangilash kerak,positive
 Ok,positive
-Savol Bu dastur ishonchlimi Ya'ni har qanday o'g'irliklar va hackerlardan himoyalanganmi xar qale kartamda ancha pul bor  shu haqida malumot bering Aytgancha bu dastur hizmatlari bepulmi Oldindan raxmat,positive
+Savol Bu dastur ishonchlimi Ya'ni har qanday o'g'irliklar va hackerlardan himoyalanganmi xar qale kartamda ancha pul bor shu haqida malumot bering Aytgancha bu dastur hizmatlari bepulmi Oldindan raxmat,positive
 Axamiyat beringlar Nega uzonline samarkandagi filyaliga pul tashab bumayapdi tzimga kushinglar iltimos raxmat,positive
 Boshqalar kartalariga pul yuborish uchun juda yaxshi dastur,positive
 Ipak yoli bankka pul otkazish imkoniyati bor mi,positive
@@ -2275,7 +2278,7 @@ Savol Hozir qaysi bankning kartalari ishlayapti Rahmat,positive
 Like like like,positive
 Zo'r,positive
 Yuqori darajada ishlaydigan uni seving quvonch,positive
-Ajoyib dastur Dastur ajoyib  chiroyli va qulay ishlangan Qachon O'zsanoatqurilish banki qo'shilishi haqida aniq ma'lumot bera olasizmi,positive
+Ajoyib dastur Dastur ajoyib chiroyli va qulay ishlangan Qachon O'zsanoatqurilish banki qo'shilishi haqida aniq ma'lumot bera olasizmi,positive
 Ajoyib Ipoteka bankniyam qushila,positive
 Juda qulay va sodda,positive
 Ajoyib Zo'r Zo'r,positive
@@ -2315,9 +2318,9 @@ Ajabo Yana dahshatli,positive
 Qo'rquvli foydalanish oson,positive
 Tez edi,positive
 Juda yaxshi,positive
-Ajoyib bu  Newmax uchun bir qadam ammo O'zbekistonda taksilar xizmatini takomillashtirishda ulkan pog'ona,positive
+Ajoyib bu Newmax uchun bir qadam ammo O'zbekistonda taksilar xizmatini takomillashtirishda ulkan pog'ona,positive
 Qulay va foydali Nihoyat bizda bunday dastur mavjud,positive
-Vaqt o'tishi bilan foydalanish oson  Va o'z vaqtida yuboring  Foydalanish juda oson uni sevaman,positive
+Vaqt o'tishi bilan foydalanish oson Va o'z vaqtida yuboring Foydalanish juda oson uni sevaman,positive
 Chiroyli ish bolalar,positive
 Foydali prog zo'r,positive
 Foydali ilovalar haqiqiy so'nggi daqiqa yordamchi ,positive
@@ -2327,12 +2330,12 @@ Super,positive
 Ajoyib app,positive
 Zo'r App go'zal dastur,positive
 Yaxshi yaxshi xizmat,positive
-Yangi versiyasi  juda ham qulay ekan Mb kam ketishi bilan boshqa applardan farqi bor ekan Ishilaga omad siladan yangidan yangi xabarlar kutamiz,positive
+Yangi versiyasi juda ham qulay ekan Mb kam ketishi bilan boshqa applardan farqi bor ekan Ishilaga omad siladan yangidan yangi xabarlar kutamiz,positive
 Tashakkur yangiliklarni birinchilardan bo'lib berib borayotgan ilova sayti ijodkorlariga minnatdorchilik bildiramiz,positive
 Eng yaxshi tezkor qulay,positive
 Zo'r,positive
 Alo darajada zo'r,positive
-yaxshi yo'nalish va yaxshi still ni tanlabsilar  bundan ko'prog'ini kutib qolamiz,positive
+yaxshi yo'nalish va yaxshi still ni tanlabsilar bundan ko'prog'ini kutib qolamiz,positive
 Rahmat Rasmlani ochishda muammo hal qilinmagan,positive
 Zo'r,positive
 yangiliklar uchun ajoyib dastur,positive
@@ -2356,7 +2359,7 @@ Hammasi Zo'ru programmi charchagan,positive
 A'lo Juda Zo'r dastur,positive
 Zo'r Manga juda yoqdi,positive
 A'lo darajada Charchamanglar,positive
-Soyitga  gap yo'q,positive
+Soyitga gap yo'q,positive
 Tezkor aniq ishonchli,positive
 A'lo zo'r chiqqan,positive
 Raxmat,positive
@@ -2406,15 +2409,15 @@ Dastur kamciliklariga qaramasdan yaxshi siyosiy yqngiliklardan k6proq berib bori
 Daxshat ajoyib dastur lekin u ingliz tilida bo'lsa yana bir narsa bo'lardi,positive
 Androidlar uchun Daryo ilova dastursida qidirish joyi yoqligi no qulaylik tugdiryapti,positive
 Ajoyib huddi bosh qolganda gazetta oqib otirganday bo'lasan faqat haqqiatni aytishadi,positive
-Sarlavhalani hammasini iloj bolsa video bilan  chiqazilsa yanada yahshi boladi,positive
-Yaxshi  Yana qo'shimcha funktsiyalar kiritilsa bundanda yaxshi bo'lardi Mani fikrimcha,positive
+Sarlavhalani hammasini iloj bolsa video bilan chiqazilsa yanada yahshi boladi,positive
+Yaxshi Yana qo'shimcha funktsiyalar kiritilsa bundanda yaxshi bo'lardi Mani fikrimcha,positive
 Zo'r mukammal lekin yanada chuqurroq fotolar lozim Kuchaytirish kerak,positive
 Dastur ajoyib faqat dasturni qidirish tizimini joylashtirsangiz yaxshi bulardi,positive
-zo'r dastur shaxsan manga bu dastur juda yoqadi  Ishilarga omad,positive
+zo'r dastur shaxsan manga bu dastur juda yoqadi Ishilarga omad,positive
 Dunyoning eng yangi va yaxshi xabarlarini va faktlari menimcha aynan Daryo saytida,positive
 Ishlash tezligi yaxshi Qulayliklarga ega xamma ma'lumotlar tartibli joylanadi,positive
 Juda yahshi yangi versiyasi chiqib kamchiliklarni tuldirilishini istayman,positive
-zo'r app  kun uzdan qolishmedi D,positive
+zo'r app kun uzdan qolishmedi D,positive
 ilova bir qadam oldinda yangi xabarlar sari,positive
 Dastur By dastur ajoyib ekan Yangiliklar yaxshi kiritilgan,positive
 Menga yoqadi Bu yaxshi,positive
@@ -2452,7 +2455,7 @@ Klas gap bo'lishi mumkinmas,positive
 Eng zo'r yngiliklarni shu yerdan olaman Man uchun eng zo'ri,positive
 Uz Yaxshi manga yoqadi,positive
 Yaxshi dastur omad Omad,positive
-Yaxshi ekan  utqazib afsuslanmaysiz,positive
+Yaxshi ekan utqazib afsuslanmaysiz,positive
 Eng zo'r yangiliklar bn,positive
 Qichiq ekan skachat qilila,positive
 Doimiy yangilikar otenga rahmat,positive
@@ -2470,7 +2473,7 @@ Juda yaxshi dastur,positive
 Farrux Hozircha yahshi,positive
 Shunday qilib Vashshhe shunday,positive
 Rasmlar kachestivasi pasrooo,positive
-Zo'r yangiliklar  Daryosi,positive
+Zo'r yangiliklar Daryosi,positive
 Islom Yaxshi prog,positive
 OK bo'sh joy yo,positive
 Salom Yaxshi omad,positive
@@ -2478,7 +2481,7 @@ Juda ham yaxshi verry good Menga juda ham yoqdi,positive
 Ajoyib gap yo'q,positive
 Juda yaxshi dastur,positive
 Daryo Gap yoo,positive
-Eng  qulay  dastur,positive
+Eng qulay dastur,positive
 Gap yo'q klass,positive
 Gap yuq Zo'r,positive
 Zo'r Zo'r daryo,positive
@@ -2636,10 +2639,10 @@ Perfect Judayam zo'r Va shunday bop qoladi Yanayam kop xar xil yangiliklarni qos
 Bu partal menga juda yoqadi va qiziqarli yangiliklarni eng so'nggisi faqat shunda qolganlarga ham taklif qilaman,positive
 Dunyoning yangiliklaridan xabardor bo'lgan eng yaxshi dastur,positive
 Zo'r texnik xabarladan kupro busa undanam yaxshi bulardi,positive
-Ajoyib eng Zo'r uzbekistondagi matbuot sayti  doimo Zo'r bulib qolinglar raxmat,positive
+Ajoyib eng Zo'r uzbekistondagi matbuot sayti doimo Zo'r bulib qolinglar raxmat,positive
 Yangiliklarga kommentariyalar yozish imkoniyati bo'lganda yana ham yaxshi bo'lar edi,positive
 Towkenda 14 mt da wifi qoyildi wu yengiliniyam qoyila ,positive
-Daryo guruhi uchun rahmat  Oson Rahat | Tez,positive
+Daryo guruhi uchun rahmat Oson Rahat | Tez,positive
 Ucell ishlatadiganlar uchun daryo uz tekin A'lo darajadagi dastur,positive
 Daryogaa gap yo'q iwlaringga omaad,positive
 Ajoyib Nomer 1,positive
@@ -2660,7 +2663,7 @@ Gapyo lekin Xarxil qatlama shunga oxshagan reklamalar bolmasa 5 bolardi,positive
 ilovaga Tarifga til ojiz ishlarizga omad tilayman manham sizdek dasturchilarga havas qilaman,positive
 Yaxshi Juda kup vaqtda yuklaysizlar malumotni shuni uchun 4 tugirlasanglar 5 buladi,positive
 Yaxshi sayt lekin kamchiklari bor Mavzular alohidamas,positive
-Zo'r sayt yengi yengi  ko'pciliga kere bo'ladgan yengilila bo'larkan  zo'r 5 bu saytga,positive
+Zo'r sayt yengi yengi ko'pciliga kere bo'ladgan yengilila bo'larkan zo'r 5 bu saytga,positive
 Bu eng yaxshi dasturdir Men bularni yaxshi ko'raman Bu eng yaxshi dasturdir bu menga judayam yoqdi,positive
 Ajoyib Tezkor xabarlar faqat daryoda,positive
 Gap yoo N1,positive
@@ -2676,7 +2679,7 @@ zo'rzo'rzr,positive
 Zo'r,positive
 Daryo uzga Man daryodagi habarlarni muntazam uqib boraman Juda foydali va qulay axborot dasturi deb hisoblayman,positive
 Need More photos Mavzula qiziqarli Lekin rasmla kam,positive
-Ajoyib Dunyo va Uzbekistondagi yangiliklardandan  muntazam ravishda xabardor bulin boryapman,positive
+Ajoyib Dunyo va Uzbekistondagi yangiliklardandan muntazam ravishda xabardor bulin boryapman,positive
 Tarif Biz har doim yangiliklardan habardor bulyapmiz,positive
 Yaxshi rahmat hammasi uchun omadlaringizni bersin,positive
 Juda yaxshi,positive
@@ -2684,7 +2687,7 @@ Daryo Daxshat,positive
 Zo'r,positive
 Rahmat,positive
 Zo'r,positive
- DARYO  Menimcha siz yaxshi ilovadir Har doim siz bilanman Men seni baholayman Omad,positive
+ DARYO Menimcha siz yaxshi ilovadir Har doim siz bilanman Men seni baholayman Omad,positive
 Juda ham Zo'r faqat shu uyinlarni kuchirsa buladigan daryo apps ilovasi yaratilsa yaxhsi bulardi,positive
 Daryo narmalni Like tugmasi va kament uchun joy qisela yanayam ajoyib bo'laridi,positive
 Zo'r Zo'r dastur ishlaringizga omadshunga o'xshash dasturlarni Delphida qilish mumkinmi,positive
@@ -2725,13 +2728,13 @@ Ajoyib Nomer 1,positive
 Omad like ,positive
 Ajoyib Man o'zi bu saytka doim kirib turaman Asosan Google Crome yoki Mozilladan krarfim Xoz Android uchun versiyasini oloib bu ikkala brauzerni ovora qmayamman Lekn zo`r sayt Omad ijodilaga daryochila Super,positive
 Daryo O'zbekistondegi barcha yangiliklarni tez va a'lo ravishda tarqatadi This app very interesting and popular I was recomend this app I have all the Uzbeks I advise you to use this app Shoshiling yangiliklardan chetda qolmang,positive
-Daryo rostan ham yangiliklar daryosi To'g'ri bunday yangilikdan habar beruvchi saytlar ko'p lekin  ular daryo dek aniq yozilmagan Daryo yangiliklar okeanidir omad daryo modetorlariga,positive
+Daryo rostan ham yangiliklar daryosi To'g'ri bunday yangilikdan habar beruvchi saytlar ko'p lekin ular daryo dek aniq yozilmagan Daryo yangiliklar okeanidir omad daryo modetorlariga,positive
 Daryo Juda zo'r doim o'qib boraman yangiliklarilarni wu faqat iloji borica ko'pro dunyo yangiliklar qo'wilar tezraxmat katta,positive
 Zo'r Qoyilmaqom rasmlarni ko'chirib olishni yo'lga qo'ysa yaxshi bo'lardi qidruvnu ham ishlarga omad,positive
 Bu dastur barchaga qulay va imkoniyatlar ko'p biz bundan ko'proqini kutamiz,positive
 Yaxshi dastur lekin xamma narsani kamchiligi borligini aytsak chidasa boladi,positive
 daryo dasturda yangilikni izlash boo'lardi poisk xozir yoo'q dasturga shuni qoo'shib qoyilar,positive
-zo'r Faqat  ruknlaridagi gaplar barchasi mish mishga oxshab qolibdi,positive
+zo'r Faqat ruknlaridagi gaplar barchasi mish mishga oxshab qolibdi,positive
 Bu juda zo'r yangilillar dan habordor boling,positive
 Daryo Daryo juda zo'r dastur siz ham yuklab oling,positive
 Gap yo'q shunaqa narsalarni yaratilar kopro,positive
@@ -2739,7 +2742,7 @@ Juda yaxshi lekin yanada yaxshilashingizni soriyman,positive
 Yangi versiya daxshatku,positive
 Zo'r Admin kottakon rahmat sizga,positive
 Juda ajoyib axborot yetkazuvchi,positive
-Dasturga iwonamiz xoz yuklab oliy  ,positive
+Dasturga iwonamiz xoz yuklab oliy ,positive
 Zo'r va qulay ekan,positive
 Ooooooooooooo gggggaaaaaaaaappppppp yoooooo,positive
 Dasturga gap yuq,positive
@@ -2801,7 +2804,7 @@ Gap yo zo'r,positive
 Rahmat aytmoqchiman Katta dastur,positive
 Gap yo' Juda zo'r,positive
 Endi o'zbek tilida gaplasha olaman,positive
-Zo'r Rahmat  zo'r app,positive
+Zo'r Rahmat zo'r app,positive
 Bu yaxshi dastur Yaxshi ish odamlari ,positive
 Foydalanish oson Oddiy qulay va qulay,positive
 Huuu,positive
@@ -2847,7 +2850,7 @@ HTC EVO 3d Cool,positive
 Juda yaxshi,positive
 Juda yaxshi,positive
 Yaxshi,positive
-Alo Bu  biz Afghanistan liy o'zbek lar uchun juda foydaliy dir Albatta o'zga so'zlardan arabcha forscha  ko'ra o'zimiz Turkcha miz so'zlaridan eish olishimiz kerak,positive
+Alo Bu biz Afghanistan liy o'zbek lar uchun juda foydaliy dir Albatta o'zga so'zlardan arabcha forscha ko'ra o'zimiz Turkcha miz so'zlaridan eish olishimiz kerak,positive
 Yaxshi ishlangan ishonchli qulay Ancha qulay va ishonchli va o'z o'rnida biroz kamchiliklar bor Rivojlantirishda davom etinglar Omad,positive
 Manga juda yoqdi Bashqalaridan ancha yaxshi so'zlar ko'p tushunarli yozilgan,positive
 zo'r ekan hamma narsala bo Yoqdi,positive
@@ -2855,7 +2858,7 @@ So'zlar boyligi kamroq ekan Ko'paytirib borsalaring mukammalashaveradi,positive
 Juda yahshi,positive
 Salom Yaxshi app,positive
 Ushbu ilovani yoqtiraman,positive
-Oxirgi versiya mening so'nggi versiyam uchun narxim yaxshiroq edi  ,positive
+Oxirgi versiya mening so'nggi versiyam uchun narxim yaxshiroq edi ,positive
 Super,positive
 Ajoyib app boshqalarga qaraganda ko'proq so'zlar,positive
 Menimcha bu juda yoqimli chunki bu yaxshi,positive
@@ -2900,7 +2903,7 @@ Ketmonila uchaversiin,positive
 Qiyin va juda yaxshi Bu ilovani yaxshi ko'raman Rahmat,positive
 Daxshatku Maladtsi,positive
 Awsome Bulbulcha qani Lol,positive
-Menga juda yoqdi  Yana ko'p narsalarni yaratmoqchiman,positive
+Menga juda yoqdi Yana ko'p narsalarni yaratmoqchiman,positive
 Ajoyib ish Buddy ushlab turing,positive
 Juda yaxshi,positive
 Ajoyib,positive
@@ -2919,7 +2922,7 @@ Dddaaaxxxsshhtttuuu besh yulduz emas 15yulduz berish kere,positive
 Zo'r Kuproq uzbekcha programmla chiqariyla,positive
 Gap yo'q Yana kutb qolarmiz,positive
 Abdullajon Abdullajon dan olingan ovozlar daxshat,positive
-Gap yoo'q  Ajoyib oyo'in ekan oo'zbektilidagagi ilk  oo'ynagan opyinim,positive
+Gap yoo'q Ajoyib oyo'in ekan oo'zbektilidagagi ilk oo'ynagan opyinim,positive
 Yomon emas balki o'rtasida farqni belgilashingiz mumkin,positive
 ilova Ajoyib,positive
 Zoo'r gapyoo qoyil,positive
@@ -2955,7 +2958,7 @@ Ishlab chiqaruvchilaga Gap yo'q Ishlash sifati a'lo darajada siladan bundanda yu
 Yaxshi prog ekan Ammo sal sal qotadi va uzbek kanallarini kopaytirish kerak iloji bolsa hammasini qoshing,positive
 Muvaffaqiyatli lekin kanallarni bepul kanallarga qo'shishingiz mumkin,positive
 Ishlavottiyu prosta Match tv ni naga platniy qip qoo'ydila munaqa masde,positive
-Judayam ajoyib  qoyil qoldim Sooo perfect I like it,positive
+Judayam ajoyib qoyil qoldim Sooo perfect I like it,positive
 Ishilarga omad Bundanda ajoyiblarini kutib qolamiz,positive
 Juda alo Yanada kop programalarni kutaman,positive
 Nimaga ba'zida uzreportga dostup yo'q,positive
@@ -2970,7 +2973,7 @@ Alo Alo,positive
 Ajoyib ilova,positive
 Perfect Perfect,positive
 Kino tiyatir busa yaxshi bulardi Hamasi zo'r GALAXY S 6 EJEG GA Zo'r OCHOTOBDI bita KINO tiyatir kam,positive
-Gap yok   ZO'R bunda xorijda yoshoyatkarning bolalari uchun  juda qulay til urnanish buluptu   aynixsa siz istagan paytingizda o'zbekcha prugrommalarini bimolar ko'ra olalasiz  ,positive
+Gap yok ZO'R bunda xorijda yoshoyatkarning bolalari uchun juda qulay til urnanish buluptu aynixsa siz istagan paytingizda o'zbekcha prugrommalarini bimolar ko'ra olalasiz ,positive
 Black star Lekin Gap yo'q dasturga online tv zo'r samsung s3 mini telifonim ochdi sizlagayam maslahatim yuklab olinglar,positive
 Super ilovasi TASIX ni o'zbekcha mahalliy telekanallar uchun ishlatganidan beri uni yoqing Yaxshi ishlab chiquvchi,positive
 Gap yo'q Gap yo'q lekin rovtir Wifi bn umuman zo'r ishlarkan,positive
@@ -2978,7 +2981,7 @@ Ushbu ajoyib dastur uchun katta rahmat Men bu dasturni uzoq vaqtdan beri qidirar
 Yaxshi Yanada koproq yangiliklar kutib qolamiz,positive
 Ajoyib ilova Juda qulay usuli,positive
 Bu menga judayam yoqdi Men uchun hamma narsa yaxshi ishlaydi Faqat reklamalar uzilib qolmoqda,positive
-Menga yoqadi  super,positive
+Menga yoqadi super,positive
 Zo'r dastur Rahmat,positive
 Lovit juda yaxshi,positive
 Zo'r,positive
@@ -3000,10 +3003,10 @@ Juda yaxshi Highly recommendred,positive
 Klasssssssssss,positive
 Zo'r,positive
 Super Live TV Jonli televizorni yuklab olishingiz va kerakli yangiliklarni sinab ko'rishingiz kerak,positive
-Galaxy S4 Men ushbu ilovani uzoq vaqt davomida qiziqtirgan edim  Yaxshi ishlaydi Juda yaxshi,positive
+Galaxy S4 Men ushbu ilovani uzoq vaqt davomida qiziqtirgan edim Yaxshi ishlaydi Juda yaxshi,positive
 Sony Xperia Foydali dastur Mediabay jamoasi,positive
 o'yinchi qaysi tashqi video pleyerni foydalanishi mumkin,positive
-Daxshat ajoyib dastur  Yaxshi ishlar ,positive
+Daxshat ajoyib dastur Yaxshi ishlar ,positive
 Classsss Kuramiz,positive
 Salom rahmat,positive
 I THINK RESPECT Agar dastur ishlash sifatini oshirsangiz hammasi yaxshi boladi va fikrlar ozgaradiHaqiqatdan dastur ajoyib faqat iltimos dastur ishlash sifatini oshiring,positive
@@ -3155,7 +3158,7 @@ yaxshi,positive
 Omg men u erda serial topdim Bu ilovani yaxshi ko'raman,positive
 Bu juda yaxshi dastur,positive
 To'grisini aytsam bu ilova menga juda ham yoqdi Juda qulay Rahmat sizlarga,positive
-application  ishlamayapti,positive
+application ishlamayapti,positive
 Eng yaxshi TV ilovasi,positive
 Zo'r,positive
 Yaxshi,positive
@@ -3164,10 +3167,10 @@ Har bir narsa mukammaldir Rahmat,positive
 Omad,positive
 Yaxshi,positive
 Ajoyib,positive
-Juda zo'r ekan  sizlarga ham maslahat beraman,positive
+Juda zo'r ekan sizlarga ham maslahat beraman,positive
 Super gap yok katta rahmat adminga izlanishda davom kiling omad ishlarga,positive
 The best app Qoil bor ekanku qotmaydigan online channel TV,positive
-Zo'r dastur Yaxshi ish  ko'proq kanallarni qo'shing iltimos ,positive
+Zo'r dastur Yaxshi ish ko'proq kanallarni qo'shing iltimos ,positive
 Faqatgina yuklab oling Gonna tomosha qiling va keyinroq yozing,positive
 zo'r Yuklab olishingizni maslahar beraman,positive
 Oldin ishlagandi xozir ishlamayapti,positive
@@ -3193,7 +3196,7 @@ Gap yo'q,positive
 Yaxshi lekin pulli xizmat ko'rsatish yo'q bo'lsa unda boshqacha bo'lardi,positive
 Bu sizning qo'llashingiz uchun juda yaxshi dasturiy maslahat,positive
 Radiolar ham qo'shinglar Iloji bo'lsa ko'proq ingliz tilidagi tv va radiolarni qo'shinglar,positive
-Mediabaydan yaxshiroq  Rahmat,positive
+Mediabaydan yaxshiroq Rahmat,positive
 Gggg,positive
 Klass,positive
 Super,positive
@@ -3216,7 +3219,7 @@ Super,positive
 Nimaga tv lar kursatmayapti,positive
 Yaxshi,positive
 Oka manda umuman ishlamayaptiyu tv allplayuz mani internet providerim TURONTELECOM,positive
-ajoyib  video sifati turini qanday tanlash mumkin 360 yoki 480 yoki HD,positive
+ajoyib video sifati turini qanday tanlash mumkin 360 yoki 480 yoki HD,positive
 Chiroyli ilova,positive
 Juda yaxshi dastur Muvaffaqiyatli,positive
 Albatta ajoyib,positive
@@ -3227,7 +3230,7 @@ Klasssss,positive
 Zo'r,positive
 Men ushbu ilovani juda yoqtirardim Eng yaxshi dastur Omad,positive
 Qotib qolmay fudbolni korib olsak boldi,positive
-Telda bu juda zo'r  Nega netebookda bu yo'q ,positive
+Telda bu juda zo'r Nega netebookda bu yo'q ,positive
 Zoo'r,positive
 Yaxshi,positive
 Yaxshi dastur,positive
@@ -3263,7 +3266,7 @@ Ramilga barmoqlarini ilova qilaman Bu ilovani yaxshi ko'raman faqat yuqori daraj
 Issiq filmlarni oila va do'stlar bilan tomosha qilish uchun eng yaxshi dastur 5 yulduz,positive
 Super uchun yaxshi dastur uchun rahmat Bu super,positive
 Super,positive
-ajoyib app Barcha iptv pleyerda  Ajablanarlisi,positive
+ajoyib app Barcha iptv pleyerda Ajablanarlisi,positive
 Videolarni qanday yuklab olaman ,positive
 Juda qulay foydali va yaxshi ,positive
 T eng yaxshi ilovalar,positive
@@ -3382,7 +3385,7 @@ Bu yaratuvchilar uchun juda yaxshi ilovalar,positive
 Ushbu dastur biz uchun juda yoqimli,positive
 Sizga katta rahmat ,positive
 Bir ilova bilan hamma narsa oddiy,positive
-Bilayn  eng yaxshi dasturlardan biri,positive
+Bilayn eng yaxshi dasturlardan biri,positive
 Faqat ajoyib dastur,positive
 Chiroyli dastur va ishlatish uchun qulay,positive
 Bu eng yaxshi narsa,positive
@@ -3440,13 +3443,13 @@ Ajoyib ilova,positive
 Barakalla,positive
 Yaxshi dastur,positive
 Ajoyib,positive
-Bu menga yordam beradigan eng ko'p dastur bo'lib ba'zida qiyinchiliklarni engillashtiradi Bu beeline family ning har qanday a'zolari uchun tavsiya qilaman  Bek,positive
+Bu menga yordam beradigan eng ko'p dastur bo'lib ba'zida qiyinchiliklarni engillashtiradi Bu beeline family ning har qanday a'zolari uchun tavsiya qilaman Bek,positive
 Siladan iltomos mani chiqqanimni emas manga kirediganiniyam kursatedigan qilip ishlap chiqsalarin judayam Zo'r bular edi nur ustiga tur bular edi,positive
 Beeline katta ofislarini istemolchilarga hizmat kursatish sifatini amalga oshirishni uylash vaqti keldi,positive
 Vidjetni qollashda muammo mavjud Vidjetni ekranga qoo'yishda ekran oo'chib yonmoqda,positive
 zo'r ekanu oson oddiy va eng asoysiysi qulay,positive
 Salom sms ni detalziyasai qachon chqadi rahmat,positive
-Biz abanentlarga juda zo'r sovga bo'ldi bu ilova  Rahmat,positive
+Biz abanentlarga juda zo'r sovga bo'ldi bu ilova Rahmat,positive
 Alo Zo'r gap yuq,positive
 Menga juda ham yoqdi,positive
 Juda yaxshi dastur Hammangizni tekshirib ko'rishingiz mumkin,positive
@@ -3468,14 +3471,14 @@ Zo'r dastur Men uni ishlatishdan mamnunman Biroq xususiy raqamlar o'z vaqtida ko
 Oddiy tushunarli Kamchiligi ilovada faqat hisob haqida ma'lumotlarni berilishi Ilovada tariflar hizmatlar va yana shunga o'xshagan ma'lumotlarni topish mumkin bo'lsin Ilovani o'zida turib hohlagan ishini bajarish mumkin bo'lsin,positive
 Dastur juda qulay va foydali U manga yoqdi gap yo'q,positive
 Gap yup Zo'r Quqonga yana ofis ochilar navbat kutib zerikdik iltimos,positive
-Dastur zo'r  lekin aloqa sifati uncha yaxshi emas Internet 4G davlat ham juda sekin 30 Kb 25 Kb tezlikda ishlaydi,positive
+Dastur zo'r lekin aloqa sifati uncha yaxshi emas Internet 4G davlat ham juda sekin 30 Kb 25 Kb tezlikda ishlaydi,positive
 Har tomonlama qulay va pishiq ishlangan hatto detalizatsiya ham bor bu yanada zo'r,positive
 Offline dayam ishledigan yane net uchiqligida ishledigan bulsa yaxshi bulardi,positive
 Oxirgi yaxshilanishga gap yo'q Rahmat,positive
 Zo'r gap yo'q Hamma tomonlama qulay Kerakli narsani tezda topsa bo'ladi Rahmat,positive
-Bu juda Zo'r dastur menga yoqdi  dasturchilarga rahmat,positive
+Bu juda Zo'r dastur menga yoqdi dasturchilarga rahmat,positive
 Bileenega Gap yo'q lekin shahardan tawqarida sekin iwlavotti,positive
-Ishlatishga qulay  O'zbekcha ekanligi ham yaxshi ekan  Menga yoqdi,positive
+Ishlatishga qulay O'zbekcha ekanligi ham yaxshi ekan Menga yoqdi,positive
 Zooorrr Yangi imkoniyatlar kutib qolamiz,positive
 Dastur judayam ajayib gap yo'q,positive
 Ushbu dastur juda qulay biroq u oflayn usulda ishlamaydi,positive
@@ -3489,7 +3492,7 @@ Yaxshi alo gap yo'q,positive
 Ussd koflariniyam kiritib qoyilar,positive
 Yaxshi va foydali dastur,positive
 zo'r ekan menga yoqdi,positive
-ajoyib  ilovani men yaxshi ko'raman U istagan narsaga ega,positive
+ajoyib ilovani men yaxshi ko'raman U istagan narsaga ega,positive
 Zo'r gap yo'q,positive
 Juda zo'r qoyil,positive
 Foydalanish Judayam qulay,positive
@@ -3580,7 +3583,7 @@ Rahmatli bolalar,positive
 Men Beeline ni yaxshi ko'raman,positive
 Shunchaki gap yo'q dasturga Bunaqa dastur UMS va Ucellda ham bor lekin Beelineniki kabi mukammal emas O'zbekistonda 1raqamli Beeline,positive
 Ilovaga gap yo'q ayniqsa bonuslar berishi juda zo'r Beeline xaqiqatdan xam Xayotning yorqin tarafida olga beeline,positive
-Ilova yaxshi yaratilgan  Lekin tezligi pastrog'   online maslahatchiga ulanish qiyin bo'lyapti  Sizlarga Omad,positive
+Ilova yaxshi yaratilgan Lekin tezligi pastrog' online maslahatchiga ulanish qiyin bo'lyapti Sizlarga Omad,positive
 Ushbu dastur juda yaxshi lekin bir muammo bor ba'zan u porlaydi,positive
 Shu paytgacha Bilayn va uning tarufflarini qimmatlikda qalloblikda ayblab kelardim Endi esa afsusudama Katta rahmat,positive
 Ushbu dastur tomonidan berilgan ajoyib imkoniyat menga yoqadi Juda yaxshi,positive
@@ -3595,10 +3598,10 @@ Judayam zo'r judayam kerali,positive
 Beeline ilovasiga gap yo'q,positive
 Ilovaga Gap yuq Maladist Iwlarizga omad,positive
 Beeline foydalanuvchilari uchun yaxshi ilova,positive
-Thanks for Beeline Uzbekistan Kakand  Albert,positive
+Thanks for Beeline Uzbekistan Kakand Albert,positive
 Zo'r dastur Juda Qulay Juda Oson Va Juda Foydali,positive
-Men hayotimni va mening Bilayn ni yaxshi ko'raman Bilayn  bu yangi telefonni olishning ajoyib usuli,positive
-Ajoyib dastur  Dasturchilarga raxmat,positive
+Men hayotimni va mening Bilayn ni yaxshi ko'raman Bilayn bu yangi telefonni olishning ajoyib usuli,positive
+Ajoyib dastur Dasturchilarga raxmat,positive
 Beeline hamasidan alooo ok,positive
 Hayotning yorqin tarafida bo'l,positive
 Juda zo'r Hamma quleliklar bor,positive
@@ -3646,12 +3649,12 @@ Qulay dastur,positive
 uchun rahmat,positive
 Zo'r harop,positive
 Manga yoqti,positive
-hammasi  zo'r,positive
+hammasi zo'r,positive
 Juda zo'r,positive
 Juda zo'r,positive
 Juda Zo'r Juda yaxshi,positive
 Bu juda yaxshi,positive
-Gulrukh Amazing   Luv it,positive
+Gulrukh Amazing Luv it,positive
 Klass,positive
 Juda yaxshi,positive
 Ok,positive
@@ -3702,7 +3705,7 @@ eng yaxshi ilova,positive
 Yaxshi ish,positive
 Etarlicha yaxshi,positive
 Chiroyli ilova,positive
-Yaxshi  juda ko'p ,positive
+Yaxshi juda ko'p ,positive
 Daxshat ajoyib,positive
 Foydali,positive
 ajoyib,positive
@@ -3739,7 +3742,7 @@ yaxshi,positive
 A'lo,positive
 Juda yaxshi,positive
 Yaxshi,positive
-Ajoyib  gap yo'q,positive
+Ajoyib gap yo'q,positive
 Hech yomon emas,positive
 Katta o'zgarishlar kiritilibdi Juda zo'r interfeys Muammosi shundaki o'zbekcha versiyasida bir qancha so'zlarning yozilishi noto'g'ri va bo'sh joylarning borligidir Keyingi yangilanishlarda shularning to'g'rilanganligini kutib qolamiz,positive
 Maxfiy raqamni ham ko'rsatsa yaxshi bo'lardi detalezatsiada,positive
@@ -3782,12 +3785,12 @@ Nimaga uzbek tilidagi verseyasi yo'q ,positive
 Gooood juda zo'r,positive
 Gap yo'q DAXSHAT,positive
 Yaxshi dastur,positive
-Yaxshi lekin  Ko'p foydali ma'lumotlar bor lekin u ur muvozanatini ko'rsatuvchi vidjet bo'lsa yaxshi bo'ladi,positive
+Yaxshi lekin Ko'p foydali ma'lumotlar bor lekin u ur muvozanatini ko'rsatuvchi vidjet bo'lsa yaxshi bo'ladi,positive
 Stabil emas Ilova juda foydali rahmat lekin barqaror emas,positive
 Albatta men Bu ilovani yaxshi ko'raman,positive
 Zo'r yaxshi ish,positive
 Dasturga gap tuq ln qaysi nomer ulansa ushandan ussd ketadigan qilish kk teldan emas shu muamoni yechsela yaxshi bulardi,positive
-Haqiqatdan ham bu ilovaga gap  yuq judda kerakli malumotlarii barchasi shutda,positive
+Haqiqatdan ham bu ilovaga gap yuq judda kerakli malumotlarii barchasi shutda,positive
 Bu ajoyip qulaylik un kompaniyadan minnatdorman beeline doimo sen bilanmiz,positive
 Nega man buni salolmebman nima qilish kere saqlavolish uchun,positive
 Prilajeniya juda yaxshi Iltimos bazi bir kamchiliklarni tuzatinglar,positive
@@ -3937,7 +3940,7 @@ Ajoyib,positive
 Ajoyib,positive
 Ajoyib,positive
 Ajoyib,positive
-ajoyib  pullik joylarini tekin qisa zo'r bulardi,positive
+ajoyib pullik joylarini tekin qisa zo'r bulardi,positive
 Ajoyib asar,positive
 Ajoyib dastur yuklab olganizga achinmaysiz,positive
 Ajoyib dastur Ba'zi bir telefonsiz turolmaydigan insonlar uchun zo'r qo'llanma Odamlar buni o'qib va amalda qo'llasa jamiyatimizda tubdan ijobiy tomonga o'zgarishlar bo'ladi,positive
@@ -3961,7 +3964,7 @@ Akmal aka bu o'yinni qaysi dasturlash muhitida va qaysi dasturlash tilida yozgan
 Alhamdulillah Juda savobli ish qilibsizlar Bundan keyin ham doimiy yangilab turasizlar degan umiddamiz Shunday dastur qachon chiqar ekan deb o'ylanib yurardik,positive
 Hammasi yaxshi,positive
 O'BB bolalar uchun barcha yaxshi muammolar bu juda qulay,positive
-Alloh  Ustozdan rozi bo'lsin,positive
+Alloh Ustozdan rozi bo'lsin,positive
 Alloh barchalarimizdan sizlardan ham shayx hazratlari rohimahullohdan ham rozi bo'lsin,positive
 Alloh hayrli va manfaatli qilsin,positive
 Alloh ishlaringizga rivoj bersin,positive
@@ -3995,7 +3998,7 @@ Assalomu alaykum beep bonuslar sarflash chegarasini bir oy ichida o'n tadan ko'p
 Assalomu alaykum juda ajoyib ekan Alloh rozi bo'lsin Bir savol O'zbekiston hududidan tashqarida ishlatib bo'lmaydimi Hozir Yevropadaman bu yerni vaqtiga o'tkaza olmadim,positive
 Assalomu alaykum ushbu kitobni elektron shaklda ommaga yetkazib berganingiz uchun Alloh sizlardan rozi bo'lsin,positive
 Assalomu alaykum Oxirgi Updatedan so'ng Tafsir ochilmay yopilib ketyapti,positive
-Assalomu alekum  Farhkod Dadajonov menga juda yoqdi ayniqsa arab tili bolgani uchun Raxmat,positive
+Assalomu alekum Farhkod Dadajonov menga juda yoqdi ayniqsa arab tili bolgani uchun Raxmat,positive
 Assalomu aleykum shu dasturdi ochkanlar iltimos iloji bo'lsa reklamadagi ko'rsatilgan tv kanallaridiyam qoshinglar play marketegi ko'rsatilgan kanallarniyam,positive
 Ajoyib,positive
 Ajoyib,positive
@@ -4051,7 +4054,7 @@ Bu kuchli bu innavatsion bu pozitiv,positive
 Bu marketdegi yagona imlo lug'ati ekan Ajoyib yana shu sohada yangi dasturlar kutib qolamiz,positive
 Bu qulay dastur orqali endi oson O'zbekiston maxsulotlarini sotib olyapman va Koreadan O'zbekistonga sizlarni ishonchli va tez pochta orqali yuklarimni jonatmoqdamanIshlaringa rivoj,positive
 Bunaqa dasturlar ko'p bo'lishini xohlardim,positive
-Qo'llabquvvatlaydigan noma'lum xatoni tuzatsa bo'ladimi  Bu yaxshi ishlarga qaramay men ingliz tilidagi variant bilan ko'proq televizion shoularni o'tkazmoqchiman,positive
+Qo'llabquvvatlaydigan noma'lum xatoni tuzatsa bo'ladimi Bu yaxshi ishlarga qaramay men ingliz tilidagi variant bilan ko'proq televizion shoularni o'tkazmoqchiman,positive
 Yangilashdan so'ng televizorga translatsiya qilish mumkin emas Iltimos tuzatib qo'ying,positive
 Chidasa bo'ladi,positive
 Click ilovasiga dastlabki kirishda pin kiritish qotyapti Tez kirita olish kerak Ortiqcha qotiradigan animationlarni o'chirib qo'ysalaring yaxshi bo'lar edi,positive
@@ -4059,8 +4062,8 @@ qulay xizmat,positive
 Kundalik yangiliklar qiziqarli faktlar yoki boshqalar bu Ilovaga yoqadi,positive
 Daryo tashabbuskorlari va jonkuyarlariga mahalliy va xorijiy yangiliklarni uzluksiz e'lon qilib borishayotganliklariga rahmat,positive
 Daryo to'g'ri narsa ya'ni rost narsalarni yuboradi deb o'ylaymiz,positive
-Daryo zo'r sayt Lekin rasmni yuklab olish funksiyasini qo'shsayiz nur ustiga  nur bo'lardi,positive
-Dasrurch juda yaxshi ishlangan Saytdagi deyarli hamma ma'lumotlar   men uchun qiziqarli Sayt jurnalistlari ham proffessional darajada barakalla,positive
+Daryo zo'r sayt Lekin rasmni yuklab olish funksiyasini qo'shsayiz nur ustiga nur bo'lardi,positive
+Dasrurch juda yaxshi ishlangan Saytdagi deyarli hamma ma'lumotlar men uchun qiziqarli Sayt jurnalistlari ham proffessional darajada barakalla,positive
 Dastur faoliyatini ijobiy baholayman lekin ba'zida imlo xatolari ham topiladi shunga e'tiborli bo'lishingizni so'rardim rahmat Faoliyatingizga omad,positive
 Dastur Juda ajoyib,positive
 dastur juda yaxshi ekan rossiyada turib o'zbekistonda turganday dastur egasiga katta raxmat,positive
@@ -4107,7 +4110,7 @@ Toshkentga kelgan va shahar atrofida harakat qilishni istaganlar uchun ajoyib da
 Excellent Ilova,positive
 Zo'r xizmat ,positive
 Zo'r,positive
-Zo'r Ammo iltimos ko'p sonli to'lovlar xususan UzMobile bilan aloqa funksiyasini qo'shing  Iris brauzerni ham qo'shing,positive
+Zo'r Ammo iltimos ko'p sonli to'lovlar xususan UzMobile bilan aloqa funksiyasini qo'shing Iris brauzerni ham qo'shing,positive
 Zo'r Ma'lumotlar tarmog'ida ulangan bo'lsa ham mening Bilayn raqamining ma'lumoti haqidagi ma'lumotni taqdim etadi,positive
 Faqat kelajakda o'zbek tilini ham qo'shsayiz yaxshi bo'lardida,positive
 tez va xavfsiz pul to'lash pul olishni taklif qilaman bularni har kimga tavsiya etaman,positive
@@ -4129,7 +4132,7 @@ Gap yo'q,positive
 Gap yo'q,positive
 Gap yo'q,positive
 bo'sh joy yo'q,positive
-Gap yo'q  lekin ajoyib,positive
+Gap yo'q lekin ajoyib,positive
 Gap yo'q ishlayapti,positive
 Gap yo'q juda ham foydali dastur ekan Ishlarizga omad Bundanda ajoyib dasturlar kutib qolamiz,positive
 Gap yo'q O'zbekiston,positive
@@ -4217,7 +4220,7 @@ GREAT,positive
 Ha zor ilova ekanBoshqalar ham maslahat beramanHaqiqatdan ham qulaylik berar ekan,positive
 Hajmi kichik Foydali Bugungi kunning Applicationi,positive
 Hali oqimapmab lekin yaxshi deb,positive
-Halol go'shtlar to'plamini yutib olishni xohlardim  Bozorakaga rahmat,positive
+Halol go'shtlar to'plamini yutib olishni xohlardim Bozorakaga rahmat,positive
 Hamasi joyida shu beeline abanentlariga bepul qilganlaringdan keyin qotib qolyapti oqish qiyinlashdi,positive
 hamburger qismida yozuv katakchalari kurinmay qoldi uyogiga utiwning iloji yuq,positive
 Hammasi ajoyib,positive
@@ -4233,7 +4236,7 @@ Bir necha haftadan buyon foydalanganmisiz va u juda foydali ekanini topdik Menin
 Foydali,positive
 Salom men bu ilovani ajoyib deb bilaman Orifxon Zunnunov tomonidan yaratilgan,positive
 hijriy sanaga aniqlik kiriting iltimos,positive
-Qiziqarli o'yin  Yaxshi ishni bajaring,positive
+Qiziqarli o'yin Yaxshi ishni bajaring,positive
 Homiladorlaga judayam foydali dastur ekan,positive
 Hurmatli sayt egalari Sizlarga ulkan minnatdorchilik bildiraman Bu narsani anchadan beri orzu qilardim elektron varianti chiqishini Alloh sizlardan rozi bo'lsin va bundan keyingi qiladigan ishlarizgizga rivoj va barakot bersin Rahmat,positive
 Men faqatgina bir narsani aytishim mumkinki bu juda uzoq vaqt davom etadigan video antlarni tomosha qilishda bir oz muammodir,positive
@@ -4259,16 +4262,16 @@ Men tashiydigan odam ushbu ilovani o'rnatishi kerak deb o'ylayman,positive
 Men uni teztez ishlataman Ajoyib musiqa ilovasi,positive
 Men odatda ushbu ilovadan foydalanaman Menga yoqdi,positive
 Men haydovchiga baho bermasdan takroriy foydalanishi mumkin,positive
-Men sizlarga yana bir necha ta'riflar qo'shib qo'yishni tilayman  lekin umuman olganda  ajoyib,positive
+Men sizlarga yana bir necha ta'riflar qo'shib qo'yishni tilayman lekin umuman olganda ajoyib,positive
 Men ushbu ilovani birinchi marta ishlatmoqdaman Endi u yaxshi ishlaydi ijodkorlar uchun tashakkur omad,positive
 Idea zo’r Iloji bo’sa yengi gapla qo’shila boshqa kinoladan yo’ki prikolladan,positive
 Iloji bo'lsa haydovchilarni huquqlarini korsatuvchi kitob bolsa undanam yahshiriq bolardi,positive
 Iloji bòlsa har bitta sòzga example ham bersela judayam zòr dictionary bòlardi,positive
 Iloji busa,positive
-Ilova bu O'zbekistondagi eng yaxshi axborot kanali Daryo va shunga o'xshash kanallar umuman Ilova bilan raqobat qila olmaydi  Ilova jurnalislariga omad tilab qolaman,positive
+Ilova bu O'zbekistondagi eng yaxshi axborot kanali Daryo va shunga o'xshash kanallar umuman Ilova bilan raqobat qila olmaydi Ilova jurnalislariga omad tilab qolaman,positive
 Ilova ga gap yo'q Uzbekistonda NO 1,positive
 Ilova ijodkorlariga omad Faqat olg‘a bosinglar,positive
-Ilova ilovasi zo'r faqat imloviiy lotincha imloviy xatolarni kamaytirish kerak  Va xar bir post tagida komentariy qoldirish funksiyasini qo'shsanglar nur ustiga a'lo nur bo'lar edi,positive
+Ilova ilovasi zo'r faqat imloviiy lotincha imloviy xatolarni kamaytirish kerak Va xar bir post tagida komentariy qoldirish funksiyasini qo'shsanglar nur ustiga a'lo nur bo'lar edi,positive
 Ilova juda yaxshi va tomosha qilish uchun foydalidir,positive
 Ilova maqsadi aniqlar uchun eng yaxshi do'st Ijodkorlarga minnatdorchilik bildiramiz,positive
 Ilova uchun katta raxmat,positive
@@ -4316,12 +4319,12 @@ Uning konfiguratsiyasi juda yaxshi,positive
 Uning oddiy oddiygina tp foydalanish,positive
 Iye rahmat Bu Ilova dan tepada turganni ishlatib ko'rdim harflar lotin alifbosidamas kril harflar bilan yozsam ham chiqarmadi Bu yaxshi ekan Rahmat,positive
 Javobni qachon olaman,positive
-Juda  yaxshi kitob katta rahmat,positive
+Juda yaxshi kitob katta rahmat,positive
 Juda ajoyib,positive
 Juda ajoyib,positive
 Juda ajoyib,positive
-Juda ajoyib programma ham qulay va yana bonuslar  O'z nomi bilan bepul,positive
-Juda ajoyib she'rlar mavjud  Yoqimli she'rlar,positive
+Juda ajoyib programma ham qulay va yana bonuslar O'z nomi bilan bepul,positive
+Juda ajoyib she'rlar mavjud Yoqimli she'rlar,positive
 Juda ajoyib va foydali dastur ekan,positive
 Juda ajoyib,positive
 Juda ajoyip va oson har taraflama qulay,positive
@@ -4330,7 +4333,7 @@ Juda aloooo,positive
 Juda foydali dastur,positive
 Juda foydali dastur ekan Yangiliklar kiritib turishdan charchamaylar ishlaringga rivoj Dasturni barchaga tavsiya qilaman,positive
 juda foydali ekan tavsiya qilaman,positive
-Juda foydali  Ayniqsa uydan uzoqda onalarimiz opalarimiz pishirgan ovqatlarni soginganda juda asqotyapti,positive
+Juda foydali Ayniqsa uydan uzoqda onalarimiz opalarimiz pishirgan ovqatlarni soginganda juda asqotyapti,positive
 Juda foydalik Ilova Katta rahmat,positive
 juda ham ajoyib dastur ekan,positive
 Juda ham ajoyib Reklamalardan holi,positive
@@ -4342,7 +4345,7 @@ Juda ham zo'r ayniqsauyda bir o'zing bo'lganingda juda ham asqotadigan dastur Mi
 Juda ham zo'r Oson va qulay,positive
 Juda ham zur Ilova Men anchadan beri shunday Ilova qidirayotgan edim Alloh rozi bo'lsin,positive
 Juda kerakli dastur raxmat,positive
-Juda kerakli davr talab dastur   Mana shu dasturga yoki alohida boshqa dastur orqali O'zbek tilining izoh lug'ati ni ham chiqarsa bo'larmikan Keng ommaga qaratilgan yaxshi ish bo'lar edi,positive
+Juda kerakli davr talab dastur Mana shu dasturga yoki alohida boshqa dastur orqali O'zbek tilining izoh lug'ati ni ham chiqarsa bo'larmikan Keng ommaga qaratilgan yaxshi ish bo'lar edi,positive
 Juda kerek edi raxmat,positive
 Juda kerele dastur,positive
 Juda mukammal,positive
@@ -4357,7 +4360,7 @@ Juda yaxshi Ilova favoritsga 1 ta so'z qoysa tamom ekan Koproq sozni favorite qi
 Juda yaxshi kitob,positive
 Juda yaxshi kitob ekan,positive
 Juda yaxshi Ko'p taomlar o'rganish mumkin,positive
-Juda yoqdu kitobni 3qismi qachon chiqar ekan  Olloh rozi bulsin,positive
+Juda yoqdu kitobni 3qismi qachon chiqar ekan Olloh rozi bulsin,positive
 Juda zo'r,positive
 Juda zo'r,positive
 Juda zo'r,positive
@@ -4371,7 +4374,7 @@ Juda zo'r Gap yo'q,positive
 Juda zo'r Uydagilarga asqotadigan ilova,positive
 juda zur qoil androidniki kup bulsin,positive
 Judaham zo'r programma ammo yuklab olish qiyin ekan,positive
-Judayam  ajoyib dastur chiqibdi yangiliklarni bundanam tez chiqarasizla deb umid qilamiz ayniqsa menga dunyo yangiliklari judayam yoqadi,positive
+Judayam ajoyib dastur chiqibdi yangiliklarni bundanam tez chiqarasizla deb umid qilamiz ayniqsa menga dunyo yangiliklari judayam yoqadi,positive
 Judayam foydali Katta raxmat shu dasturni yaratganinglar uchun,positive
 Judayam qulay foydalanish va xolis yangiliklar oqimi eng qiziqarli va ajoyib maqolalar Jurnalistlar va boshqa hodimlar ishlarizga rivoj doyim omadli bo'linglar,positive
 Judayam qulay sayt Yaxshiham shu bozoraka borligi,positive
@@ -4405,7 +4408,7 @@ Ko'p rahmat Alloh xayrilani bersin,positive
 Koproq ozbeklarni tarixi haqida kitoblar bo'lsa yaxshi bo'lardi,positive
 Kotta rahmat Uchinchisi qachon chiqadi intizor kutyapmiz,positive
 Kuproq invistitsiyalar yunalishida va jinoyi tudalar qolaversa ularning qulga olingaligi xaqida bulsa yanayam qiziqarli bulardi ,positive
-Lotincha yozuvda bosa undanam  zo'r bolardigap yo'q zor,positive
+Lotincha yozuvda bosa undanam zo'r bolardigap yo'q zor,positive
 Loyiha ajoyib Arabicinsofuz ni ham dasturi chiqariladimi Ya'ni arab harflaridagi o'zbek alifbosiga o'girish va undan lotinkrillga o'girish imkoni bo'lgan dastur ham chiqadimi,positive
 Lug'at yaxshi tuzilganammo yangi zamonaviy so'zlaratamalar keng doirada emaslug'at boyligini yana ham oshirsangizlar maqsadga muvofiq bo'lar edi,positive
 Lug'at zo'r Rahmat Nurmuhammad aka Yangi ilovani kutib qolamiz,positive
@@ -4424,7 +4427,7 @@ Mehnatingiz uchun rahmat,positive
 menga bu ilova juda yoqdi chunki bu ilovadan o'zingizga kerakli malumotlarni topa olasiz,positive
 Menga ilova yoqdi juda zo'r,positive
 Menga juda yoqdi wu kitob hammaga tavsiya qilaman olila,positive
-Menga juda yoqdi Foydali dastur Faqat so'zlarni offline    tekshirib ko'rish yo'q ekanda,positive
+Menga juda yoqdi Foydali dastur Faqat so'zlarni offline tekshirib ko'rish yo'q ekanda,positive
 menga yoqdi,positive
 Mengga yoqdi,positive
 Miyani charxlaydigan o'yin ekan,positive
@@ -4437,7 +4440,7 @@ Mp3 larini aniqroq va tartibli joylashtirilar duolarni topaolmadim,positive
 Mukammal darajadagi kitob,positive
 Mukammal,positive
 Mumkin bo'lsa o'zbek tilida izohli lug'at dasturini kutib qolamiz,positive
-Mening eng yuqori darajam  bu sizning O'zbekistoningizdan Avstraliyani mag'lub etganingiz va men Avstraliyadagi Immani bo'lganimdan ammo men mamlakatingizda tug'ilganman,positive
+Mening eng yuqori darajam bu sizning O'zbekistoningizdan Avstraliyani mag'lub etganingiz va men Avstraliyadagi Immani bo'lganimdan ammo men mamlakatingizda tug'ilganman,positive
 Xotinim bu ilovani juda ko'p sevadi Ajoyib xizmat O'z vaqtida etkazib beradigan sifatli mahsulotlar Eng yaxshi tilaklar,positive
 Narmalnii,positive
 Ilovaning ayrim qismlarida o'zgaruvchan tillarda xatolar kabi ishlamoq kerak Ba'zan ular mos emas,positive
@@ -4538,14 +4541,14 @@ RAXMAT YOQDI,positive
 Raxmat Zo'rakan,positive
 Raxmat O'qib tekshirib Bazi harflarni to'g'irlab qo'ysayzla yanayam yaxshi bo'lardi,positive
 Raxmat ALLOH rozi bolsin,positive
-Razrabotchiklarga kotta rahmat Programma qo'llashga juda qulay  Ayniqsa avtobuslar va ularning yo'nalishlari mavjudligi juda ham ma'qul bo'ldi Keyingi ishlaringa omad Obnovleniyalarni kutib qolamiz,positive
+Razrabotchiklarga kotta rahmat Programma qo'llashga juda qulay Ayniqsa avtobuslar va ularning yo'nalishlari mavjudligi juda ham ma'qul bo'ldi Keyingi ishlaringa omad Obnovleniyalarni kutib qolamiz,positive
 Albatta yaxshi ilova biroz qimmatroq bo'lsa,positive
 really useful Ilova,positive
 Sizga bu ilovani tavsiya etsangiz sizda mg ko'p bo'ladi,positive
 Rivojlantirishdan toxtamela,positive
 Ro'r faqat 1 ta kamchilligi bor unga so'zlarni tallaffuz qilishni ham qo'shilsa juda alo bo'lardi,positive
 rossa men bop ilova ekankuu,positive
-Salom Paycom hodimlari qachondan boshlab Mikrokreditbank Agrobank va  Hamkorbank plastik kartalaridan uzcard tizimi orqali plastik kartalarga o'zaro pul o'tkazish mumkin men harakat qilib ko'rdim hozircha ishlamayotgan ekan Rahmat,positive
+Salom Paycom hodimlari qachondan boshlab Mikrokreditbank Agrobank va Hamkorbank plastik kartalaridan uzcard tizimi orqali plastik kartalarga o'zaro pul o'tkazish mumkin men harakat qilib ko'rdim hozircha ishlamayotgan ekan Rahmat,positive
 Salom zo'r qibszlar bu galgi programani agar iloji bo'sa beeline programsda qongroqlari boshqarsa bo'ladi xisobbi qatga nimaga sarflaganini bilsa bo'ladi iloji bo'sa szlarxam wu qoshmchalari qoshsez yaxwi bo'lardi,positive
 Seni sigir mol ekansanu Har doim eng yaxshi ovoz effektlari Aki ajoyib ish,positive
 Sevgi bu ajoyib tuyg'u bu ilova zo'r ekan,positive
@@ -4571,11 +4574,11 @@ Super,positive
 Super,positive
 Super,positive
 Super,positive
-Super  super  super  Ilova,positive
+Super super super Ilova,positive
 Super ayni odamlarga hozirgi kundagi zarur narsani qilibsizlar,positive
 Super,positive
 Suuuper,positive
-Taklif bor terminal orqali  to'lash mumkin  bo'lsin shunda  yaxshi  b'olardi va makro marketni ham  qo'shsa yaxshi bo'ladi,positive
+Taklif bor terminal orqali to'lash mumkin bo'lsin shunda yaxshi b'olardi va makro marketni ham qo'shsa yaxshi bo'ladi,positive
 Taomlar xilmaxilligini oshirish kerak Ba'zi an'anaviy O'zbek oilalarida eng ko'p tayyorlanadigan taomlar yo'q,positive
 Tarifga til ojiz Megabayt kam ketishi va tasixdaligi juda yoqdi,positive
 Tavsiya qilaman Juda zo'r chiqqan Namoz vaqtlarini bilish va yaqin atrofdagi masjidlarni topish ancha oson ekan,positive
@@ -4639,7 +4642,7 @@ Uzgarish bor,positive
 Uzi saytga kirib har kun xabarlardi uqiyardim Endi qulayroq bulibti Juda zur Super,positive
 V yaxshi aap,positive
 Variyantlar yoqligi yomon bolibdida variantli vereiyasiham bolsa yaxshi bolardi,positive
-Vawe  zor  programma ekangap yoq,positive
+Vawe zor programma ekangap yoq,positive
 juda yaxshi,positive
 Kino tomosha qilish uchun juda qulay,positive
 juda qulay,positive
@@ -4686,7 +4689,7 @@ Yanada kop zona qoshilar,positive
 Yangi interfeys juda xunuk Ekranga to'g'ri kelmayapti Oldingi update da yaxshi edi Ilojisi bo'lsa shuni fix qilishga harakat qilinglar rahmat,positive
 Yangi ko'rinish juda chiroyli chiqibdi,positive
 Yangi reseptlaram qushib turinglar,positive
-Yangi versiyasi  juda ham qulay ekan Mb kam ketishi bilan boshqa ilovadan farqi bor ekan Ishilaga omad siladan yangidan yangi xabarlar kutamiz,positive
+Yangi versiyasi juda ham qulay ekan Mb kam ketishi bilan boshqa ilovadan farqi bor ekan Ishilaga omad siladan yangidan yangi xabarlar kutamiz,positive
 yangi versiyasi yangilanganda qulay bo'libdi katta rahmat Alloh rozi bo'lsin,positive
 yangi versiyasini ishlab chiqishga iloji bormi bizning telga tushsa qatip qolyapti apk,positive
 yangilash tahminan qachonlarga bo'ladi,positive
@@ -4709,10 +4712,10 @@ Yaxshi,positive
 Yaxshi,positive
 yaxshi bo'ladi,positive
 Yaxshi chiqibdi lekin,positive
-Yaxshi dastur ishlab chiqilgan Ucell abonentiman Lekin dasturda kunlik internet paketi mavjud emas ekan Shuni ham e'tiborga olsangiz yaxshi bo'lar edi  ,positive
+Yaxshi dastur ishlab chiqilgan Ucell abonentiman Lekin dasturda kunlik internet paketi mavjud emas ekan Shuni ham e'tiborga olsangiz yaxshi bo'lar edi ,positive
 Yaxshi deb o'ylayman,positive
-Yaxshi iloji bosa koproq xabarlani  videoli qilip ishlansa yaxshi bolardi sabapi xozirda vaqt shunaqa tez otmoqtaki xammayam oqip otirishga vaqt yoq,positive
-Yaxshi Ilova  yangiliklar lentasi bazida yangilanmay eski holatda qolib ketayapti,positive
+Yaxshi iloji bosa koproq xabarlani videoli qilip ishlansa yaxshi bolardi sabapi xozirda vaqt shunaqa tez otmoqtaki xammayam oqip otirishga vaqt yoq,positive
+Yaxshi Ilova yangiliklar lentasi bazida yangilanmay eski holatda qolib ketayapti,positive
 Yaxshi ilova ,positive
 Yaxshi Ilova boshqalarga ham o'rnatishni maslahat beraman,positive
 Yaxshi ilova ekan ammo qoidalarni alohida bandlarini topish un kop vaqt ketarkan Qoidalarni xam jarimalar singgari iwlab chiqilsa ajoyib bolardi,positive
@@ -4723,7 +4726,7 @@ Yaxshi iwlangan ammo ba'zi bir so'zlarning kamchiligi to'ldirilganda a'lo bulard
 Yaxshi lekin vidyolarni ochmayapti ummuman shuni togrelar,positive
 Yaxshi lug'at Komandirovkada juda asqotayapdi,positive
 Yaxshi,positive
-Yaxshi Muxtasarniyam  chiqaring,positive
+Yaxshi Muxtasarniyam chiqaring,positive
 Yaxwi,positive
 yaxwi malumotlarga ega sayt ekan terabaytuz,positive
 yo'qdan ko'ra bor,positive
@@ -4869,9 +4872,9 @@ Ko'pchilik buni kutib turganligiga aminman Rahmat Kattasiy,positive
 Qulaylik,positive
 qulay va batafsil,positive
 Qulay va qulay,positive
-Qulaylik  Lekin o'zgartirish kerak,positive
+Qulaylik Lekin o'zgartirish kerak,positive
 Qulay dastur lekin Samsung noutbukda 3 fonda doimiy xatolar mavjud,positive
-Qulay ilovalar Lekin Payme orqali oldindan to'lov  manfiy Va Arba kabi hech qanday chiqish terminali mavjud emas Bundan tashqari manfiy,positive
+Qulay ilovalar Lekin Payme orqali oldindan to'lov manfiy Va Arba kabi hech qanday chiqish terminali mavjud emas Bundan tashqari manfiy,positive
 Yaxshi fikr va juda yaxshi interfeys yaxshi bajarilgan rivojlanish,positive
 Yaxshi dastur,positive
 Yaxshi dastur,positive

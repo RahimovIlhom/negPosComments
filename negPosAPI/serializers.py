@@ -24,5 +24,5 @@ class CommentSerializers(serializers.ModelSerializer):
 
     class Meta:
         model = Comment
-        fields = ['id', 'comment', 'type', 'author_id', 'article_id', 'created_at', 'url']
+        fields = ['id', 'comment', 'type', 'field', 'author_id', 'article_id', 'created_at', 'url']
         write_only_fields = ['author_id', 'article_id']
