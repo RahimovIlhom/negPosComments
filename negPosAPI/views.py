@@ -3,6 +3,7 @@ from rest_framework import viewsets, status
 from rest_framework.permissions import IsAuthenticated, IsAdminUser
 from rest_framework.response import Response
 from .checkComment.checkComment import checkText
+from .checkComment.classificationText import checkNegComment
 from .models import Article, Comment
 from .pagination import CustomPagination
 from .serializers import ArticleSerializers, CommentSerializers
@@ -95,10 +96,9 @@ class CommentViewSet(viewsets.ViewSet):
             serializer.save()
             commentNew.comment = serializer.validated_data['comment']
             checkC = checkText(commentNew.comment.lower())
-            if checkC['label'] == 1:
-                commentNew.type = 'Positive'
-            else:
-                commentNew.type = 'Negative'
+            commentNew.type = checkC['label']
+            if checkC['label'].lower() == 'negative':
+                commentNew.field = checkNegComment(commentNew.comment.lower())
             commentNew.save()
             serializer = CommentSerializers(commentNew, context=self.get_serializers_context())
             return Response(serializer.data, status=status.HTTP_201_CREATED)
