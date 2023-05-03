@@ -2,8 +2,8 @@ from django.shortcuts import get_object_or_404
 from rest_framework import viewsets, status
 from rest_framework.permissions import IsAuthenticated, IsAdminUser
 from rest_framework.response import Response
-from .checkComment.checkComment import checkText
-from .checkComment.classificationText import checkNegComment
+from negPosAPI.checkComment.checkComment import checkText
+from negPosAPI.checkComment.classificationText import checkNegComment
 from .models import Article, Comment
 from .pagination import CustomPagination
 from .serializers import ArticleSerializers, CommentSerializers
@@ -97,6 +97,7 @@ class CommentViewSet(viewsets.ViewSet):
             commentNew.comment = serializer.validated_data['comment']
             checkC = checkText(commentNew.comment.lower())
             commentNew.type = checkC['label']
+            print(commentNew.type)
             if commentNew.type == 'negative':
                 commentNew.field = checkNegComment(commentNew.comment.lower())['label']
             commentNew.save()

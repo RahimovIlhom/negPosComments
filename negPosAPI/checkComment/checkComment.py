@@ -14,7 +14,7 @@ file_path = os.path.join(os.getcwd(), 'negPosAPI', 'checkComment', 'negPosWords.
 
 def checkText(text: str, dataFile: str = file_path) -> dict:
     # Load the data into a Pandas dataframe
-    data = pd.read_csv(f'{dataFile}')
+    data = pd.read_csv(f'{dataFile}', on_bad_lines='skip')
 
     # Augment the data
     data = pd.concat([data, data.sample(frac=0.5, random_state=42)], ignore_index=True)
