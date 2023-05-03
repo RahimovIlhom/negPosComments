@@ -5,9 +5,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 
-additions = ['gacha', 'tacha', 'siz', 'sizlar', 'gan', 'dagi', 'ning', 'ni',
+additions = ['lar', 'gacha', 'tacha', 'siz', 'sizlar', 'gan', 'dagi', 'ning', 'ni',
              'ga', 'da', 'dan', 'cha', 'oq', 'dek', 'la', 'qa', 'ta', 'chi', 'li', 'si',
-             'ki', 'gi', 'ti', "g'i", 'i', 'im']
+             'ki', 'gi', 'ti', "g'i", 'i', 'im', 'lar']
 
 file_path = os.path.join(os.getcwd(), 'negPosAPI', 'checkComment', 'negPosWords.csv')
 
