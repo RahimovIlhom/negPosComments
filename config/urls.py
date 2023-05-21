@@ -24,7 +24,6 @@ from config.api import router
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('admin', admin.site.urls),
     path('', include(router.urls)),
     path('', include('negPosAPI.urls')),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
